@@ -5,12 +5,17 @@ REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 cd "${REPO_ROOT}"
 
 echo "==> public hygiene: forbidden files"
-for path in .git .build Package.resolved .DS_Store; do
+for path in .build Package.resolved .DS_Store; do
   if [[ -e "${path}" ]]; then
     echo "Forbidden staging artifact present: ${path}" >&2
     exit 1
   fi
 done
+
+if [[ "${RHOE_MARKDOWN_REQUIRE_NON_GIT_STAGING:-0}" == "1" && -e .git ]]; then
+  echo "Forbidden pre-git staging artifact present: .git" >&2
+  exit 1
+fi
 
 python3 - <<'PY'
 from pathlib import Path
