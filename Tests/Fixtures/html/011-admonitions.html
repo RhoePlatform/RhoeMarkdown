@@ -1,0 +1,159 @@
+<h1 id="admonitions-test-suite" data-rhoe-node="heading">Admonitions Test Suite</h1><h2 id="basic-admonitions" data-rhoe-node="heading">Basic Admonitions</h2><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Note</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is a simple note admonition.
+</p></div>
+</div><div class="admonition admonition-warning" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">⚠️</span>
+Warning</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is a warning message that should catch attention.
+</p></div>
+</div><div class="admonition admonition-danger" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">🚨</span>
+Danger</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is a danger/error admonition for critical information.
+</p></div>
+</div><div class="admonition admonition-tip" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">💡</span>
+Tip</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is a helpful tip for users.
+</p></div>
+</div><div class="admonition admonition-info" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Info</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is an informational admonition with additional context.
+</p></div>
+</div><h2 id="custom-titles" data-rhoe-node="heading">Custom Titles</h2><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Custom Note Title</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This note has a custom title instead of the default.
+</p></div>
+</div><div class="admonition admonition-warning" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">⚠️</span>
+⚠️ Important Warning</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">Custom titles can include emojis and special characters.
+</p></div>
+</div><h2 id="collapsible-admonitions" data-rhoe-node="heading">Collapsible Admonitions</h2><details class="admonition admonition-note" data-rhoe-node="admonition">
+<summary class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Note</summary>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is a collapsible note that starts closed.
+</p></div>
+</details><details class="admonition admonition-warning" data-rhoe-node="admonition" open="">
+<summary class="admonition-title">
+<span class="admonition-icon">⚠️</span>
+Expanded by Default</summary>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This collapsible admonition starts in an expanded state.
+</p></div>
+</details><h2 id="nested-content-in-admonitions" data-rhoe-node="heading">Nested Content in Admonitions</h2><div class="theorem-env theorem-example">
+<p class="theorem-header" style="font-weight: bold">Example. (Complex Example)</p>
+<div class="theorem-body">
+<p data-rhoe-node="paragraph">Admonitions can contain multiple block elements:</p><ul data-rhoe-node="list">
+<li>Lists work fine</li>
+<li><p data-rhoe-node="paragraph">Including nested items</p><ul data-rhoe-node="list">
+<li>Like this one
+
+</li>
+</ul></li>
+</ul><pre><code class="language-python" data-rhoe-node="code"># Code blocks are supported
+def example():
+    return &quot;Hello from admonition!&quot;
+</code></pre><p data-rhoe-node="paragraph">Even blockquotes work inside admonitions</p><p data-rhoe-node="paragraph">And <strong>formatted</strong> <em>text</em> with <code>inline code</code>.
+</p></div>
+</div><h2 id="multiple-paragraphs" data-rhoe-node="heading">Multiple Paragraphs</h2><div class="admonition admonition-info" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Multi-paragraph Info</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is the first paragraph of the admonition.</p><p data-rhoe-node="paragraph">This is the second paragraph, separated by a blank line.</p><p data-rhoe-node="paragraph">And a third paragraph with a <a href="https://example.com">link</a>
+</p></div>
+</div><h2 id="nested-admonitions" data-rhoe-node="heading">Nested Admonitions</h2><div class="admonition admonition-warning" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">⚠️</span>
+Outer Warning</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is the outer admonition.</p><div class="admonition admonition-danger" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">🚨</span>
+Nested Danger</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">This is a nested admonition inside another one.</p><div class="admonition admonition-tip" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">💡</span>
+Deeply Nested</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">Admonitions can be nested multiple levels deep.
+</p></div>
+</div><h2 id="admonitions-with-attributes" data-rhoe-node="heading">Admonitions with Attributes</h2><p data-rhoe-node="paragraph">This admonition has Pandoc-style attributes.
+</p></div>
+</div><h2 id="edge-cases" data-rhoe-node="heading">Edge Cases</h2><p data-rhoe-node="paragraph">Admonition without a type (should default to note).
+</p></div>
+</div><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">Admonition with empty title.
+</p></div>
+</div><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Title Only</p>
+<div class="admonition-content">
+<div class="admonition admonition-success" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">✅</span>
+Success Message</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">✅ Operation completed successfully!
+</p></div>
+</div><div class="admonition admonition-question" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">❓</span>
+FAQ</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">What happens when we use a question type?
+</p></div>
+</div><div class="admonition admonition-quote" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">💬</span>
+Famous Quote</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">&quot;The only way to do great work is to love what you do.&quot;
+</p><blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">— Steve Jobs</p>
+</blockquote></div>
+</div><h2 id="combined-features" data-rhoe-node="heading">Combined Features</h2><p data-rhoe-node="paragraph">This combines:
+</p><ul data-rhoe-node="list">
+<li>Collapsible state (expanded)</li>
+<li>Custom title</li>
+<li>Pandoc attributes</li>
+<li>Complex content
+
+</li>
+</ul><pre><code class="language-javascript" data-rhoe-node="code">// With syntax highlighting
+const greeting = (name) =&gt; {
+    return `Hello, ${name}!`;
+};
+</code></pre><p data-rhoe-node="paragraph">---------|---------|
+| Nesting | ✅ Yes  |
+| Code    | ✅ Yes  |
+| Tables  | ✅ Yes  |
+</p></div>
+</div>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    line-height: 1.6;
+}
+code {
+    font-family: ui-monospace, SFMono-Regular, monospace;
+    background: #f3f4f6;
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+}
+pre code {
+    display: block;
+    padding: 1rem;
+    overflow-x: auto;
+}
+blockquote {
+    border-left: 4px solid #d1d5db;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    color: #4b5563;
+}
+</style>
+</head>
+<body>
+<blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Run: <code>rhoemd Examples/sources/project-brief.md -o Examples/outputs/project-brief.html --format html --css --pretty</code></p>
+</blockquote>
+<section id="atlas-handoff" class="brief" data-rhoe-node="Section"><h1>Project Brief: Atlas Handoff Lane</h1><blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Goal: turn a rough implementation brief into a certified workstream kickoff.</p>
+</blockquote><div class="admonition admonition-tip" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">💡</span>
+Why this is a good Markdown example</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">Briefs combine prose, decisions, tables, checklists, and code snippets. They are
+also the kind of document teams actually revise together.
+</p></div>
+</div><section id="scope" data-rhoe-node="Section"><h2>Scope</h2><ol data-rhoe-node="list">
+<li>Ingest the briefing pack.</li>
+<li>Normalize it into a stable kickoff document.</li>
+<li>Register the implementation lane.</li>
+<li>Track reports back to Control Tower.</li>
+</ol></section><section id="decision-table" data-rhoe-node="Section"><h2>Decision Table</h2><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Decision</th>
+<th scope="col">Default</th>
+<th scope="col">Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Branch naming</td>
+<td><code>codex/&lt;lane&gt;</code></td>
+<td>keeps sessions searchable</td>
+</tr>
+<tr>
+<td>Reports</td>
+<td>Markdown</td>
+<td>easy to diff and archive</td>
+</tr>
+<tr>
+<td>Closeout</td>
+<td>required</td>
+<td>prevents silent drift</td>
+</tr>
+</tbody>
+</table></section><section id="kickoff-shape" data-rhoe-node="Section"><h2>Kickoff Shape</h2><pre><code class="language-yaml" data-rhoe-node="code">lane: hero-lane
+status: greenlit
+owner: implementation-session
+reports:
+  cadence: sprint
+  format: markdown
+</code></pre></section><section id="acceptance-criteria" data-rhoe-node="Section"><h2>Acceptance Criteria</h2><ul data-rhoe-node="list">
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled> The workstream can start from the kickoff alone.</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled> The registry knows owner, status, and next report path.</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled> The closeout document states what shipped and what remains.</li>
+</ul></section><section id="review-prompt" data-rhoe-node="Section"><h2>Review Prompt</h2><p data-rhoe-node="paragraph">When the lane reports back, the control tower should ask three questions:</p><ul data-rhoe-node="list">
+<li>Did the implementation match the kickoff intent?</li>
+<li>Did the report include evidence, not just summary?</li>
+<li>Is the next sprint greenlit, blocked, or redirected?</li>
+</ul></section></section>
+</body>
+</html>

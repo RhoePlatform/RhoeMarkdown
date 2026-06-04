@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "package": "RhoeMarkdown",
+  "release": "0.1.0",
+  "description": "Self-contained public gallery of runnable RhoeMarkdown examples.",
+  "examples": [
+    {
+      "id": "research-note",
+      "title": "Research Field Note",
+      "format": "html",
+      "source": "Examples/sources/research-note.md",
+      "script": "Examples/render-research-note.sh",
+      "output": "Examples/outputs/research-note.html",
+      "features": ["frontmatter", "admonitions", "tables", "math", "footnotes"]
+    },
+    {
+      "id": "project-brief",
+      "title": "Project Brief",
+      "format": "html",
+      "source": "Examples/sources/project-brief.md",
+      "script": "Examples/render-project-brief.sh",
+      "output": "Examples/outputs/project-brief.html",
+      "features": ["decision tables", "checklists", "code blocks", "launch criteria"]
+    },
+    {
+      "id": "slides-outline",
+      "title": "Launch Narrative Slide Outline",
+      "format": "html",
+      "source": "Examples/sources/slides-outline.md",
+      "script": "Examples/render-slides-outline.sh",
+      "output": "Examples/outputs/slides-outline.html",
+      "features": ["slide separators", "speaker narrative", "deck structure"]
+    },
+    {
+      "id": "typst-paper",
+      "title": "Typst Publication Paper",
+      "format": "typst",
+      "source": "Examples/sources/typst-paper.md",
+      "script": "Examples/render-typst-paper.sh",
+      "output": "Examples/outputs/typst-paper.typ",
+      "features": ["Typst export", "math", "theorem blocks", "citations"]
+    },
+    {
+      "id": "release-note",
+      "title": "Release Note",
+      "format": "html",
+      "source": "Examples/sources/release-note.md",
+      "script": "Examples/render-release-note.sh",
+      "output": "Examples/outputs/release-note.html",
+      "features": ["release notes", "compatibility matrix", "code snippets"]
+    },
+    {
+      "id": "language-showcase",
+      "title": "Language Showcase",
+      "format": "html",
+      "source": "Examples/sources/language-showcase.md",
+      "script": "Examples/render-language-showcase.sh",
+      "output": "Examples/outputs/language-showcase.html",
+      "features": ["syntax tour", "attributes", "cross-references", "extensions"]
+    },
+    {
+      "id": "architecture-rfc",
+      "title": "Architecture RFC",
+      "format": "html",
+      "source": "Examples/sources/architecture-rfc.md",
+      "script": "Examples/render-architecture-rfc.sh",
+      "output": "Examples/outputs/architecture-rfc.html",
+      "features": ["RFC structure", "diagrams", "API contracts", "risk register"]
+    },
+    {
+      "id": "data-report",
+      "title": "Data Report",
+      "format": "html",
+      "source": "Examples/sources/data-report.md",
+      "script": "Examples/render-data-report.sh",
+      "output": "Examples/outputs/data-report.html",
+      "features": ["metrics", "tables", "equations", "operational review"]
+    },
+    {
+      "id": "onboarding-guide",
+      "title": "Onboarding Guide",
+      "format": "html",
+      "source": "Examples/sources/onboarding-guide.md",
+      "script": "Examples/render-onboarding-guide.sh",
+      "output": "Examples/outputs/onboarding-guide.html",
+      "features": ["tutorial writing", "steps", "callouts", "CLI snippets"]
+    },
+    {
+      "id": "component-playbook",
+      "title": "Component Playbook",
+      "format": "html",
+      "source": "Examples/sources/component-playbook.md",
+      "script": "Examples/render-component-playbook.sh",
+      "output": "Examples/outputs/component-playbook.html",
+      "features": ["design systems", "fenced divs", "semantic cards", "patterns"]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    line-height: 1.6;
+}
+code {
+    font-family: ui-monospace, SFMono-Regular, monospace;
+    background: #f3f4f6;
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+}
+pre code {
+    display: block;
+    padding: 1rem;
+    overflow-x: auto;
+}
+blockquote {
+    border-left: 4px solid #d1d5db;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    color: #4b5563;
+}
+</style>
+</head>
+<body>
+<blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Run: <code>rhoemd Examples/sources/onboarding-guide.md -o Examples/outputs/onboarding-guide.html --format html --css --pretty</code></p>
+</blockquote>
+<section id="onboarding" data-rhoe-node="Section"><h1>Five-Minute RhoeMarkdown Onboarding</h1><p data-rhoe-node="paragraph">This guide is a runnable document. Compile it, open the HTML, then inspect the
+source to see how little ceremony is required.</p><section id="1-build-the-cli" data-rhoe-node="Section"><h2>1. Build The CLI</h2><pre><code class="language-bash" data-rhoe-node="code">swift build -c release --product rhoemd
+</code></pre></section><section id="2-render-a-document" data-rhoe-node="Section"><h2>2. Render A Document</h2><pre><code class="language-bash" data-rhoe-node="code">rhoemd Examples/sources/onboarding-guide.md \
+  -o Examples/outputs/onboarding-guide.html \
+  --format html \
+  --css \
+  --pretty
+</code></pre><div class="admonition admonition-tip" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">💡</span>
+New user move</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">Start with HTML because it is the fastest way to see structure, styling,
+admonitions, code blocks, and tables in one browser window.
+</p></div>
+</div></section><section id="3-change-one-thing" data-rhoe-node="Section"><h2>3. Change One Thing</h2><p data-rhoe-node="paragraph">Try editing the heading, adding a row to the table below, and rerunning the
+command.</p><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Task</th>
+<th scope="col">Why it matters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Edit source</td>
+<td>proves plain-text workflow</td>
+</tr>
+<tr>
+<td>Rerun compiler</td>
+<td>proves deterministic output</td>
+</tr>
+<tr>
+<td>Compare output</td>
+<td>proves canonical examples are useful</td>
+</tr>
+</tbody>
+</table></section><section id="4-explore-more-outputs" data-rhoe-node="Section"><h2>4. Explore More Outputs</h2><ul data-rhoe-node="list">
+<li>Use <code>--format typst</code> for publication pipelines.</li>
+<li>Use <code>--format latex</code> for academic workflows.</li>
+<li>Use the Wasm target when embedding the compiler in tools.</li>
+</ul><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+What to remember</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">RhoeMarkdown is not trying to hide Markdown. It keeps Markdown readable while
+preserving enough structure for serious compilers.
+</p></div>
+</div></section></section>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    line-height: 1.6;
+}
+code {
+    font-family: ui-monospace, SFMono-Regular, monospace;
+    background: #f3f4f6;
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+}
+pre code {
+    display: block;
+    padding: 1rem;
+    overflow-x: auto;
+}
+blockquote {
+    border-left: 4px solid #d1d5db;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    color: #4b5563;
+}
+</style>
+</head>
+<body>
+<blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Run: <code>rhoemd Examples/sources/language-showcase.md -o Examples/outputs/language-showcase.html --format html --css --pretty</code></p>
+</blockquote>
+<section id="language-showcase" class="example" data-rhoe-node="Section"><h1>RhoeMarkdown Language Showcase</h1><p data-rhoe-node="paragraph">This document exercises the public <code>0.1.0</code> syntax surface in one compact file:
+<strong>strong text</strong>, <em>emphasis</em>, <code>code spans</code>, <mark>highlights</mark>, <span class="math math-inline">\(E = mc^2\)</span>, wiki
+links like <a href="Language Reference" class="wikilink">the language reference</a>, and citations such as
+<span class="citation citation-parenthetical">[@doe2026]</span>.</p><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Semantic block</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">Admonition fences express semantic blocks such as notes, warnings, examples,
+definitions, theorems, and proofs.
+</p></div>
+</div><div id="thm-projection" class="theorem-env theorem-theorem">
+<p class="theorem-header" style="font-weight: bold">Theorem 1.1. (Projection Invariant)</p>
+<div class="theorem-body">
+<p data-rhoe-node="paragraph">Every renderer receives the same normalized AST, even when the output target is
+HTML, Typst, LaTeX, DOCX, PDF, EPUB, or WebAssembly-facing JSON.
+</p></div>
+</div><section id="attributes" data-rhoe-node="Section"><h2>Attributes And Tables</h2><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Feature</th>
+<th scope="col">Syntax</th>
+<th scope="col">Label</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Heading attributes</td>
+<td><code>{#id .class}</code></td>
+<td>RhoeMarkdown extension</td>
+</tr>
+<tr>
+<td>GFM tables</td>
+<td>pipe tables</td>
+<td>GitHub Flavored Markdown</td>
+</tr>
+<tr>
+<td>Cross-references</td>
+<td><code>@thm-projection</code></td>
+<td>RhoeMarkdown extension</td>
+</tr>
+<tr>
+<td>Fenced divs</td>
+<td><code>:::</code> blocks</td>
+<td>structured layout</td>
+</tr>
+<tr>
+<td>Client diagrams</td>
+<td>mermaid fences</td>
+<td>web-friendly diagrams</td>
+</tr>
+</tbody>
+</table><p data-rhoe-node="paragraph">See <a href="#thm-projection" class="crossref">thm-projection</a> for the theorem-style semantic block.</p><div class="columns" count="2" data-rhoe-node="div">
+<ul data-rhoe-node="list">
+<li>Left column: source remains readable as plain Markdown.</li>
+<li><dl>
+<dt>Right column: renderers still receive structured attributes.</dt>
+<dd><p data-rhoe-node="paragraph"></p></dd>
+</dl></li>
+</ul>
+<pre><code id="swift-sample" class="language-swift executable" data-rhoe-node="code" executable="false">let compiler = &quot;RhoeMarkdown&quot;
+let release = &quot;0.1.0&quot;
+</code></pre>
+<pre class="mermaid">sequenceDiagram
+  participant A as Author
+  participant C as Compiler
+  participant O as Output
+  A-&gt;&gt;C: readable Markdown
+  C-&gt;&gt;O: structured artifact
+</pre>
+<p data-rhoe-node="paragraph">Footnotes work too.<sup><a href="#fn:syntax" id="fnref:syntax" class="footnote-ref">syntax</a></sup></p>
+<div class="footnote" id="fn:syntax">
+<p><sup>syntax</sup> Footnotes are parsed as reference metadata and rendered by target writers. <a href="#fnref:syntax" class="footnote-backref">↩</a></p>
+</div>
+</div></section></section>
+</body>
+</html>

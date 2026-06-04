@@ -1,0 +1,58 @@
+name: Linux CLI
+
+on:
+  workflow_dispatch:
+    inputs:
+      static_sdk_url:
+        description: "Optional Swift Static Linux SDK artifactbundle URL"
+        required: false
+        type: string
+      static_sdk_checksum:
+        description: "Checksum for static_sdk_url"
+        required: false
+        type: string
+      static_sdk_id:
+        description: "Swift SDK selector, usually the target triple"
+        required: false
+        type: string
+      static_triple:
+        description: "Static Linux target triple"
+        required: false
+        default: "x86_64-swift-linux-musl"
+        type: string
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  native-linux-cli:
+    name: Native Linux x86_64 CLI Smoke
+    runs-on: ubuntu-24.04
+    container: swift:6.3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build CLI Product
+        env:
+          RHOE_MARKDOWN_LINUX_MODE: native
+        run: bash Scripts/CI/build-linux-cli.sh
+
+  static-linux-cli:
+    name: Static Linux CLI Artifact Gate
+    if: github.event_name == 'workflow_dispatch' && inputs.static_sdk_url != '' && inputs.static_sdk_checksum != ''
+    runs-on: ubuntu-24.04
+    container: swift:6.3
+    env:
+      RHOE_MARKDOWN_LINUX_SDK_ID: ${{ inputs.static_sdk_id }}
+      RHOE_MARKDOWN_LINUX_TRIPLE: ${{ inputs.static_triple }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Static Linux SDK
+        run: swift sdk install "${{ inputs.static_sdk_url }}" --checksum "${{ inputs.static_sdk_checksum }}"
+
+      - name: Build Static CLI Product
+        run: bash Scripts/CI/build-linux-cli.sh

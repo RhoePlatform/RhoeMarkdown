@@ -1,0 +1,53 @@
+<h1 id="pandoc-style-attribute-lists-test" data-rhoe-node="heading">Pandoc-Style Attribute Lists Test</h1><h2 id="basic-attributes" data-rhoe-node="heading">Basic Attributes</h2><p id="para-id" class="highlight important" data-rhoe-node="paragraph" lang="en">This is a paragraph with attributes.</p><h3 id="custom-header" class="section-header emphasized" data-rhoe-node="heading">Header with ID and Classes </h3><h2 id="inline-attributes" data-rhoe-node="heading">Inline Attributes</h2><p data-rhoe-node="paragraph">This has <span class="highlight warning">inline span</span> with classes.</p><p data-rhoe-node="paragraph">This has <span id="span-id" class="custom" style="color: blue; font-weight: bold">styled text</span> with inline styles.</p><h2 id="code-block-attributes" data-rhoe-node="heading">Code Block Attributes</h2><pre><code class="language-python {#code-example .line-numbers .syntax-highlight startFrom=10}" data-rhoe-node="code">def hello_world():
+    print(&quot;Hello, World!&quot;)
+    return 42
+</code></pre><h2 id="block-quote-attributes" data-rhoe-node="heading">Block Quote Attributes</h2><blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">This is a blockquote with custom styling.
+It can span multiple lines.</p>
+</blockquote><p class="callout info" data-rhoe-node="paragraph" style="border-left: 4px solid blue"></p><h2 id="list-attributes" data-rhoe-node="heading">List Attributes</h2><ul data-rhoe-node="list">
+<li>First item</li>
+<li>Second item</li>
+<li>Third item
+</li>
+</ul><p class="custom-list checklist" data-rhoe-node="paragraph"></p><ol data-rhoe-node="list">
+<li>Ordered first</li>
+<li>Ordered second</li>
+<li>Ordered third
+</li>
+</ol><p id="ordered-list" class="numbered-list" data-rhoe-node="paragraph" start="5"></p><h2 id="image-attributes" data-rhoe-node="heading">Image Attributes</h2><figure id="img-id" class="responsive bordered" height="300" width="500"><img alt="Alt text" src="image.jpg"><figcaption>Alt text</figcaption></figure><h2 id="link-attributes" data-rhoe-node="heading">Link Attributes</h2><p data-rhoe-node="paragraph"><a class="external-link" href="https://example.com" rel="noopener" target="_blank">Visit our site</a></p><h2 id="table-attributes" data-rhoe-node="heading">Table Attributes</h2><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Header 1</th>
+<th scope="col">Header 2</th>
+<th scope="col">Header 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cell 1</td>
+<td>Cell 2</td>
+<td>Cell 3</td>
+</tr>
+<tr>
+<td>Cell 4</td>
+<td>Cell 5</td>
+<td>Cell 6</td>
+</tr>
+</tbody>
+</table><h2 id="div-attributes" data-rhoe-node="heading">Div Attributes</h2><div id="warning-box" class="alert alert-warning" data-rhoe-node="div">
+<p data-rhoe-node="paragraph">This is a warning div with Pandoc fence syntax.
+It can contain multiple paragraphs.</p>
+<p data-rhoe-node="paragraph">And even other block elements:
+</p>
+<ul data-rhoe-node="list">
+<li>Like lists</li>
+<li>With items
+</li>
+</ul>
+</div><h2 id="span-attributes" data-rhoe-node="heading">Span Attributes</h2><p data-rhoe-node="paragraph">This paragraph contains <span class="emphasis red" data-tooltip="Important information">important text</span> with data attributes.</p><h2 id="combined-attributes" data-rhoe-node="heading">Combined Attributes</h2><h3 id="complex" class="multi-class another-class" data-rhoe-node="heading" dir="ltr" lang="en">Complex Example </h3><p class="intro" data-rhoe-node="paragraph">This paragraph combines multiple features.</p><pre><code class="language-javascript {.code-block .javascript line-numbers=true}" data-rhoe-node="code">const example = &quot;code with attributes&quot;;
+console.log(example);
+</code></pre><p class="code-wrapper" data-rhoe-node="paragraph"></p><h2 id="raw-html-attributes" data-rhoe-node="heading">Raw HTML Attributes</h2><p data-rhoe-node="paragraph">&lt;div id=&quot;custom-div&quot; class=&quot;container&quot; data-value=&quot;42&quot;&gt;
+Raw HTML with attributes preserved
+&lt;/div&gt;</p><h2 id="math-with-attributes" data-rhoe-node="heading">Math with Attributes</h2><p id="einstein-equation" class="physics-formula" data-rhoe-node="paragraph"><span class="math math-inline">\(E = mc^2\)</span></p><p id="gaussian-integral" class="centered-math" data-rhoe-node="paragraph"><span class="math math-display">\[
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+\]</span></p>

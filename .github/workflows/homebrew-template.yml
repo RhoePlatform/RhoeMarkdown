@@ -1,0 +1,13 @@
+name: Homebrew Template
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate formula template
+        run: bash Scripts/CI/validate-homebrew-template.sh

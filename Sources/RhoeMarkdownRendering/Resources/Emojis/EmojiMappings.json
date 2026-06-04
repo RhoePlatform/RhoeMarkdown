@@ -1,0 +1,11056 @@
+{
+  "100" : {
+    "category" : "Symbols",
+    "character" : "💯",
+    "keywords" : [
+      "hundred",
+      "perfect",
+      "score"
+    ]
+  },
+  "1234" : {
+    "category" : "Symbols",
+    "character" : "🔢",
+    "keywords" : [
+      "numbers",
+      "input",
+      "123"
+    ]
+  },
+  "1st-place-medal" : {
+    "category" : "Activities",
+    "character" : "🥇",
+    "keywords" : [
+      "gold",
+      "first",
+      "winner"
+    ]
+  },
+  "2nd-place-medal" : {
+    "category" : "Activities",
+    "character" : "🥈",
+    "keywords" : [
+      "silver",
+      "second",
+      "runner-up"
+    ]
+  },
+  "3rd-place-medal" : {
+    "category" : "Activities",
+    "character" : "🥉",
+    "keywords" : [
+      "bronze",
+      "third",
+      "place"
+    ]
+  },
+  "8ball" : {
+    "category" : "Activities",
+    "character" : "🎱",
+    "keywords" : [
+      "pool",
+      "billiards",
+      "black"
+    ]
+  },
+  "abacus" : {
+    "category" : "Objects",
+    "character" : "🧮",
+    "keywords" : [
+      "calculation",
+      "math",
+      "traditional"
+    ]
+  },
+  "abc" : {
+    "category" : "Symbols",
+    "character" : "🔤",
+    "keywords" : [
+      "alphabet",
+      "letters",
+      "input"
+    ]
+  },
+  "abcd" : {
+    "category" : "Symbols",
+    "character" : "🔡",
+    "keywords" : [
+      "alphabet",
+      "letters",
+      "lowercase"
+    ]
+  },
+  "accordion" : {
+    "category" : "Objects",
+    "character" : "🪗",
+    "keywords" : [
+      "music",
+      "folk",
+      "squeeze"
+    ]
+  },
+  "adhesive-bandage" : {
+    "category" : "Objects",
+    "character" : "🩹",
+    "keywords" : [
+      "medical",
+      "injury",
+      "heal"
+    ]
+  },
+  "admission-tickets" : {
+    "category" : "Activities",
+    "character" : "🎟️",
+    "keywords" : [
+      "event",
+      "entry",
+      "stub"
+    ]
+  },
+  "aerial-tramway" : {
+    "category" : "Travel & Places",
+    "character" : "🚡",
+    "keywords" : [
+      "cable-car",
+      "gondola",
+      "transport"
+    ]
+  },
+  "airplane" : {
+    "category" : "Travel & Places",
+    "character" : "✈️",
+    "keywords" : [
+      "plane",
+      "flight",
+      "travel"
+    ]
+  },
+  "airplane-arrival" : {
+    "category" : "Travel & Places",
+    "character" : "🛬",
+    "keywords" : [
+      "landing",
+      "travel",
+      "airport"
+    ]
+  },
+  "airplane-departure" : {
+    "category" : "Travel & Places",
+    "character" : "🛫",
+    "keywords" : [
+      "takeoff",
+      "travel",
+      "airport"
+    ]
+  },
+  "alembic" : {
+    "category" : "Objects",
+    "character" : "⚗️",
+    "keywords" : [
+      "chemistry",
+      "distillation",
+      "science"
+    ]
+  },
+  "ambulance" : {
+    "category" : "Travel & Places",
+    "character" : "🚑",
+    "keywords" : [
+      "emergency",
+      "medical",
+      "siren"
+    ]
+  },
+  "anatomical-heart" : {
+    "category" : "People & Body",
+    "character" : "🫀",
+    "keywords" : [
+      "organ",
+      "health",
+      "medical"
+    ]
+  },
+  "anchor" : {
+    "category" : "Travel & Places",
+    "character" : "⚓",
+    "keywords" : [
+      "ship",
+      "boat",
+      "harbor"
+    ]
+  },
+  "angry" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😠",
+    "keywords" : [
+      "mad",
+      "annoyed",
+      "upset"
+    ]
+  },
+  "anguished" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😧",
+    "keywords" : [
+      "worried",
+      "scared",
+      "anxious"
+    ]
+  },
+  "apple" : {
+    "category" : "Food & Drink",
+    "character" : "🍎",
+    "keywords" : [
+      "fruit",
+      "red",
+      "healthy"
+    ]
+  },
+  "aquarius" : {
+    "category" : "Symbols",
+    "character" : "♒",
+    "keywords" : [
+      "zodiac",
+      "water",
+      "astrology"
+    ]
+  },
+  "aries" : {
+    "category" : "Symbols",
+    "character" : "♈",
+    "keywords" : [
+      "zodiac",
+      "ram",
+      "astrology"
+    ]
+  },
+  "arrow-backward" : {
+    "category" : "Symbols",
+    "character" : "◀️",
+    "keywords" : [
+      "previous",
+      "left",
+      "triangle"
+    ]
+  },
+  "arrow-double-down" : {
+    "category" : "Symbols",
+    "character" : "⏬",
+    "keywords" : [
+      "down",
+      "double",
+      "fast"
+    ]
+  },
+  "arrow-double-up" : {
+    "category" : "Symbols",
+    "character" : "⏫",
+    "keywords" : [
+      "up",
+      "double",
+      "fast"
+    ]
+  },
+  "arrow-down-small" : {
+    "category" : "Symbols",
+    "character" : "🔽",
+    "keywords" : [
+      "down",
+      "triangle",
+      "small"
+    ]
+  },
+  "arrow-forward" : {
+    "category" : "Symbols",
+    "character" : "▶️",
+    "keywords" : [
+      "play",
+      "right",
+      "triangle"
+    ]
+  },
+  "arrow-up-small" : {
+    "category" : "Symbols",
+    "character" : "🔼",
+    "keywords" : [
+      "up",
+      "triangle",
+      "small"
+    ]
+  },
+  "art" : {
+    "category" : "Activities",
+    "character" : "🎨",
+    "keywords" : [
+      "painting",
+      "palette",
+      "creative"
+    ]
+  },
+  "articulated-lorry" : {
+    "category" : "Travel & Places",
+    "character" : "🚛",
+    "keywords" : [
+      "truck",
+      "semi",
+      "trailer"
+    ]
+  },
+  "artificial-satellite" : {
+    "category" : "Travel & Places",
+    "character" : "🛰️",
+    "keywords" : [
+      "space",
+      "orbit",
+      "communication"
+    ]
+  },
+  "asterisk" : {
+    "category" : "Symbols",
+    "character" : "*️⃣",
+    "keywords" : [
+      "star",
+      "multiply",
+      "symbol"
+    ]
+  },
+  "astonished" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😲",
+    "keywords" : [
+      "shocked",
+      "surprised",
+      "amazed"
+    ]
+  },
+  "athletic-shoe" : {
+    "category" : "Objects",
+    "character" : "👟",
+    "keywords" : [
+      "sneaker",
+      "sport",
+      "casual"
+    ]
+  },
+  "auto-rickshaw" : {
+    "category" : "Travel & Places",
+    "character" : "🛺",
+    "keywords" : [
+      "tuk-tuk",
+      "three-wheel",
+      "asia"
+    ]
+  },
+  "avocado" : {
+    "category" : "Food & Drink",
+    "character" : "🥑",
+    "keywords" : [
+      "fruit",
+      "green",
+      "healthy"
+    ]
+  },
+  "axe" : {
+    "category" : "Objects",
+    "character" : "🪓",
+    "keywords" : [
+      "tool",
+      "wood",
+      "chop"
+    ]
+  },
+  "baby-bottle" : {
+    "category" : "Food & Drink",
+    "character" : "🍼",
+    "keywords" : [
+      "milk",
+      "infant",
+      "feeding"
+    ]
+  },
+  "baby-chick" : {
+    "category" : "Animals & Nature",
+    "character" : "🐤",
+    "keywords" : [
+      "bird",
+      "yellow",
+      "cute"
+    ]
+  },
+  "bacon" : {
+    "category" : "Food & Drink",
+    "character" : "🥓",
+    "keywords" : [
+      "meat",
+      "breakfast",
+      "strips"
+    ]
+  },
+  "badger" : {
+    "category" : "Animals & Nature",
+    "character" : "🦡",
+    "keywords" : [
+      "animal",
+      "honey",
+      "stripes"
+    ]
+  },
+  "badminton" : {
+    "category" : "Activities",
+    "character" : "🏸",
+    "keywords" : [
+      "sport",
+      "racket",
+      "shuttlecock"
+    ]
+  },
+  "bagel" : {
+    "category" : "Food & Drink",
+    "character" : "🥯",
+    "keywords" : [
+      "bread",
+      "jewish",
+      "hole"
+    ]
+  },
+  "baguette" : {
+    "category" : "Food & Drink",
+    "character" : "🥖",
+    "keywords" : [
+      "bread",
+      "french",
+      "long"
+    ]
+  },
+  "balance-scale" : {
+    "category" : "Objects",
+    "character" : "⚖️",
+    "keywords" : [
+      "justice",
+      "law",
+      "weight"
+    ]
+  },
+  "ballet-shoes" : {
+    "category" : "Objects",
+    "character" : "🩰",
+    "keywords" : [
+      "dance",
+      "pointe",
+      "graceful"
+    ]
+  },
+  "balloon" : {
+    "category" : "Activities",
+    "character" : "🎈",
+    "keywords" : [
+      "party",
+      "celebration",
+      "helium"
+    ]
+  },
+  "ballot-box" : {
+    "category" : "Objects",
+    "character" : "🗳️",
+    "keywords" : [
+      "vote",
+      "election",
+      "democracy"
+    ]
+  },
+  "ballot-box-with-check" : {
+    "category" : "Symbols",
+    "character" : "☑️",
+    "keywords" : [
+      "vote",
+      "election",
+      "check"
+    ]
+  },
+  "bamboo" : {
+    "category" : "Activities",
+    "character" : "🎍",
+    "keywords" : [
+      "japanese",
+      "new-year",
+      "plant"
+    ]
+  },
+  "banana" : {
+    "category" : "Food & Drink",
+    "character" : "🍌",
+    "keywords" : [
+      "fruit",
+      "yellow",
+      "potassium"
+    ]
+  },
+  "bangbang" : {
+    "category" : "Symbols",
+    "character" : "‼️",
+    "keywords" : [
+      "exclamation",
+      "double",
+      "emphasis"
+    ]
+  },
+  "banjo" : {
+    "category" : "Objects",
+    "character" : "🪕",
+    "keywords" : [
+      "music",
+      "country",
+      "folk"
+    ]
+  },
+  "bank" : {
+    "category" : "Travel & Places",
+    "character" : "🏦",
+    "keywords" : [
+      "money",
+      "finance",
+      "building"
+    ]
+  },
+  "bar-chart" : {
+    "category" : "Objects",
+    "character" : "📊",
+    "keywords" : [
+      "graph",
+      "data",
+      "statistics"
+    ]
+  },
+  "barber" : {
+    "category" : "Travel & Places",
+    "character" : "💈",
+    "keywords" : [
+      "haircut",
+      "pole",
+      "spiral"
+    ]
+  },
+  "baseball" : {
+    "category" : "Activities",
+    "character" : "⚾",
+    "keywords" : [
+      "sport",
+      "america",
+      "bat"
+    ]
+  },
+  "basket" : {
+    "category" : "Objects",
+    "character" : "🧺",
+    "keywords" : [
+      "carry",
+      "wicker",
+      "storage"
+    ]
+  },
+  "basketball" : {
+    "category" : "Activities",
+    "character" : "🏀",
+    "keywords" : [
+      "sport",
+      "orange",
+      "hoop"
+    ]
+  },
+  "bat" : {
+    "category" : "Animals & Nature",
+    "character" : "🦇",
+    "keywords" : [
+      "animal",
+      "vampire",
+      "night"
+    ]
+  },
+  "bathtub" : {
+    "category" : "Objects",
+    "character" : "🛁",
+    "keywords" : [
+      "bath",
+      "relax",
+      "wash"
+    ]
+  },
+  "battery" : {
+    "category" : "Objects",
+    "character" : "🔋",
+    "keywords" : [
+      "power",
+      "energy",
+      "charge"
+    ]
+  },
+  "beach-umbrella" : {
+    "category" : "Travel & Places",
+    "character" : "🏖️",
+    "keywords" : [
+      "vacation",
+      "sand",
+      "sun"
+    ]
+  },
+  "beans" : {
+    "category" : "Food & Drink",
+    "character" : "🫘",
+    "keywords" : [
+      "legume",
+      "protein",
+      "gas"
+    ]
+  },
+  "bear" : {
+    "category" : "Animals & Nature",
+    "character" : "🐻",
+    "keywords" : [
+      "animal",
+      "large",
+      "honey"
+    ]
+  },
+  "beaver" : {
+    "category" : "Animals & Nature",
+    "character" : "🦫",
+    "keywords" : [
+      "animal",
+      "dam",
+      "teeth"
+    ]
+  },
+  "bed" : {
+    "category" : "Objects",
+    "character" : "🛏️",
+    "keywords" : [
+      "sleep",
+      "rest",
+      "bedroom"
+    ]
+  },
+  "beer" : {
+    "category" : "Food & Drink",
+    "character" : "🍺",
+    "keywords" : [
+      "alcohol",
+      "foam",
+      "mug"
+    ]
+  },
+  "beers" : {
+    "category" : "Food & Drink",
+    "character" : "🍻",
+    "keywords" : [
+      "cheers",
+      "celebration",
+      "alcohol"
+    ]
+  },
+  "beginner" : {
+    "category" : "Symbols",
+    "character" : "🔰",
+    "keywords" : [
+      "new",
+      "fresh",
+      "start"
+    ]
+  },
+  "bell" : {
+    "category" : "Objects",
+    "character" : "🔔",
+    "keywords" : [
+      "sound",
+      "notification",
+      "ring"
+    ]
+  },
+  "bell-pepper" : {
+    "category" : "Food & Drink",
+    "character" : "🫑",
+    "keywords" : [
+      "vegetable",
+      "colorful",
+      "sweet"
+    ]
+  },
+  "bento" : {
+    "category" : "Food & Drink",
+    "character" : "🍱",
+    "keywords" : [
+      "japanese",
+      "lunch",
+      "box"
+    ]
+  },
+  "beverage-box" : {
+    "category" : "Food & Drink",
+    "character" : "🧃",
+    "keywords" : [
+      "juice",
+      "box",
+      "straw"
+    ]
+  },
+  "bike" : {
+    "category" : "Travel & Places",
+    "character" : "🚲",
+    "keywords" : [
+      "bicycle",
+      "pedal",
+      "eco"
+    ]
+  },
+  "bikini" : {
+    "category" : "Objects",
+    "character" : "👙",
+    "keywords" : [
+      "swimming",
+      "beach",
+      "two-piece"
+    ]
+  },
+  "billed-cap" : {
+    "category" : "Objects",
+    "character" : "🧢",
+    "keywords" : [
+      "baseball",
+      "casual",
+      "sport"
+    ]
+  },
+  "bird" : {
+    "category" : "Animals & Nature",
+    "character" : "🐦",
+    "keywords" : [
+      "animal",
+      "fly",
+      "tweet"
+    ]
+  },
+  "birthday" : {
+    "category" : "Food & Drink",
+    "character" : "🎂",
+    "keywords" : [
+      "cake",
+      "celebration",
+      "candles"
+    ]
+  },
+  "bison" : {
+    "category" : "Animals & Nature",
+    "character" : "🦬",
+    "keywords" : [
+      "animal",
+      "buffalo",
+      "strong"
+    ]
+  },
+  "black-cat" : {
+    "category" : "Animals & Nature",
+    "character" : "🐈‍⬛",
+    "keywords" : [
+      "animal",
+      "pet",
+      "spooky"
+    ]
+  },
+  "black-heart" : {
+    "category" : "Symbols",
+    "character" : "🖤",
+    "keywords" : [
+      "love",
+      "dark",
+      "evil"
+    ]
+  },
+  "black-joker" : {
+    "category" : "Activities",
+    "character" : "🃏",
+    "keywords" : [
+      "cards",
+      "wild",
+      "joker"
+    ]
+  },
+  "black-left-pointing-double-triangle-with-vertical-bar" : {
+    "category" : "Symbols",
+    "character" : "⏮️",
+    "keywords" : [
+      "previous",
+      "skip",
+      "back"
+    ]
+  },
+  "black-nib" : {
+    "category" : "Objects",
+    "character" : "✒️",
+    "keywords" : [
+      "pen",
+      "write",
+      "fountain"
+    ]
+  },
+  "black-right-pointing-double-triangle-with-vertical-bar" : {
+    "category" : "Symbols",
+    "character" : "⏭️",
+    "keywords" : [
+      "next",
+      "skip",
+      "forward"
+    ]
+  },
+  "black-right-pointing-triangle-with-double-vertical-bar" : {
+    "category" : "Symbols",
+    "character" : "⏯️",
+    "keywords" : [
+      "play",
+      "pause",
+      "toggle"
+    ]
+  },
+  "blue-book" : {
+    "category" : "Objects",
+    "character" : "📘",
+    "keywords" : [
+      "book",
+      "read",
+      "blue"
+    ]
+  },
+  "blue-car" : {
+    "category" : "Travel & Places",
+    "character" : "🚙",
+    "keywords" : [
+      "suv",
+      "recreational",
+      "blue"
+    ]
+  },
+  "blue-heart" : {
+    "category" : "Symbols",
+    "character" : "💙",
+    "keywords" : [
+      "love",
+      "trust",
+      "peace"
+    ]
+  },
+  "blueberries" : {
+    "category" : "Food & Drink",
+    "character" : "🫐",
+    "keywords" : [
+      "fruit",
+      "blue",
+      "antioxidants"
+    ]
+  },
+  "blush" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😊",
+    "keywords" : [
+      "shy",
+      "happy",
+      "smile"
+    ]
+  },
+  "boar" : {
+    "category" : "Animals & Nature",
+    "character" : "🐗",
+    "keywords" : [
+      "animal",
+      "wild",
+      "tusks"
+    ]
+  },
+  "bone" : {
+    "category" : "People & Body",
+    "character" : "🦴",
+    "keywords" : [
+      "skeleton",
+      "health",
+      "body"
+    ]
+  },
+  "bookmark" : {
+    "category" : "Objects",
+    "character" : "🔖",
+    "keywords" : [
+      "save",
+      "mark",
+      "ribbon"
+    ]
+  },
+  "bookmark-tabs" : {
+    "category" : "Objects",
+    "character" : "📑",
+    "keywords" : [
+      "organize",
+      "tabs",
+      "index"
+    ]
+  },
+  "books" : {
+    "category" : "Objects",
+    "character" : "📚",
+    "keywords" : [
+      "library",
+      "knowledge",
+      "study"
+    ]
+  },
+  "boomerang" : {
+    "category" : "Objects",
+    "character" : "🪃",
+    "keywords" : [
+      "weapon",
+      "return",
+      "australia"
+    ]
+  },
+  "boot" : {
+    "category" : "Objects",
+    "character" : "👢",
+    "keywords" : [
+      "winter",
+      "tall",
+      "leather"
+    ]
+  },
+  "bow-and-arrow" : {
+    "category" : "Objects",
+    "character" : "🏹",
+    "keywords" : [
+      "weapon",
+      "archery",
+      "target"
+    ]
+  },
+  "bowl-with-spoon" : {
+    "category" : "Food & Drink",
+    "character" : "🥣",
+    "keywords" : [
+      "cereal",
+      "soup",
+      "breakfast"
+    ]
+  },
+  "bowling" : {
+    "category" : "Activities",
+    "character" : "🎳",
+    "keywords" : [
+      "sport",
+      "pins",
+      "strike"
+    ]
+  },
+  "boxing-glove" : {
+    "category" : "Activities",
+    "character" : "🥊",
+    "keywords" : [
+      "sport",
+      "fight",
+      "punch"
+    ]
+  },
+  "brain" : {
+    "category" : "People & Body",
+    "character" : "🧠",
+    "keywords" : [
+      "smart",
+      "intelligent",
+      "mind"
+    ]
+  },
+  "bread" : {
+    "category" : "Food & Drink",
+    "character" : "🍞",
+    "keywords" : [
+      "carb",
+      "wheat",
+      "toast"
+    ]
+  },
+  "bricks" : {
+    "category" : "Travel & Places",
+    "character" : "🧱",
+    "keywords" : [
+      "building",
+      "construction",
+      "wall"
+    ]
+  },
+  "bridge-at-night" : {
+    "category" : "Travel & Places",
+    "character" : "🌉",
+    "keywords" : [
+      "night",
+      "lights",
+      "crossing"
+    ]
+  },
+  "briefcase" : {
+    "category" : "Objects",
+    "character" : "💼",
+    "keywords" : [
+      "business",
+      "work",
+      "professional"
+    ]
+  },
+  "briefs" : {
+    "category" : "Objects",
+    "character" : "🩲",
+    "keywords" : [
+      "underwear",
+      "clothing",
+      "basic"
+    ]
+  },
+  "broccoli" : {
+    "category" : "Food & Drink",
+    "character" : "🥦",
+    "keywords" : [
+      "vegetable",
+      "green",
+      "healthy"
+    ]
+  },
+  "broken-heart" : {
+    "category" : "Symbols",
+    "character" : "💔",
+    "keywords" : [
+      "sad",
+      "breakup",
+      "hurt"
+    ]
+  },
+  "broom" : {
+    "category" : "Objects",
+    "character" : "🧹",
+    "keywords" : [
+      "clean",
+      "sweep",
+      "witch"
+    ]
+  },
+  "brown-heart" : {
+    "category" : "Symbols",
+    "character" : "🤎",
+    "keywords" : [
+      "love",
+      "earth",
+      "nature"
+    ]
+  },
+  "bubble-tea" : {
+    "category" : "Food & Drink",
+    "character" : "🧋",
+    "keywords" : [
+      "taiwanese",
+      "boba",
+      "sweet"
+    ]
+  },
+  "bubbles" : {
+    "category" : "Objects",
+    "character" : "🫧",
+    "keywords" : [
+      "soap",
+      "clean",
+      "float"
+    ]
+  },
+  "bucket" : {
+    "category" : "Objects",
+    "character" : "🪣",
+    "keywords" : [
+      "water",
+      "carry",
+      "clean"
+    ]
+  },
+  "building-construction" : {
+    "category" : "Travel & Places",
+    "character" : "🏗️",
+    "keywords" : [
+      "work",
+      "crane",
+      "development"
+    ]
+  },
+  "bulb" : {
+    "category" : "Objects",
+    "character" : "💡",
+    "keywords" : [
+      "idea",
+      "light",
+      "bright"
+    ]
+  },
+  "bullet-train" : {
+    "category" : "Travel & Places",
+    "character" : "🚅",
+    "keywords" : [
+      "japan",
+      "fast",
+      "nose"
+    ]
+  },
+  "burrito" : {
+    "category" : "Food & Drink",
+    "character" : "🌯",
+    "keywords" : [
+      "mexican",
+      "wrap",
+      "beans"
+    ]
+  },
+  "bus" : {
+    "category" : "Travel & Places",
+    "character" : "🚌",
+    "keywords" : [
+      "transport",
+      "public",
+      "road"
+    ]
+  },
+  "busstop" : {
+    "category" : "Travel & Places",
+    "character" : "🚏",
+    "keywords" : [
+      "public",
+      "transport",
+      "waiting"
+    ]
+  },
+  "butter" : {
+    "category" : "Food & Drink",
+    "character" : "🧈",
+    "keywords" : [
+      "dairy",
+      "spread",
+      "yellow"
+    ]
+  },
+  "cake" : {
+    "category" : "Food & Drink",
+    "character" : "🍰",
+    "keywords" : [
+      "dessert",
+      "slice",
+      "sweet"
+    ]
+  },
+  "calendar" : {
+    "category" : "Objects",
+    "character" : "📆",
+    "keywords" : [
+      "date",
+      "schedule",
+      "month"
+    ]
+  },
+  "call-me-hand" : {
+    "category" : "People & Body",
+    "character" : "🤙",
+    "keywords" : [
+      "phone",
+      "call",
+      "hang-loose"
+    ]
+  },
+  "calling" : {
+    "category" : "Objects",
+    "character" : "📲",
+    "keywords" : [
+      "phone",
+      "call",
+      "mobile"
+    ]
+  },
+  "camel" : {
+    "category" : "Animals & Nature",
+    "character" : "🐫",
+    "keywords" : [
+      "animal",
+      "desert",
+      "humps"
+    ]
+  },
+  "camera" : {
+    "category" : "Objects",
+    "character" : "📷",
+    "keywords" : [
+      "photo",
+      "picture",
+      "capture"
+    ]
+  },
+  "camera-flash" : {
+    "category" : "Objects",
+    "character" : "📸",
+    "keywords" : [
+      "photo",
+      "picture",
+      "bright"
+    ]
+  },
+  "camping" : {
+    "category" : "Travel & Places",
+    "character" : "🏕️",
+    "keywords" : [
+      "outdoors",
+      "tent",
+      "nature"
+    ]
+  },
+  "cancer" : {
+    "category" : "Symbols",
+    "character" : "♋",
+    "keywords" : [
+      "zodiac",
+      "crab",
+      "astrology"
+    ]
+  },
+  "candle" : {
+    "category" : "Objects",
+    "character" : "🕯️",
+    "keywords" : [
+      "light",
+      "flame",
+      "romantic"
+    ]
+  },
+  "candy" : {
+    "category" : "Food & Drink",
+    "character" : "🍬",
+    "keywords" : [
+      "sweet",
+      "wrapper",
+      "sugar"
+    ]
+  },
+  "canned-food" : {
+    "category" : "Food & Drink",
+    "character" : "🥫",
+    "keywords" : [
+      "preserves",
+      "soup",
+      "metal"
+    ]
+  },
+  "canoe" : {
+    "category" : "Travel & Places",
+    "character" : "🛶",
+    "keywords" : [
+      "boat",
+      "paddle",
+      "river"
+    ]
+  },
+  "capital-abcd" : {
+    "category" : "Symbols",
+    "character" : "🔠",
+    "keywords" : [
+      "alphabet",
+      "letters",
+      "uppercase"
+    ]
+  },
+  "capricorn" : {
+    "category" : "Symbols",
+    "character" : "♑",
+    "keywords" : [
+      "zodiac",
+      "goat",
+      "astrology"
+    ]
+  },
+  "car" : {
+    "category" : "Travel & Places",
+    "character" : "🚗",
+    "keywords" : [
+      "automobile",
+      "transport",
+      "road"
+    ]
+  },
+  "card-file-box" : {
+    "category" : "Objects",
+    "character" : "🗃️",
+    "keywords" : [
+      "organize",
+      "storage",
+      "filing"
+    ]
+  },
+  "card-index" : {
+    "category" : "Objects",
+    "character" : "📇",
+    "keywords" : [
+      "contacts",
+      "rolodex",
+      "business"
+    ]
+  },
+  "card-index-dividers" : {
+    "category" : "Objects",
+    "character" : "🗂️",
+    "keywords" : [
+      "organize",
+      "tabs",
+      "filing"
+    ]
+  },
+  "carousel-horse" : {
+    "category" : "Travel & Places",
+    "character" : "🎠",
+    "keywords" : [
+      "amusement",
+      "ride",
+      "childhood"
+    ]
+  },
+  "carpentry-saw" : {
+    "category" : "Objects",
+    "character" : "🪚",
+    "keywords" : [
+      "tool",
+      "wood",
+      "cut"
+    ]
+  },
+  "carrot" : {
+    "category" : "Food & Drink",
+    "character" : "🥕",
+    "keywords" : [
+      "vegetable",
+      "orange",
+      "healthy"
+    ]
+  },
+  "cat" : {
+    "category" : "Animals & Nature",
+    "character" : "🐱",
+    "keywords" : [
+      "animal",
+      "pet",
+      "meow"
+    ]
+  },
+  "cat2" : {
+    "category" : "Animals & Nature",
+    "character" : "🐈",
+    "keywords" : [
+      "animal",
+      "pet",
+      "feline"
+    ]
+  },
+  "cd" : {
+    "category" : "Objects",
+    "character" : "💿",
+    "keywords" : [
+      "music",
+      "storage",
+      "disc"
+    ]
+  },
+  "chains" : {
+    "category" : "Objects",
+    "character" : "⛓️",
+    "keywords" : [
+      "metal",
+      "links",
+      "bound"
+    ]
+  },
+  "chair" : {
+    "category" : "Objects",
+    "character" : "🪑",
+    "keywords" : [
+      "seat",
+      "furniture",
+      "sit"
+    ]
+  },
+  "champagne" : {
+    "category" : "Food & Drink",
+    "character" : "🍾",
+    "keywords" : [
+      "celebration",
+      "alcohol",
+      "cork"
+    ]
+  },
+  "chart" : {
+    "category" : "Objects",
+    "character" : "💹",
+    "keywords" : [
+      "graph",
+      "statistics",
+      "trend"
+    ]
+  },
+  "chart-with-downwards-trend" : {
+    "category" : "Objects",
+    "character" : "📉",
+    "keywords" : [
+      "decline",
+      "decrease",
+      "negative"
+    ]
+  },
+  "chart-with-upwards-trend" : {
+    "category" : "Objects",
+    "character" : "📈",
+    "keywords" : [
+      "growth",
+      "increase",
+      "positive"
+    ]
+  },
+  "cheese" : {
+    "category" : "Food & Drink",
+    "character" : "🧀",
+    "keywords" : [
+      "dairy",
+      "yellow",
+      "holes"
+    ]
+  },
+  "cherries" : {
+    "category" : "Food & Drink",
+    "character" : "🍒",
+    "keywords" : [
+      "fruit",
+      "red",
+      "sweet"
+    ]
+  },
+  "chess-pawn" : {
+    "category" : "Activities",
+    "character" : "♟️",
+    "keywords" : [
+      "chess",
+      "piece",
+      "game"
+    ]
+  },
+  "chestnut" : {
+    "category" : "Food & Drink",
+    "character" : "🌰",
+    "keywords" : [
+      "nuts",
+      "brown",
+      "autumn"
+    ]
+  },
+  "chicken" : {
+    "category" : "Animals & Nature",
+    "character" : "🐔",
+    "keywords" : [
+      "bird",
+      "farm",
+      "egg"
+    ]
+  },
+  "chipmunk" : {
+    "category" : "Animals & Nature",
+    "character" : "🐿️",
+    "keywords" : [
+      "animal",
+      "squirrel",
+      "nuts"
+    ]
+  },
+  "chocolate-bar" : {
+    "category" : "Food & Drink",
+    "character" : "🍫",
+    "keywords" : [
+      "candy",
+      "sweet",
+      "brown"
+    ]
+  },
+  "christmas-tree" : {
+    "category" : "Activities",
+    "character" : "🎄",
+    "keywords" : [
+      "holiday",
+      "december",
+      "festive"
+    ]
+  },
+  "church" : {
+    "category" : "Travel & Places",
+    "character" : "⛪",
+    "keywords" : [
+      "religion",
+      "christian",
+      "worship"
+    ]
+  },
+  "cinema" : {
+    "category" : "Symbols",
+    "character" : "🎦",
+    "keywords" : [
+      "movie",
+      "film",
+      "theater"
+    ]
+  },
+  "circus-tent" : {
+    "category" : "Travel & Places",
+    "character" : "🎪",
+    "keywords" : [
+      "entertainment",
+      "clown",
+      "show"
+    ]
+  },
+  "city-dusk" : {
+    "category" : "Travel & Places",
+    "character" : "🌇",
+    "keywords" : [
+      "evening",
+      "twilight",
+      "city"
+    ]
+  },
+  "city-sunset" : {
+    "category" : "Travel & Places",
+    "character" : "🌆",
+    "keywords" : [
+      "evening",
+      "urban",
+      "dusk"
+    ]
+  },
+  "cityscape" : {
+    "category" : "Travel & Places",
+    "character" : "🏙️",
+    "keywords" : [
+      "urban",
+      "buildings",
+      "skyline"
+    ]
+  },
+  "clamp" : {
+    "category" : "Objects",
+    "character" : "🗜️",
+    "keywords" : [
+      "tool",
+      "squeeze",
+      "hold"
+    ]
+  },
+  "clap" : {
+    "category" : "People & Body",
+    "character" : "👏",
+    "keywords" : [
+      "applause",
+      "congratulations",
+      "well-done"
+    ]
+  },
+  "clapper" : {
+    "category" : "Objects",
+    "character" : "🎬",
+    "keywords" : [
+      "movie",
+      "action",
+      "director"
+    ]
+  },
+  "classical-building" : {
+    "category" : "Travel & Places",
+    "character" : "🏛️",
+    "keywords" : [
+      "government",
+      "museum",
+      "columns"
+    ]
+  },
+  "clinking-glasses" : {
+    "category" : "Food & Drink",
+    "character" : "🥂",
+    "keywords" : [
+      "celebration",
+      "toast",
+      "champagne"
+    ]
+  },
+  "clipboard" : {
+    "category" : "Objects",
+    "character" : "📋",
+    "keywords" : [
+      "notes",
+      "checklist",
+      "office"
+    ]
+  },
+  "closed-book" : {
+    "category" : "Objects",
+    "character" : "📕",
+    "keywords" : [
+      "book",
+      "read",
+      "red"
+    ]
+  },
+  "closed-lock-with-key" : {
+    "category" : "Objects",
+    "character" : "🔐",
+    "keywords" : [
+      "secure",
+      "private",
+      "key"
+    ]
+  },
+  "clubs" : {
+    "category" : "Activities",
+    "character" : "♣️",
+    "keywords" : [
+      "cards",
+      "suit",
+      "black"
+    ]
+  },
+  "coat" : {
+    "category" : "Objects",
+    "character" : "🧥",
+    "keywords" : [
+      "winter",
+      "jacket",
+      "warm"
+    ]
+  },
+  "cocktail" : {
+    "category" : "Food & Drink",
+    "character" : "🍸",
+    "keywords" : [
+      "drink",
+      "alcohol",
+      "martini"
+    ]
+  },
+  "coconut" : {
+    "category" : "Food & Drink",
+    "character" : "🥥",
+    "keywords" : [
+      "fruit",
+      "tropical",
+      "milk"
+    ]
+  },
+  "coffee" : {
+    "category" : "Food & Drink",
+    "character" : "☕",
+    "keywords" : [
+      "drink",
+      "caffeine",
+      "morning"
+    ]
+  },
+  "coffin" : {
+    "category" : "Objects",
+    "character" : "⚰️",
+    "keywords" : [
+      "death",
+      "funeral",
+      "burial"
+    ]
+  },
+  "coin" : {
+    "category" : "Objects",
+    "character" : "🪙",
+    "keywords" : [
+      "money",
+      "round",
+      "metal"
+    ]
+  },
+  "cold" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🥶",
+    "keywords" : [
+      "freeze",
+      "shiver",
+      "blue"
+    ]
+  },
+  "cold-sweat" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😰",
+    "keywords" : [
+      "nervous",
+      "anxious",
+      "worried"
+    ]
+  },
+  "compass" : {
+    "category" : "Travel & Places",
+    "character" : "🧭",
+    "keywords" : [
+      "navigation",
+      "direction",
+      "north"
+    ]
+  },
+  "computer" : {
+    "category" : "Objects",
+    "character" : "💻",
+    "keywords" : [
+      "laptop",
+      "technology",
+      "work"
+    ]
+  },
+  "computer-mouse" : {
+    "category" : "Objects",
+    "character" : "🖱️",
+    "keywords" : [
+      "click",
+      "computer",
+      "pointer"
+    ]
+  },
+  "confetti-ball" : {
+    "category" : "Activities",
+    "character" : "🎊",
+    "keywords" : [
+      "party",
+      "celebration",
+      "colorful"
+    ]
+  },
+  "confounded" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😖",
+    "keywords" : [
+      "frustrated",
+      "annoyed",
+      "upset"
+    ]
+  },
+  "confused" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😕",
+    "keywords" : [
+      "puzzled",
+      "uncertain",
+      "worried"
+    ]
+  },
+  "construction" : {
+    "category" : "Travel & Places",
+    "character" : "🚧",
+    "keywords" : [
+      "work",
+      "barrier",
+      "orange"
+    ]
+  },
+  "control-knobs" : {
+    "category" : "Objects",
+    "character" : "🎛️",
+    "keywords" : [
+      "audio",
+      "mixing",
+      "equipment"
+    ]
+  },
+  "convenience-store" : {
+    "category" : "Travel & Places",
+    "character" : "🏪",
+    "keywords" : [
+      "shop",
+      "24-7",
+      "small"
+    ]
+  },
+  "cookie" : {
+    "category" : "Food & Drink",
+    "character" : "🍪",
+    "keywords" : [
+      "dessert",
+      "chocolate-chip",
+      "sweet"
+    ]
+  },
+  "cooking" : {
+    "category" : "Food & Drink",
+    "character" : "🍳",
+    "keywords" : [
+      "egg",
+      "pan",
+      "breakfast"
+    ]
+  },
+  "copyright" : {
+    "category" : "Symbols",
+    "character" : "©️",
+    "keywords" : [
+      "legal",
+      "rights",
+      "protection"
+    ]
+  },
+  "corn" : {
+    "category" : "Food & Drink",
+    "character" : "🌽",
+    "keywords" : [
+      "vegetable",
+      "yellow",
+      "kernels"
+    ]
+  },
+  "couch-and-lamp" : {
+    "category" : "Objects",
+    "character" : "🛋️",
+    "keywords" : [
+      "furniture",
+      "living-room",
+      "relax"
+    ]
+  },
+  "cow" : {
+    "category" : "Animals & Nature",
+    "character" : "🐮",
+    "keywords" : [
+      "animal",
+      "milk",
+      "farm"
+    ]
+  },
+  "cow2" : {
+    "category" : "Animals & Nature",
+    "character" : "🐄",
+    "keywords" : [
+      "animal",
+      "farm",
+      "milk"
+    ]
+  },
+  "cowboy" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤠",
+    "keywords" : [
+      "western",
+      "hat",
+      "yeehaw"
+    ]
+  },
+  "crab" : {
+    "category" : "Food & Drink",
+    "character" : "🦀",
+    "keywords" : [
+      "seafood",
+      "red",
+      "claws"
+    ]
+  },
+  "crayon" : {
+    "category" : "Objects",
+    "character" : "🖍️",
+    "keywords" : [
+      "color",
+      "child",
+      "draw"
+    ]
+  },
+  "credit-card" : {
+    "category" : "Objects",
+    "character" : "💳",
+    "keywords" : [
+      "payment",
+      "plastic",
+      "bank"
+    ]
+  },
+  "cricket-game" : {
+    "category" : "Activities",
+    "character" : "🏏",
+    "keywords" : [
+      "sport",
+      "bat",
+      "wicket"
+    ]
+  },
+  "crocodile" : {
+    "category" : "Animals & Nature",
+    "character" : "🐊",
+    "keywords" : [
+      "animal",
+      "dangerous",
+      "teeth"
+    ]
+  },
+  "croissant" : {
+    "category" : "Food & Drink",
+    "character" : "🥐",
+    "keywords" : [
+      "pastry",
+      "french",
+      "buttery"
+    ]
+  },
+  "cross-mark" : {
+    "category" : "Symbols",
+    "character" : "❌",
+    "keywords" : [
+      "wrong",
+      "no",
+      "x"
+    ]
+  },
+  "crossed-fingers" : {
+    "category" : "People & Body",
+    "character" : "🤞",
+    "keywords" : [
+      "luck",
+      "hope",
+      "wish"
+    ]
+  },
+  "crossed-swords" : {
+    "category" : "Objects",
+    "character" : "⚔️",
+    "keywords" : [
+      "weapon",
+      "battle",
+      "conflict"
+    ]
+  },
+  "crown" : {
+    "category" : "Objects",
+    "character" : "👑",
+    "keywords" : [
+      "royalty",
+      "king",
+      "queen"
+    ]
+  },
+  "crutch" : {
+    "category" : "Objects",
+    "character" : "🩼",
+    "keywords" : [
+      "medical",
+      "support",
+      "mobility"
+    ]
+  },
+  "cry" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😢",
+    "keywords" : [
+      "sad",
+      "tears",
+      "upset"
+    ]
+  },
+  "crystal-ball" : {
+    "category" : "Activities",
+    "character" : "🔮",
+    "keywords" : [
+      "fortune",
+      "psychic",
+      "future"
+    ]
+  },
+  "cucumber" : {
+    "category" : "Food & Drink",
+    "character" : "🥒",
+    "keywords" : [
+      "vegetable",
+      "green",
+      "fresh"
+    ]
+  },
+  "cup-with-straw" : {
+    "category" : "Food & Drink",
+    "character" : "🥤",
+    "keywords" : [
+      "soda",
+      "cold",
+      "drink"
+    ]
+  },
+  "cupcake" : {
+    "category" : "Food & Drink",
+    "character" : "🧁",
+    "keywords" : [
+      "dessert",
+      "small",
+      "frosting"
+    ]
+  },
+  "cupid" : {
+    "category" : "Symbols",
+    "character" : "💘",
+    "keywords" : [
+      "love",
+      "arrow",
+      "valentine"
+    ]
+  },
+  "curling-stone" : {
+    "category" : "Activities",
+    "character" : "🥌",
+    "keywords" : [
+      "winter",
+      "sport",
+      "ice"
+    ]
+  },
+  "curly-loop" : {
+    "category" : "Symbols",
+    "character" : "➰",
+    "keywords" : [
+      "loop",
+      "curl",
+      "decorative"
+    ]
+  },
+  "currency-exchange" : {
+    "category" : "Symbols",
+    "character" : "💱",
+    "keywords" : [
+      "money",
+      "exchange",
+      "rate"
+    ]
+  },
+  "curry" : {
+    "category" : "Food & Drink",
+    "character" : "🍛",
+    "keywords" : [
+      "spicy",
+      "indian",
+      "rice"
+    ]
+  },
+  "cursing" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤬",
+    "keywords" : [
+      "swearing",
+      "angry",
+      "symbols"
+    ]
+  },
+  "custard" : {
+    "category" : "Food & Drink",
+    "character" : "🍮",
+    "keywords" : [
+      "dessert",
+      "pudding",
+      "caramel"
+    ]
+  },
+  "cut-of-meat" : {
+    "category" : "Food & Drink",
+    "character" : "🥩",
+    "keywords" : [
+      "steak",
+      "beef",
+      "protein"
+    ]
+  },
+  "dagger" : {
+    "category" : "Objects",
+    "character" : "🗡️",
+    "keywords" : [
+      "weapon",
+      "knife",
+      "sharp"
+    ]
+  },
+  "dango" : {
+    "category" : "Food & Drink",
+    "character" : "🍡",
+    "keywords" : [
+      "japanese",
+      "sweet",
+      "skewer"
+    ]
+  },
+  "dark-sunglasses" : {
+    "category" : "Objects",
+    "character" : "🕶️",
+    "keywords" : [
+      "cool",
+      "shade",
+      "protection"
+    ]
+  },
+  "dart" : {
+    "category" : "Activities",
+    "character" : "🎯",
+    "keywords" : [
+      "target",
+      "bullseye",
+      "game"
+    ]
+  },
+  "date" : {
+    "category" : "Objects",
+    "character" : "📅",
+    "keywords" : [
+      "calendar",
+      "schedule",
+      "day"
+    ]
+  },
+  "deer" : {
+    "category" : "Animals & Nature",
+    "character" : "🦌",
+    "keywords" : [
+      "animal",
+      "antlers",
+      "forest"
+    ]
+  },
+  "department-store" : {
+    "category" : "Travel & Places",
+    "character" : "🏬",
+    "keywords" : [
+      "shopping",
+      "retail",
+      "big"
+    ]
+  },
+  "derelict-house" : {
+    "category" : "Travel & Places",
+    "character" : "🏚️",
+    "keywords" : [
+      "abandoned",
+      "old",
+      "broken"
+    ]
+  },
+  "desert" : {
+    "category" : "Travel & Places",
+    "character" : "🏜️",
+    "keywords" : [
+      "sand",
+      "hot",
+      "dry"
+    ]
+  },
+  "desert-island" : {
+    "category" : "Travel & Places",
+    "character" : "🏝️",
+    "keywords" : [
+      "tropical",
+      "palm",
+      "isolated"
+    ]
+  },
+  "desktop-computer" : {
+    "category" : "Objects",
+    "character" : "🖥️",
+    "keywords" : [
+      "monitor",
+      "pc",
+      "work"
+    ]
+  },
+  "diamonds" : {
+    "category" : "Activities",
+    "character" : "♦️",
+    "keywords" : [
+      "cards",
+      "suit",
+      "red"
+    ]
+  },
+  "disappointed" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😞",
+    "keywords" : [
+      "sad",
+      "let-down",
+      "upset"
+    ]
+  },
+  "disappointed-relieved" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😥",
+    "keywords" : [
+      "sad",
+      "relieved",
+      "sweat"
+    ]
+  },
+  "disguised" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🥸",
+    "keywords" : [
+      "incognito",
+      "spy",
+      "hidden"
+    ]
+  },
+  "diving-mask" : {
+    "category" : "Activities",
+    "character" : "🤿",
+    "keywords" : [
+      "underwater",
+      "scuba",
+      "ocean"
+    ]
+  },
+  "diya-lamp" : {
+    "category" : "Objects",
+    "character" : "🪔",
+    "keywords" : [
+      "oil",
+      "indian",
+      "festival"
+    ]
+  },
+  "dna" : {
+    "category" : "Objects",
+    "character" : "🧬",
+    "keywords" : [
+      "genetics",
+      "biology",
+      "helix"
+    ]
+  },
+  "dodo" : {
+    "category" : "Animals & Nature",
+    "character" : "🦤",
+    "keywords" : [
+      "bird",
+      "extinct",
+      "mauritius"
+    ]
+  },
+  "dog" : {
+    "category" : "Animals & Nature",
+    "character" : "🐶",
+    "keywords" : [
+      "animal",
+      "pet",
+      "loyal"
+    ]
+  },
+  "dog2" : {
+    "category" : "Animals & Nature",
+    "character" : "🐕",
+    "keywords" : [
+      "animal",
+      "pet",
+      "friend"
+    ]
+  },
+  "dollar" : {
+    "category" : "Objects",
+    "character" : "💵",
+    "keywords" : [
+      "money",
+      "america",
+      "bill"
+    ]
+  },
+  "dolls" : {
+    "category" : "Activities",
+    "character" : "🎎",
+    "keywords" : [
+      "japanese",
+      "festival",
+      "hina"
+    ]
+  },
+  "door" : {
+    "category" : "Objects",
+    "character" : "🚪",
+    "keywords" : [
+      "entrance",
+      "exit",
+      "room"
+    ]
+  },
+  "doughnut" : {
+    "category" : "Food & Drink",
+    "character" : "🍩",
+    "keywords" : [
+      "dessert",
+      "fried",
+      "hole"
+    ]
+  },
+  "dove" : {
+    "category" : "Animals & Nature",
+    "character" : "🕊️",
+    "keywords" : [
+      "bird",
+      "peace",
+      "white"
+    ]
+  },
+  "dragon" : {
+    "category" : "Animals & Nature",
+    "character" : "🐉",
+    "keywords" : [
+      "fantasy",
+      "mythology",
+      "fire"
+    ]
+  },
+  "dragon-face" : {
+    "category" : "Animals & Nature",
+    "character" : "🐲",
+    "keywords" : [
+      "fantasy",
+      "fire",
+      "chinese"
+    ]
+  },
+  "dress" : {
+    "category" : "Objects",
+    "character" : "👗",
+    "keywords" : [
+      "formal",
+      "feminine",
+      "elegant"
+    ]
+  },
+  "dromedary-camel" : {
+    "category" : "Animals & Nature",
+    "character" : "🐪",
+    "keywords" : [
+      "animal",
+      "desert",
+      "hump"
+    ]
+  },
+  "drool" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤤",
+    "keywords" : [
+      "desire",
+      "hungry",
+      "want"
+    ]
+  },
+  "drop-of-blood" : {
+    "category" : "Objects",
+    "character" : "🩸",
+    "keywords" : [
+      "medical",
+      "injury",
+      "red"
+    ]
+  },
+  "drum" : {
+    "category" : "Objects",
+    "character" : "🥁",
+    "keywords" : [
+      "music",
+      "rhythm",
+      "beat"
+    ]
+  },
+  "duck" : {
+    "category" : "Animals & Nature",
+    "character" : "🦆",
+    "keywords" : [
+      "bird",
+      "water",
+      "quack"
+    ]
+  },
+  "dumpling" : {
+    "category" : "Food & Drink",
+    "character" : "🥟",
+    "keywords" : [
+      "chinese",
+      "filled",
+      "steamed"
+    ]
+  },
+  "dvd" : {
+    "category" : "Objects",
+    "character" : "📀",
+    "keywords" : [
+      "movie",
+      "storage",
+      "disc"
+    ]
+  },
+  "e-mail" : {
+    "category" : "Objects",
+    "character" : "📧",
+    "keywords" : [
+      "email",
+      "electronic",
+      "message"
+    ]
+  },
+  "eagle" : {
+    "category" : "Animals & Nature",
+    "character" : "🦅",
+    "keywords" : [
+      "bird",
+      "america",
+      "strong"
+    ]
+  },
+  "ear" : {
+    "category" : "People & Body",
+    "character" : "👂",
+    "keywords" : [
+      "hear",
+      "listen",
+      "sound"
+    ]
+  },
+  "ear-with-hearing-aid" : {
+    "category" : "People & Body",
+    "character" : "🦻",
+    "keywords" : [
+      "accessibility",
+      "deaf",
+      "hearing"
+    ]
+  },
+  "earth-africa" : {
+    "category" : "Travel & Places",
+    "character" : "🌍",
+    "keywords" : [
+      "world",
+      "planet",
+      "africa"
+    ]
+  },
+  "earth-americas" : {
+    "category" : "Travel & Places",
+    "character" : "🌎",
+    "keywords" : [
+      "world",
+      "planet",
+      "america"
+    ]
+  },
+  "earth-asia" : {
+    "category" : "Travel & Places",
+    "character" : "🌏",
+    "keywords" : [
+      "world",
+      "planet",
+      "asia"
+    ]
+  },
+  "egg" : {
+    "category" : "Food & Drink",
+    "character" : "🥚",
+    "keywords" : [
+      "protein",
+      "breakfast",
+      "oval"
+    ]
+  },
+  "eggplant" : {
+    "category" : "Food & Drink",
+    "character" : "🍆",
+    "keywords" : [
+      "vegetable",
+      "purple",
+      "emoji"
+    ]
+  },
+  "eight" : {
+    "category" : "Symbols",
+    "character" : "8️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "eighth"
+    ]
+  },
+  "eight-pointed-black-star" : {
+    "category" : "Symbols",
+    "character" : "✴️",
+    "keywords" : [
+      "star",
+      "orange",
+      "symbol"
+    ]
+  },
+  "eight-spoked-asterisk" : {
+    "category" : "Symbols",
+    "character" : "✳️",
+    "keywords" : [
+      "star",
+      "sparkle",
+      "symbol"
+    ]
+  },
+  "eject-button" : {
+    "category" : "Symbols",
+    "character" : "⏏️",
+    "keywords" : [
+      "eject",
+      "up",
+      "triangle"
+    ]
+  },
+  "electric-plug" : {
+    "category" : "Objects",
+    "character" : "🔌",
+    "keywords" : [
+      "power",
+      "electricity",
+      "outlet"
+    ]
+  },
+  "elephant" : {
+    "category" : "Animals & Nature",
+    "character" : "🐘",
+    "keywords" : [
+      "animal",
+      "large",
+      "trunk"
+    ]
+  },
+  "elevator" : {
+    "category" : "Objects",
+    "character" : "🛗",
+    "keywords" : [
+      "lift",
+      "building",
+      "vertical"
+    ]
+  },
+  "email" : {
+    "category" : "Objects",
+    "character" : "✉️",
+    "keywords" : [
+      "mail",
+      "letter",
+      "envelope"
+    ]
+  },
+  "envelope-with-arrow" : {
+    "category" : "Objects",
+    "character" : "📩",
+    "keywords" : [
+      "mail",
+      "send",
+      "outgoing"
+    ]
+  },
+  "euro" : {
+    "category" : "Objects",
+    "character" : "💶",
+    "keywords" : [
+      "money",
+      "europe",
+      "currency"
+    ]
+  },
+  "european-castle" : {
+    "category" : "Travel & Places",
+    "character" : "🏰",
+    "keywords" : [
+      "medieval",
+      "royalty",
+      "fairy-tale"
+    ]
+  },
+  "european-post-office" : {
+    "category" : "Travel & Places",
+    "character" : "🏤",
+    "keywords" : [
+      "mail",
+      "europe",
+      "building"
+    ]
+  },
+  "exclamation" : {
+    "category" : "Symbols",
+    "character" : "❗",
+    "keywords" : [
+      "warning",
+      "emphasis",
+      "important"
+    ]
+  },
+  "exploding-head" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤯",
+    "keywords" : [
+      "mind-blown",
+      "shocked",
+      "amazing"
+    ]
+  },
+  "expressionless" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😑",
+    "keywords" : [
+      "blank",
+      "deadpan",
+      "serious"
+    ]
+  },
+  "eye" : {
+    "category" : "People & Body",
+    "character" : "👁️",
+    "keywords" : [
+      "see",
+      "look",
+      "vision"
+    ]
+  },
+  "eyeglasses" : {
+    "category" : "Objects",
+    "character" : "👓",
+    "keywords" : [
+      "glasses",
+      "vision",
+      "smart"
+    ]
+  },
+  "eyes" : {
+    "category" : "People & Body",
+    "character" : "👀",
+    "keywords" : [
+      "look",
+      "see",
+      "watch"
+    ]
+  },
+  "factory" : {
+    "category" : "Travel & Places",
+    "character" : "🏭",
+    "keywords" : [
+      "industry",
+      "manufacturing",
+      "pollution"
+    ]
+  },
+  "falafel" : {
+    "category" : "Food & Drink",
+    "character" : "🧆",
+    "keywords" : [
+      "middle-eastern",
+      "chickpea",
+      "fried"
+    ]
+  },
+  "fast-forward" : {
+    "category" : "Symbols",
+    "character" : "⏩",
+    "keywords" : [
+      "skip",
+      "next",
+      "double"
+    ]
+  },
+  "fax" : {
+    "category" : "Objects",
+    "character" : "📠",
+    "keywords" : [
+      "machine",
+      "document",
+      "transmission"
+    ]
+  },
+  "fearful" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😨",
+    "keywords" : [
+      "scared",
+      "afraid",
+      "shocked"
+    ]
+  },
+  "feather" : {
+    "category" : "Animals & Nature",
+    "character" : "🪶",
+    "keywords" : [
+      "bird",
+      "light",
+      "write"
+    ]
+  },
+  "feet" : {
+    "category" : "Animals & Nature",
+    "character" : "🐾",
+    "keywords" : [
+      "paws",
+      "tracks",
+      "animal"
+    ]
+  },
+  "female-sign" : {
+    "category" : "Symbols",
+    "character" : "♀️",
+    "keywords" : [
+      "woman",
+      "gender",
+      "venus"
+    ]
+  },
+  "ferris-wheel" : {
+    "category" : "Travel & Places",
+    "character" : "🎡",
+    "keywords" : [
+      "amusement",
+      "big",
+      "round"
+    ]
+  },
+  "ferry" : {
+    "category" : "Travel & Places",
+    "character" : "⛴️",
+    "keywords" : [
+      "boat",
+      "transport",
+      "crossing"
+    ]
+  },
+  "field-hockey" : {
+    "category" : "Activities",
+    "character" : "🏑",
+    "keywords" : [
+      "sport",
+      "stick",
+      "ball"
+    ]
+  },
+  "file-cabinet" : {
+    "category" : "Objects",
+    "character" : "🗄️",
+    "keywords" : [
+      "office",
+      "storage",
+      "documents"
+    ]
+  },
+  "file-folder" : {
+    "category" : "Objects",
+    "character" : "📁",
+    "keywords" : [
+      "organize",
+      "documents",
+      "office"
+    ]
+  },
+  "film-projector" : {
+    "category" : "Objects",
+    "character" : "📽️",
+    "keywords" : [
+      "movie",
+      "cinema",
+      "old"
+    ]
+  },
+  "film-strip" : {
+    "category" : "Objects",
+    "character" : "🎞️",
+    "keywords" : [
+      "movie",
+      "cinema",
+      "reel"
+    ]
+  },
+  "fire-engine" : {
+    "category" : "Travel & Places",
+    "character" : "🚒",
+    "keywords" : [
+      "emergency",
+      "firefighter",
+      "red"
+    ]
+  },
+  "fire-extinguisher" : {
+    "category" : "Objects",
+    "character" : "🧯",
+    "keywords" : [
+      "safety",
+      "fire",
+      "emergency"
+    ]
+  },
+  "firecracker" : {
+    "category" : "Activities",
+    "character" : "🧨",
+    "keywords" : [
+      "explosion",
+      "dangerous",
+      "loud"
+    ]
+  },
+  "fireworks" : {
+    "category" : "Activities",
+    "character" : "🎆",
+    "keywords" : [
+      "celebration",
+      "explosion",
+      "colorful"
+    ]
+  },
+  "fish-cake" : {
+    "category" : "Food & Drink",
+    "character" : "🍥",
+    "keywords" : [
+      "japanese",
+      "swirl",
+      "ramen"
+    ]
+  },
+  "fishing-pole-and-fish" : {
+    "category" : "Activities",
+    "character" : "🎣",
+    "keywords" : [
+      "hobby",
+      "catch",
+      "water"
+    ]
+  },
+  "fist-left" : {
+    "category" : "People & Body",
+    "character" : "🤛",
+    "keywords" : [
+      "fist-bump",
+      "punch",
+      "solidarity"
+    ]
+  },
+  "fist-oncoming" : {
+    "category" : "People & Body",
+    "character" : "👊",
+    "keywords" : [
+      "punch",
+      "fist-bump",
+      "power"
+    ]
+  },
+  "fist-right" : {
+    "category" : "People & Body",
+    "character" : "🤜",
+    "keywords" : [
+      "fist-bump",
+      "punch",
+      "solidarity"
+    ]
+  },
+  "five" : {
+    "category" : "Symbols",
+    "character" : "5️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "fifth"
+    ]
+  },
+  "flag-ad" : {
+    "category" : "Flags",
+    "character" : "🇦🇩",
+    "keywords" : [
+      "andorra",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ae" : {
+    "category" : "Flags",
+    "character" : "🇦🇪",
+    "keywords" : [
+      "united-arab-emirates",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-af" : {
+    "category" : "Flags",
+    "character" : "🇦🇫",
+    "keywords" : [
+      "afghanistan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ag" : {
+    "category" : "Flags",
+    "character" : "🇦🇬",
+    "keywords" : [
+      "antigua-barbuda",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ai" : {
+    "category" : "Flags",
+    "character" : "🇦🇮",
+    "keywords" : [
+      "anguilla",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-al" : {
+    "category" : "Flags",
+    "character" : "🇦🇱",
+    "keywords" : [
+      "albania",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-am" : {
+    "category" : "Flags",
+    "character" : "🇦🇲",
+    "keywords" : [
+      "armenia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ao" : {
+    "category" : "Flags",
+    "character" : "🇦🇴",
+    "keywords" : [
+      "angola",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-aq" : {
+    "category" : "Flags",
+    "character" : "🇦🇶",
+    "keywords" : [
+      "antarctica",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ar" : {
+    "category" : "Flags",
+    "character" : "🇦🇷",
+    "keywords" : [
+      "argentina",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-as" : {
+    "category" : "Flags",
+    "character" : "🇦🇸",
+    "keywords" : [
+      "american-samoa",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-at" : {
+    "category" : "Flags",
+    "character" : "🇦🇹",
+    "keywords" : [
+      "austria",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-au" : {
+    "category" : "Flags",
+    "character" : "🇦🇺",
+    "keywords" : [
+      "australia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-aw" : {
+    "category" : "Flags",
+    "character" : "🇦🇼",
+    "keywords" : [
+      "aruba",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ax" : {
+    "category" : "Flags",
+    "character" : "🇦🇽",
+    "keywords" : [
+      "aland-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-az" : {
+    "category" : "Flags",
+    "character" : "🇦🇿",
+    "keywords" : [
+      "azerbaijan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ba" : {
+    "category" : "Flags",
+    "character" : "🇧🇦",
+    "keywords" : [
+      "bosnia-herzegovina",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bb" : {
+    "category" : "Flags",
+    "character" : "🇧🇧",
+    "keywords" : [
+      "barbados",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bd" : {
+    "category" : "Flags",
+    "character" : "🇧🇩",
+    "keywords" : [
+      "bangladesh",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-be" : {
+    "category" : "Flags",
+    "character" : "🇧🇪",
+    "keywords" : [
+      "belgium",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bf" : {
+    "category" : "Flags",
+    "character" : "🇧🇫",
+    "keywords" : [
+      "burkina-faso",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bg" : {
+    "category" : "Flags",
+    "character" : "🇧🇬",
+    "keywords" : [
+      "bulgaria",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bh" : {
+    "category" : "Flags",
+    "character" : "🇧🇭",
+    "keywords" : [
+      "bahrain",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bi" : {
+    "category" : "Flags",
+    "character" : "🇧🇮",
+    "keywords" : [
+      "burundi",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bj" : {
+    "category" : "Flags",
+    "character" : "🇧🇯",
+    "keywords" : [
+      "benin",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bl" : {
+    "category" : "Flags",
+    "character" : "🇧🇱",
+    "keywords" : [
+      "saint-barthelemy",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bm" : {
+    "category" : "Flags",
+    "character" : "🇧🇲",
+    "keywords" : [
+      "bermuda",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bn" : {
+    "category" : "Flags",
+    "character" : "🇧🇳",
+    "keywords" : [
+      "brunei",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bo" : {
+    "category" : "Flags",
+    "character" : "🇧🇴",
+    "keywords" : [
+      "bolivia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bq" : {
+    "category" : "Flags",
+    "character" : "🇧🇶",
+    "keywords" : [
+      "bonaire",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-br" : {
+    "category" : "Flags",
+    "character" : "🇧🇷",
+    "keywords" : [
+      "brazil",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bs" : {
+    "category" : "Flags",
+    "character" : "🇧🇸",
+    "keywords" : [
+      "bahamas",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bt" : {
+    "category" : "Flags",
+    "character" : "🇧🇹",
+    "keywords" : [
+      "bhutan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bv" : {
+    "category" : "Flags",
+    "character" : "🇧🇻",
+    "keywords" : [
+      "bouvet-island",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bw" : {
+    "category" : "Flags",
+    "character" : "🇧🇼",
+    "keywords" : [
+      "botswana",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-by" : {
+    "category" : "Flags",
+    "character" : "🇧🇾",
+    "keywords" : [
+      "belarus",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-bz" : {
+    "category" : "Flags",
+    "character" : "🇧🇿",
+    "keywords" : [
+      "belize",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ca" : {
+    "category" : "Flags",
+    "character" : "🇨🇦",
+    "keywords" : [
+      "canada",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cc" : {
+    "category" : "Flags",
+    "character" : "🇨🇨",
+    "keywords" : [
+      "cocos-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cd" : {
+    "category" : "Flags",
+    "character" : "🇨🇩",
+    "keywords" : [
+      "congo-kinshasa",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cf" : {
+    "category" : "Flags",
+    "character" : "🇨🇫",
+    "keywords" : [
+      "central-african-republic",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cg" : {
+    "category" : "Flags",
+    "character" : "🇨🇬",
+    "keywords" : [
+      "congo-brazzaville",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ch" : {
+    "category" : "Flags",
+    "character" : "🇨🇭",
+    "keywords" : [
+      "switzerland",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ci" : {
+    "category" : "Flags",
+    "character" : "🇨🇮",
+    "keywords" : [
+      "cote-divoire",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ck" : {
+    "category" : "Flags",
+    "character" : "🇨🇰",
+    "keywords" : [
+      "cook-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cl" : {
+    "category" : "Flags",
+    "character" : "🇨🇱",
+    "keywords" : [
+      "chile",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cm" : {
+    "category" : "Flags",
+    "character" : "🇨🇲",
+    "keywords" : [
+      "cameroon",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cn" : {
+    "category" : "Flags",
+    "character" : "🇨🇳",
+    "keywords" : [
+      "china",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-co" : {
+    "category" : "Flags",
+    "character" : "🇨🇴",
+    "keywords" : [
+      "colombia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cr" : {
+    "category" : "Flags",
+    "character" : "🇨🇷",
+    "keywords" : [
+      "costa-rica",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cu" : {
+    "category" : "Flags",
+    "character" : "🇨🇺",
+    "keywords" : [
+      "cuba",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cv" : {
+    "category" : "Flags",
+    "character" : "🇨🇻",
+    "keywords" : [
+      "cape-verde",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cw" : {
+    "category" : "Flags",
+    "character" : "🇨🇼",
+    "keywords" : [
+      "curacao",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cx" : {
+    "category" : "Flags",
+    "character" : "🇨🇽",
+    "keywords" : [
+      "christmas-island",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cy" : {
+    "category" : "Flags",
+    "character" : "🇨🇾",
+    "keywords" : [
+      "cyprus",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-cz" : {
+    "category" : "Flags",
+    "character" : "🇨🇿",
+    "keywords" : [
+      "czech-republic",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-de" : {
+    "category" : "Flags",
+    "character" : "🇩🇪",
+    "keywords" : [
+      "germany",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-dj" : {
+    "category" : "Flags",
+    "character" : "🇩🇯",
+    "keywords" : [
+      "djibouti",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-dk" : {
+    "category" : "Flags",
+    "character" : "🇩🇰",
+    "keywords" : [
+      "denmark",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-dm" : {
+    "category" : "Flags",
+    "character" : "🇩🇲",
+    "keywords" : [
+      "dominica",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-do" : {
+    "category" : "Flags",
+    "character" : "🇩🇴",
+    "keywords" : [
+      "dominican-republic",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-dz" : {
+    "category" : "Flags",
+    "character" : "🇩🇿",
+    "keywords" : [
+      "algeria",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ec" : {
+    "category" : "Flags",
+    "character" : "🇪🇨",
+    "keywords" : [
+      "ecuador",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ee" : {
+    "category" : "Flags",
+    "character" : "🇪🇪",
+    "keywords" : [
+      "estonia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-eg" : {
+    "category" : "Flags",
+    "character" : "🇪🇬",
+    "keywords" : [
+      "egypt",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-eh" : {
+    "category" : "Flags",
+    "character" : "🇪🇭",
+    "keywords" : [
+      "western-sahara",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-er" : {
+    "category" : "Flags",
+    "character" : "🇪🇷",
+    "keywords" : [
+      "eritrea",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-es" : {
+    "category" : "Flags",
+    "character" : "🇪🇸",
+    "keywords" : [
+      "spain",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-et" : {
+    "category" : "Flags",
+    "character" : "🇪🇹",
+    "keywords" : [
+      "ethiopia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-eu" : {
+    "category" : "Flags",
+    "character" : "🇪🇺",
+    "keywords" : [
+      "european-union",
+      "union",
+      "flag"
+    ]
+  },
+  "flag-fi" : {
+    "category" : "Flags",
+    "character" : "🇫🇮",
+    "keywords" : [
+      "finland",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-fj" : {
+    "category" : "Flags",
+    "character" : "🇫🇯",
+    "keywords" : [
+      "fiji",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-fk" : {
+    "category" : "Flags",
+    "character" : "🇫🇰",
+    "keywords" : [
+      "falkland-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-fm" : {
+    "category" : "Flags",
+    "character" : "🇫🇲",
+    "keywords" : [
+      "micronesia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-fo" : {
+    "category" : "Flags",
+    "character" : "🇫🇴",
+    "keywords" : [
+      "faroe-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-fr" : {
+    "category" : "Flags",
+    "character" : "🇫🇷",
+    "keywords" : [
+      "france",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ga" : {
+    "category" : "Flags",
+    "character" : "🇬🇦",
+    "keywords" : [
+      "gabon",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gb" : {
+    "category" : "Flags",
+    "character" : "🇬🇧",
+    "keywords" : [
+      "united-kingdom",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gd" : {
+    "category" : "Flags",
+    "character" : "🇬🇩",
+    "keywords" : [
+      "grenada",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ge" : {
+    "category" : "Flags",
+    "character" : "🇬🇪",
+    "keywords" : [
+      "georgia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gf" : {
+    "category" : "Flags",
+    "character" : "🇬🇫",
+    "keywords" : [
+      "french-guiana",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gg" : {
+    "category" : "Flags",
+    "character" : "🇬🇬",
+    "keywords" : [
+      "guernsey",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gh" : {
+    "category" : "Flags",
+    "character" : "🇬🇭",
+    "keywords" : [
+      "ghana",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gi" : {
+    "category" : "Flags",
+    "character" : "🇬🇮",
+    "keywords" : [
+      "gibraltar",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gl" : {
+    "category" : "Flags",
+    "character" : "🇬🇱",
+    "keywords" : [
+      "greenland",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gm" : {
+    "category" : "Flags",
+    "character" : "🇬🇲",
+    "keywords" : [
+      "gambia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gn" : {
+    "category" : "Flags",
+    "character" : "🇬🇳",
+    "keywords" : [
+      "guinea",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gp" : {
+    "category" : "Flags",
+    "character" : "🇬🇵",
+    "keywords" : [
+      "guadeloupe",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gq" : {
+    "category" : "Flags",
+    "character" : "🇬🇶",
+    "keywords" : [
+      "equatorial-guinea",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gr" : {
+    "category" : "Flags",
+    "character" : "🇬🇷",
+    "keywords" : [
+      "greece",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gs" : {
+    "category" : "Flags",
+    "character" : "🇬🇸",
+    "keywords" : [
+      "south-georgia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gt" : {
+    "category" : "Flags",
+    "character" : "🇬🇹",
+    "keywords" : [
+      "guatemala",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gu" : {
+    "category" : "Flags",
+    "character" : "🇬🇺",
+    "keywords" : [
+      "guam",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gw" : {
+    "category" : "Flags",
+    "character" : "🇬🇼",
+    "keywords" : [
+      "guinea-bissau",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-gy" : {
+    "category" : "Flags",
+    "character" : "🇬🇾",
+    "keywords" : [
+      "guyana",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-hk" : {
+    "category" : "Flags",
+    "character" : "🇭🇰",
+    "keywords" : [
+      "hong-kong",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-hm" : {
+    "category" : "Flags",
+    "character" : "🇭🇲",
+    "keywords" : [
+      "heard-mcdonald",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-hn" : {
+    "category" : "Flags",
+    "character" : "🇭🇳",
+    "keywords" : [
+      "honduras",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-hr" : {
+    "category" : "Flags",
+    "character" : "🇭🇷",
+    "keywords" : [
+      "croatia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ht" : {
+    "category" : "Flags",
+    "character" : "🇭🇹",
+    "keywords" : [
+      "haiti",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-hu" : {
+    "category" : "Flags",
+    "character" : "🇭🇺",
+    "keywords" : [
+      "hungary",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-id" : {
+    "category" : "Flags",
+    "character" : "🇮🇩",
+    "keywords" : [
+      "indonesia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ie" : {
+    "category" : "Flags",
+    "character" : "🇮🇪",
+    "keywords" : [
+      "ireland",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-il" : {
+    "category" : "Flags",
+    "character" : "🇮🇱",
+    "keywords" : [
+      "israel",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-im" : {
+    "category" : "Flags",
+    "character" : "🇮🇲",
+    "keywords" : [
+      "isle-of-man",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-in" : {
+    "category" : "Flags",
+    "character" : "🇮🇳",
+    "keywords" : [
+      "india",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-io" : {
+    "category" : "Flags",
+    "character" : "🇮🇴",
+    "keywords" : [
+      "british-indian-ocean",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-iq" : {
+    "category" : "Flags",
+    "character" : "🇮🇶",
+    "keywords" : [
+      "iraq",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ir" : {
+    "category" : "Flags",
+    "character" : "🇮🇷",
+    "keywords" : [
+      "iran",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-is" : {
+    "category" : "Flags",
+    "character" : "🇮🇸",
+    "keywords" : [
+      "iceland",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-it" : {
+    "category" : "Flags",
+    "character" : "🇮🇹",
+    "keywords" : [
+      "italy",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-je" : {
+    "category" : "Flags",
+    "character" : "🇯🇪",
+    "keywords" : [
+      "jersey",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-jm" : {
+    "category" : "Flags",
+    "character" : "🇯🇲",
+    "keywords" : [
+      "jamaica",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-jo" : {
+    "category" : "Flags",
+    "character" : "🇯🇴",
+    "keywords" : [
+      "jordan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-jp" : {
+    "category" : "Flags",
+    "character" : "🇯🇵",
+    "keywords" : [
+      "japan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ke" : {
+    "category" : "Flags",
+    "character" : "🇰🇪",
+    "keywords" : [
+      "kenya",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-kg" : {
+    "category" : "Flags",
+    "character" : "🇰🇬",
+    "keywords" : [
+      "kyrgyzstan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-kh" : {
+    "category" : "Flags",
+    "character" : "🇰🇭",
+    "keywords" : [
+      "cambodia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ki" : {
+    "category" : "Flags",
+    "character" : "🇰🇮",
+    "keywords" : [
+      "kiribati",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-km" : {
+    "category" : "Flags",
+    "character" : "🇰🇲",
+    "keywords" : [
+      "comoros",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-kn" : {
+    "category" : "Flags",
+    "character" : "🇰🇳",
+    "keywords" : [
+      "saint-kitts-nevis",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-kp" : {
+    "category" : "Flags",
+    "character" : "🇰🇵",
+    "keywords" : [
+      "north-korea",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-kr" : {
+    "category" : "Flags",
+    "character" : "🇰🇷",
+    "keywords" : [
+      "south-korea",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-kw" : {
+    "category" : "Flags",
+    "character" : "🇰🇼",
+    "keywords" : [
+      "kuwait",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ky" : {
+    "category" : "Flags",
+    "character" : "🇰🇾",
+    "keywords" : [
+      "cayman-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-kz" : {
+    "category" : "Flags",
+    "character" : "🇰🇿",
+    "keywords" : [
+      "kazakhstan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-la" : {
+    "category" : "Flags",
+    "character" : "🇱🇦",
+    "keywords" : [
+      "laos",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-lb" : {
+    "category" : "Flags",
+    "character" : "🇱🇧",
+    "keywords" : [
+      "lebanon",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-lc" : {
+    "category" : "Flags",
+    "character" : "🇱🇨",
+    "keywords" : [
+      "saint-lucia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-li" : {
+    "category" : "Flags",
+    "character" : "🇱🇮",
+    "keywords" : [
+      "liechtenstein",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-lk" : {
+    "category" : "Flags",
+    "character" : "🇱🇰",
+    "keywords" : [
+      "sri-lanka",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-lr" : {
+    "category" : "Flags",
+    "character" : "🇱🇷",
+    "keywords" : [
+      "liberia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ls" : {
+    "category" : "Flags",
+    "character" : "🇱🇸",
+    "keywords" : [
+      "lesotho",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-lt" : {
+    "category" : "Flags",
+    "character" : "🇱🇹",
+    "keywords" : [
+      "lithuania",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-lu" : {
+    "category" : "Flags",
+    "character" : "🇱🇺",
+    "keywords" : [
+      "luxembourg",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-lv" : {
+    "category" : "Flags",
+    "character" : "🇱🇻",
+    "keywords" : [
+      "latvia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ly" : {
+    "category" : "Flags",
+    "character" : "🇱🇾",
+    "keywords" : [
+      "libya",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ma" : {
+    "category" : "Flags",
+    "character" : "🇲🇦",
+    "keywords" : [
+      "morocco",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mc" : {
+    "category" : "Flags",
+    "character" : "🇲🇨",
+    "keywords" : [
+      "monaco",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-md" : {
+    "category" : "Flags",
+    "character" : "🇲🇩",
+    "keywords" : [
+      "moldova",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-me" : {
+    "category" : "Flags",
+    "character" : "🇲🇪",
+    "keywords" : [
+      "montenegro",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mf" : {
+    "category" : "Flags",
+    "character" : "🇲🇫",
+    "keywords" : [
+      "saint-martin",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mg" : {
+    "category" : "Flags",
+    "character" : "🇲🇬",
+    "keywords" : [
+      "madagascar",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mh" : {
+    "category" : "Flags",
+    "character" : "🇲🇭",
+    "keywords" : [
+      "marshall-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mk" : {
+    "category" : "Flags",
+    "character" : "🇲🇰",
+    "keywords" : [
+      "north-macedonia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ml" : {
+    "category" : "Flags",
+    "character" : "🇲🇱",
+    "keywords" : [
+      "mali",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mm" : {
+    "category" : "Flags",
+    "character" : "🇲🇲",
+    "keywords" : [
+      "myanmar",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mn" : {
+    "category" : "Flags",
+    "character" : "🇲🇳",
+    "keywords" : [
+      "mongolia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mo" : {
+    "category" : "Flags",
+    "character" : "🇲🇴",
+    "keywords" : [
+      "macau",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mp" : {
+    "category" : "Flags",
+    "character" : "🇲🇵",
+    "keywords" : [
+      "northern-mariana",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mq" : {
+    "category" : "Flags",
+    "character" : "🇲🇶",
+    "keywords" : [
+      "martinique",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mr" : {
+    "category" : "Flags",
+    "character" : "🇲🇷",
+    "keywords" : [
+      "mauritania",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ms" : {
+    "category" : "Flags",
+    "character" : "🇲🇸",
+    "keywords" : [
+      "montserrat",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mt" : {
+    "category" : "Flags",
+    "character" : "🇲🇹",
+    "keywords" : [
+      "malta",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mu" : {
+    "category" : "Flags",
+    "character" : "🇲🇺",
+    "keywords" : [
+      "mauritius",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mv" : {
+    "category" : "Flags",
+    "character" : "🇲🇻",
+    "keywords" : [
+      "maldives",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mw" : {
+    "category" : "Flags",
+    "character" : "🇲🇼",
+    "keywords" : [
+      "malawi",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mx" : {
+    "category" : "Flags",
+    "character" : "🇲🇽",
+    "keywords" : [
+      "mexico",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-my" : {
+    "category" : "Flags",
+    "character" : "🇲🇾",
+    "keywords" : [
+      "malaysia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-mz" : {
+    "category" : "Flags",
+    "character" : "🇲🇿",
+    "keywords" : [
+      "mozambique",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-na" : {
+    "category" : "Flags",
+    "character" : "🇳🇦",
+    "keywords" : [
+      "namibia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-nc" : {
+    "category" : "Flags",
+    "character" : "🇳🇨",
+    "keywords" : [
+      "new-caledonia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ne" : {
+    "category" : "Flags",
+    "character" : "🇳🇪",
+    "keywords" : [
+      "niger",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-nf" : {
+    "category" : "Flags",
+    "character" : "🇳🇫",
+    "keywords" : [
+      "norfolk-island",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ng" : {
+    "category" : "Flags",
+    "character" : "🇳🇬",
+    "keywords" : [
+      "nigeria",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ni" : {
+    "category" : "Flags",
+    "character" : "🇳🇮",
+    "keywords" : [
+      "nicaragua",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-nl" : {
+    "category" : "Flags",
+    "character" : "🇳🇱",
+    "keywords" : [
+      "netherlands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-no" : {
+    "category" : "Flags",
+    "character" : "🇳🇴",
+    "keywords" : [
+      "norway",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-np" : {
+    "category" : "Flags",
+    "character" : "🇳🇵",
+    "keywords" : [
+      "nepal",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-nr" : {
+    "category" : "Flags",
+    "character" : "🇳🇷",
+    "keywords" : [
+      "nauru",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-nu" : {
+    "category" : "Flags",
+    "character" : "🇳🇺",
+    "keywords" : [
+      "niue",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-nz" : {
+    "category" : "Flags",
+    "character" : "🇳🇿",
+    "keywords" : [
+      "new-zealand",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-om" : {
+    "category" : "Flags",
+    "character" : "🇴🇲",
+    "keywords" : [
+      "oman",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pa" : {
+    "category" : "Flags",
+    "character" : "🇵🇦",
+    "keywords" : [
+      "panama",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pe" : {
+    "category" : "Flags",
+    "character" : "🇵🇪",
+    "keywords" : [
+      "peru",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pf" : {
+    "category" : "Flags",
+    "character" : "🇵🇫",
+    "keywords" : [
+      "french-polynesia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pg" : {
+    "category" : "Flags",
+    "character" : "🇵🇬",
+    "keywords" : [
+      "papua-new-guinea",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ph" : {
+    "category" : "Flags",
+    "character" : "🇵🇭",
+    "keywords" : [
+      "philippines",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pk" : {
+    "category" : "Flags",
+    "character" : "🇵🇰",
+    "keywords" : [
+      "pakistan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pl" : {
+    "category" : "Flags",
+    "character" : "🇵🇱",
+    "keywords" : [
+      "poland",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pm" : {
+    "category" : "Flags",
+    "character" : "🇵🇲",
+    "keywords" : [
+      "saint-pierre-miquelon",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pn" : {
+    "category" : "Flags",
+    "character" : "🇵🇳",
+    "keywords" : [
+      "pitcairn",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pr" : {
+    "category" : "Flags",
+    "character" : "🇵🇷",
+    "keywords" : [
+      "puerto-rico",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ps" : {
+    "category" : "Flags",
+    "character" : "🇵🇸",
+    "keywords" : [
+      "palestine",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pt" : {
+    "category" : "Flags",
+    "character" : "🇵🇹",
+    "keywords" : [
+      "portugal",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-pw" : {
+    "category" : "Flags",
+    "character" : "🇵🇼",
+    "keywords" : [
+      "palau",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-py" : {
+    "category" : "Flags",
+    "character" : "🇵🇾",
+    "keywords" : [
+      "paraguay",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-qa" : {
+    "category" : "Flags",
+    "character" : "🇶🇦",
+    "keywords" : [
+      "qatar",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-re" : {
+    "category" : "Flags",
+    "character" : "🇷🇪",
+    "keywords" : [
+      "reunion",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ro" : {
+    "category" : "Flags",
+    "character" : "🇷🇴",
+    "keywords" : [
+      "romania",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-rs" : {
+    "category" : "Flags",
+    "character" : "🇷🇸",
+    "keywords" : [
+      "serbia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ru" : {
+    "category" : "Flags",
+    "character" : "🇷🇺",
+    "keywords" : [
+      "russia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-rw" : {
+    "category" : "Flags",
+    "character" : "🇷🇼",
+    "keywords" : [
+      "rwanda",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sa" : {
+    "category" : "Flags",
+    "character" : "🇸🇦",
+    "keywords" : [
+      "saudi-arabia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sb" : {
+    "category" : "Flags",
+    "character" : "🇸🇧",
+    "keywords" : [
+      "solomon-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sc" : {
+    "category" : "Flags",
+    "character" : "🇸🇨",
+    "keywords" : [
+      "seychelles",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sd" : {
+    "category" : "Flags",
+    "character" : "🇸🇩",
+    "keywords" : [
+      "sudan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-se" : {
+    "category" : "Flags",
+    "character" : "🇸🇪",
+    "keywords" : [
+      "sweden",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sg" : {
+    "category" : "Flags",
+    "character" : "🇸🇬",
+    "keywords" : [
+      "singapore",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sh" : {
+    "category" : "Flags",
+    "character" : "🇸🇭",
+    "keywords" : [
+      "saint-helena",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-si" : {
+    "category" : "Flags",
+    "character" : "🇸🇮",
+    "keywords" : [
+      "slovenia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sj" : {
+    "category" : "Flags",
+    "character" : "🇸🇯",
+    "keywords" : [
+      "svalbard-jan-mayen",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sk" : {
+    "category" : "Flags",
+    "character" : "🇸🇰",
+    "keywords" : [
+      "slovakia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sl" : {
+    "category" : "Flags",
+    "character" : "🇸🇱",
+    "keywords" : [
+      "sierra-leone",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sm" : {
+    "category" : "Flags",
+    "character" : "🇸🇲",
+    "keywords" : [
+      "san-marino",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sn" : {
+    "category" : "Flags",
+    "character" : "🇸🇳",
+    "keywords" : [
+      "senegal",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-so" : {
+    "category" : "Flags",
+    "character" : "🇸🇴",
+    "keywords" : [
+      "somalia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sr" : {
+    "category" : "Flags",
+    "character" : "🇸🇷",
+    "keywords" : [
+      "suriname",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ss" : {
+    "category" : "Flags",
+    "character" : "🇸🇸",
+    "keywords" : [
+      "south-sudan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-st" : {
+    "category" : "Flags",
+    "character" : "🇸🇹",
+    "keywords" : [
+      "sao-tome-principe",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sv" : {
+    "category" : "Flags",
+    "character" : "🇸🇻",
+    "keywords" : [
+      "el-salvador",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sx" : {
+    "category" : "Flags",
+    "character" : "🇸🇽",
+    "keywords" : [
+      "sint-maarten",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sy" : {
+    "category" : "Flags",
+    "character" : "🇸🇾",
+    "keywords" : [
+      "syria",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-sz" : {
+    "category" : "Flags",
+    "character" : "🇸🇿",
+    "keywords" : [
+      "eswatini",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tc" : {
+    "category" : "Flags",
+    "character" : "🇹🇨",
+    "keywords" : [
+      "turks-caicos",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-td" : {
+    "category" : "Flags",
+    "character" : "🇹🇩",
+    "keywords" : [
+      "chad",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tf" : {
+    "category" : "Flags",
+    "character" : "🇹🇫",
+    "keywords" : [
+      "french-southern",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tg" : {
+    "category" : "Flags",
+    "character" : "🇹🇬",
+    "keywords" : [
+      "togo",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-th" : {
+    "category" : "Flags",
+    "character" : "🇹🇭",
+    "keywords" : [
+      "thailand",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tj" : {
+    "category" : "Flags",
+    "character" : "🇹🇯",
+    "keywords" : [
+      "tajikistan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tk" : {
+    "category" : "Flags",
+    "character" : "🇹🇰",
+    "keywords" : [
+      "tokelau",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tl" : {
+    "category" : "Flags",
+    "character" : "🇹🇱",
+    "keywords" : [
+      "timor-leste",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tm" : {
+    "category" : "Flags",
+    "character" : "🇹🇲",
+    "keywords" : [
+      "turkmenistan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tn" : {
+    "category" : "Flags",
+    "character" : "🇹🇳",
+    "keywords" : [
+      "tunisia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-to" : {
+    "category" : "Flags",
+    "character" : "🇹🇴",
+    "keywords" : [
+      "tonga",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tr" : {
+    "category" : "Flags",
+    "character" : "🇹🇷",
+    "keywords" : [
+      "turkey",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tt" : {
+    "category" : "Flags",
+    "character" : "🇹🇹",
+    "keywords" : [
+      "trinidad-tobago",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tv" : {
+    "category" : "Flags",
+    "character" : "🇹🇻",
+    "keywords" : [
+      "tuvalu",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tw" : {
+    "category" : "Flags",
+    "character" : "🇹🇼",
+    "keywords" : [
+      "taiwan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-tz" : {
+    "category" : "Flags",
+    "character" : "🇹🇿",
+    "keywords" : [
+      "tanzania",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ua" : {
+    "category" : "Flags",
+    "character" : "🇺🇦",
+    "keywords" : [
+      "ukraine",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ug" : {
+    "category" : "Flags",
+    "character" : "🇺🇬",
+    "keywords" : [
+      "uganda",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-um" : {
+    "category" : "Flags",
+    "character" : "🇺🇲",
+    "keywords" : [
+      "us-outlying-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-un" : {
+    "category" : "Flags",
+    "character" : "🇺🇳",
+    "keywords" : [
+      "united-nations",
+      "organization",
+      "flag"
+    ]
+  },
+  "flag-us" : {
+    "category" : "Flags",
+    "character" : "🇺🇸",
+    "keywords" : [
+      "united-states",
+      "america",
+      "flag"
+    ]
+  },
+  "flag-uy" : {
+    "category" : "Flags",
+    "character" : "🇺🇾",
+    "keywords" : [
+      "uruguay",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-uz" : {
+    "category" : "Flags",
+    "character" : "🇺🇿",
+    "keywords" : [
+      "uzbekistan",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-va" : {
+    "category" : "Flags",
+    "character" : "🇻🇦",
+    "keywords" : [
+      "vatican-city",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-vc" : {
+    "category" : "Flags",
+    "character" : "🇻🇨",
+    "keywords" : [
+      "saint-vincent-grenadines",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ve" : {
+    "category" : "Flags",
+    "character" : "🇻🇪",
+    "keywords" : [
+      "venezuela",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-vg" : {
+    "category" : "Flags",
+    "character" : "🇻🇬",
+    "keywords" : [
+      "british-virgin-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-vi" : {
+    "category" : "Flags",
+    "character" : "🇻🇮",
+    "keywords" : [
+      "us-virgin-islands",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-vn" : {
+    "category" : "Flags",
+    "character" : "🇻🇳",
+    "keywords" : [
+      "vietnam",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-vu" : {
+    "category" : "Flags",
+    "character" : "🇻🇺",
+    "keywords" : [
+      "vanuatu",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-wf" : {
+    "category" : "Flags",
+    "character" : "🇼🇫",
+    "keywords" : [
+      "wallis-futuna",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ws" : {
+    "category" : "Flags",
+    "character" : "🇼🇸",
+    "keywords" : [
+      "samoa",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-xk" : {
+    "category" : "Flags",
+    "character" : "🇽🇰",
+    "keywords" : [
+      "kosovo",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-ye" : {
+    "category" : "Flags",
+    "character" : "🇾🇪",
+    "keywords" : [
+      "yemen",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-yt" : {
+    "category" : "Flags",
+    "character" : "🇾🇹",
+    "keywords" : [
+      "mayotte",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-za" : {
+    "category" : "Flags",
+    "character" : "🇿🇦",
+    "keywords" : [
+      "south-africa",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-zm" : {
+    "category" : "Flags",
+    "character" : "🇿🇲",
+    "keywords" : [
+      "zambia",
+      "country",
+      "flag"
+    ]
+  },
+  "flag-zw" : {
+    "category" : "Flags",
+    "character" : "🇿🇼",
+    "keywords" : [
+      "zimbabwe",
+      "country",
+      "flag"
+    ]
+  },
+  "flags" : {
+    "category" : "Activities",
+    "character" : "🎏",
+    "keywords" : [
+      "japanese",
+      "children",
+      "carp"
+    ]
+  },
+  "flamingo" : {
+    "category" : "Animals & Nature",
+    "character" : "🦩",
+    "keywords" : [
+      "bird",
+      "pink",
+      "tropical"
+    ]
+  },
+  "flashlight" : {
+    "category" : "Objects",
+    "character" : "🔦",
+    "keywords" : [
+      "torch",
+      "light",
+      "beam"
+    ]
+  },
+  "flat-shoe" : {
+    "category" : "Objects",
+    "character" : "🥿",
+    "keywords" : [
+      "ballet",
+      "comfortable",
+      "simple"
+    ]
+  },
+  "flatbread" : {
+    "category" : "Food & Drink",
+    "character" : "🫓",
+    "keywords" : [
+      "bread",
+      "middle-eastern",
+      "wrap"
+    ]
+  },
+  "fleur-de-lis" : {
+    "category" : "Symbols",
+    "character" : "⚜️",
+    "keywords" : [
+      "decorative",
+      "symbol",
+      "ornament"
+    ]
+  },
+  "floppy-disk" : {
+    "category" : "Objects",
+    "character" : "💾",
+    "keywords" : [
+      "save",
+      "storage",
+      "old"
+    ]
+  },
+  "flower-playing-cards" : {
+    "category" : "Activities",
+    "character" : "🎴",
+    "keywords" : [
+      "japanese",
+      "hanafuda",
+      "cards"
+    ]
+  },
+  "flushed" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😳",
+    "keywords" : [
+      "embarrassed",
+      "shy",
+      "surprised"
+    ]
+  },
+  "flute" : {
+    "category" : "Objects",
+    "character" : "🪈",
+    "keywords" : [
+      "music",
+      "wind",
+      "woodwind"
+    ]
+  },
+  "flying-disc" : {
+    "category" : "Activities",
+    "character" : "🥏",
+    "keywords" : [
+      "frisbee",
+      "sport",
+      "throw"
+    ]
+  },
+  "flying-saucer" : {
+    "category" : "Travel & Places",
+    "character" : "🛸",
+    "keywords" : [
+      "ufo",
+      "alien",
+      "space"
+    ]
+  },
+  "foggy" : {
+    "category" : "Travel & Places",
+    "character" : "🌁",
+    "keywords" : [
+      "weather",
+      "mist",
+      "unclear"
+    ]
+  },
+  "folding-hand-fan" : {
+    "category" : "Objects",
+    "character" : "🪭",
+    "keywords" : [
+      "cooling",
+      "traditional",
+      "wave"
+    ]
+  },
+  "fondue" : {
+    "category" : "Food & Drink",
+    "character" : "🫕",
+    "keywords" : [
+      "cheese",
+      "swiss",
+      "dip"
+    ]
+  },
+  "foot" : {
+    "category" : "People & Body",
+    "character" : "🦶",
+    "keywords" : [
+      "limb",
+      "kick",
+      "body"
+    ]
+  },
+  "football" : {
+    "category" : "Activities",
+    "character" : "🏈",
+    "keywords" : [
+      "american",
+      "sport",
+      "oval"
+    ]
+  },
+  "fortune-cookie" : {
+    "category" : "Food & Drink",
+    "character" : "🥠",
+    "keywords" : [
+      "chinese",
+      "american",
+      "prediction"
+    ]
+  },
+  "fountain" : {
+    "category" : "Travel & Places",
+    "character" : "⛲",
+    "keywords" : [
+      "water",
+      "park",
+      "decoration"
+    ]
+  },
+  "fountain-pen" : {
+    "category" : "Objects",
+    "character" : "🖋️",
+    "keywords" : [
+      "write",
+      "fancy",
+      "ink"
+    ]
+  },
+  "four" : {
+    "category" : "Symbols",
+    "character" : "4️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "fourth"
+    ]
+  },
+  "fox" : {
+    "category" : "Animals & Nature",
+    "character" : "🦊",
+    "keywords" : [
+      "animal",
+      "clever",
+      "orange"
+    ]
+  },
+  "framed-picture" : {
+    "category" : "Activities",
+    "character" : "🖼️",
+    "keywords" : [
+      "art",
+      "painting",
+      "frame"
+    ]
+  },
+  "fried-shrimp" : {
+    "category" : "Food & Drink",
+    "character" : "🍤",
+    "keywords" : [
+      "seafood",
+      "tempura",
+      "crispy"
+    ]
+  },
+  "fries" : {
+    "category" : "Food & Drink",
+    "character" : "🍟",
+    "keywords" : [
+      "potato",
+      "fast-food",
+      "crispy"
+    ]
+  },
+  "frog" : {
+    "category" : "Animals & Nature",
+    "character" : "🐸",
+    "keywords" : [
+      "animal",
+      "green",
+      "ribbit"
+    ]
+  },
+  "frown" : {
+    "category" : "Smileys & Emotion",
+    "character" : "☹️",
+    "keywords" : [
+      "sad",
+      "unhappy",
+      "disappointed"
+    ]
+  },
+  "frown-eyes" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😦",
+    "keywords" : [
+      "sad",
+      "disappointed",
+      "upset"
+    ]
+  },
+  "fuelpump" : {
+    "category" : "Travel & Places",
+    "character" : "⛽",
+    "keywords" : [
+      "gas",
+      "station",
+      "fuel"
+    ]
+  },
+  "funeral-urn" : {
+    "category" : "Objects",
+    "character" : "⚱️",
+    "keywords" : [
+      "death",
+      "ashes",
+      "cremation"
+    ]
+  },
+  "garlic" : {
+    "category" : "Food & Drink",
+    "character" : "🧄",
+    "keywords" : [
+      "spice",
+      "flavor",
+      "vampire"
+    ]
+  },
+  "gear" : {
+    "category" : "Objects",
+    "character" : "⚙️",
+    "keywords" : [
+      "mechanical",
+      "settings",
+      "work"
+    ]
+  },
+  "gem" : {
+    "category" : "Objects",
+    "character" : "💎",
+    "keywords" : [
+      "diamond",
+      "precious",
+      "valuable"
+    ]
+  },
+  "gemini" : {
+    "category" : "Symbols",
+    "character" : "♊",
+    "keywords" : [
+      "zodiac",
+      "twins",
+      "astrology"
+    ]
+  },
+  "gift" : {
+    "category" : "Activities",
+    "character" : "🎁",
+    "keywords" : [
+      "present",
+      "surprise",
+      "wrapped"
+    ]
+  },
+  "gift-heart" : {
+    "category" : "Symbols",
+    "character" : "💝",
+    "keywords" : [
+      "love",
+      "present",
+      "valentine"
+    ]
+  },
+  "giraffe" : {
+    "category" : "Animals & Nature",
+    "character" : "🦒",
+    "keywords" : [
+      "animal",
+      "tall",
+      "neck"
+    ]
+  },
+  "globe-with-meridians" : {
+    "category" : "Travel & Places",
+    "character" : "🌐",
+    "keywords" : [
+      "internet",
+      "world",
+      "global"
+    ]
+  },
+  "gloves" : {
+    "category" : "Objects",
+    "character" : "🧤",
+    "keywords" : [
+      "winter",
+      "hands",
+      "warm"
+    ]
+  },
+  "goal-net" : {
+    "category" : "Activities",
+    "character" : "🥅",
+    "keywords" : [
+      "soccer",
+      "hockey",
+      "score"
+    ]
+  },
+  "goat" : {
+    "category" : "Animals & Nature",
+    "character" : "🐐",
+    "keywords" : [
+      "animal",
+      "farm",
+      "horns"
+    ]
+  },
+  "goggles" : {
+    "category" : "Objects",
+    "character" : "🥽",
+    "keywords" : [
+      "safety",
+      "swimming",
+      "protection"
+    ]
+  },
+  "golf" : {
+    "category" : "Activities",
+    "character" : "⛳",
+    "keywords" : [
+      "sport",
+      "flag",
+      "hole"
+    ]
+  },
+  "gorilla" : {
+    "category" : "Animals & Nature",
+    "character" : "🦍",
+    "keywords" : [
+      "animal",
+      "strong",
+      "ape"
+    ]
+  },
+  "graduation-cap" : {
+    "category" : "Objects",
+    "character" : "🎓",
+    "keywords" : [
+      "education",
+      "ceremony",
+      "achievement"
+    ]
+  },
+  "grapes" : {
+    "category" : "Food & Drink",
+    "character" : "🍇",
+    "keywords" : [
+      "fruit",
+      "purple",
+      "wine"
+    ]
+  },
+  "green-apple" : {
+    "category" : "Food & Drink",
+    "character" : "🍏",
+    "keywords" : [
+      "fruit",
+      "green",
+      "tart"
+    ]
+  },
+  "green-book" : {
+    "category" : "Objects",
+    "character" : "📗",
+    "keywords" : [
+      "book",
+      "read",
+      "green"
+    ]
+  },
+  "green-heart" : {
+    "category" : "Symbols",
+    "character" : "💚",
+    "keywords" : [
+      "love",
+      "nature",
+      "jealous"
+    ]
+  },
+  "green-salad" : {
+    "category" : "Food & Drink",
+    "character" : "🥗",
+    "keywords" : [
+      "healthy",
+      "lettuce",
+      "vegetables"
+    ]
+  },
+  "grey-exclamation" : {
+    "category" : "Symbols",
+    "character" : "❕",
+    "keywords" : [
+      "emphasis",
+      "outline",
+      "notice"
+    ]
+  },
+  "grey-heart" : {
+    "category" : "Symbols",
+    "character" : "🩶",
+    "keywords" : [
+      "love",
+      "neutral",
+      "sad"
+    ]
+  },
+  "grey-question" : {
+    "category" : "Symbols",
+    "character" : "❔",
+    "keywords" : [
+      "ask",
+      "help",
+      "outline"
+    ]
+  },
+  "grimace" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😬",
+    "keywords" : [
+      "awkward",
+      "nervous",
+      "uncomfortable"
+    ]
+  },
+  "grinning" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😀",
+    "keywords" : [
+      "grin",
+      "happy",
+      "smile"
+    ]
+  },
+  "grinning-eyes" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😁",
+    "keywords" : [
+      "grin",
+      "happy",
+      "smile",
+      "eyes"
+    ]
+  },
+  "guide-dog" : {
+    "category" : "Animals & Nature",
+    "character" : "🦮",
+    "keywords" : [
+      "accessibility",
+      "blind",
+      "service"
+    ]
+  },
+  "guitar" : {
+    "category" : "Objects",
+    "character" : "🎸",
+    "keywords" : [
+      "music",
+      "rock",
+      "string"
+    ]
+  },
+  "gun" : {
+    "category" : "Activities",
+    "character" : "🔫",
+    "keywords" : [
+      "water",
+      "toy",
+      "squirt"
+    ]
+  },
+  "hair-pick" : {
+    "category" : "Objects",
+    "character" : "🪮",
+    "keywords" : [
+      "afro",
+      "comb",
+      "style"
+    ]
+  },
+  "hamburger" : {
+    "category" : "Food & Drink",
+    "character" : "🍔",
+    "keywords" : [
+      "burger",
+      "fast-food",
+      "beef"
+    ]
+  },
+  "hammer" : {
+    "category" : "Objects",
+    "character" : "🔨",
+    "keywords" : [
+      "tool",
+      "build",
+      "nail"
+    ]
+  },
+  "hammer-and-pick" : {
+    "category" : "Objects",
+    "character" : "⚒️",
+    "keywords" : [
+      "tools",
+      "build",
+      "mining"
+    ]
+  },
+  "hammer-and-wrench" : {
+    "category" : "Objects",
+    "character" : "🛠️",
+    "keywords" : [
+      "tools",
+      "fix",
+      "repair"
+    ]
+  },
+  "hamsa" : {
+    "category" : "Objects",
+    "character" : "🪬",
+    "keywords" : [
+      "protection",
+      "hand",
+      "spiritual"
+    ]
+  },
+  "hamster" : {
+    "category" : "Animals & Nature",
+    "character" : "🐹",
+    "keywords" : [
+      "animal",
+      "pet",
+      "cute"
+    ]
+  },
+  "hand" : {
+    "category" : "People & Body",
+    "character" : "✋",
+    "keywords" : [
+      "stop",
+      "high-five",
+      "palm"
+    ]
+  },
+  "hand-over-mouth" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤭",
+    "keywords" : [
+      "secret",
+      "oops",
+      "surprise"
+    ]
+  },
+  "hand-with-index-finger-and-thumb-crossed" : {
+    "category" : "People & Body",
+    "character" : "🫰",
+    "keywords" : [
+      "expensive",
+      "money",
+      "snap"
+    ]
+  },
+  "handbag" : {
+    "category" : "Objects",
+    "character" : "👜",
+    "keywords" : [
+      "bag",
+      "fashion",
+      "carry"
+    ]
+  },
+  "handshake" : {
+    "category" : "People & Body",
+    "character" : "🤝",
+    "keywords" : [
+      "agreement",
+      "deal",
+      "meeting"
+    ]
+  },
+  "hash" : {
+    "category" : "Symbols",
+    "character" : "#️⃣",
+    "keywords" : [
+      "number",
+      "pound",
+      "hashtag"
+    ]
+  },
+  "hatched-chick" : {
+    "category" : "Animals & Nature",
+    "character" : "🐥",
+    "keywords" : [
+      "bird",
+      "yellow",
+      "small"
+    ]
+  },
+  "hatching-chick" : {
+    "category" : "Animals & Nature",
+    "character" : "🐣",
+    "keywords" : [
+      "bird",
+      "baby",
+      "egg"
+    ]
+  },
+  "head-bandage" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤕",
+    "keywords" : [
+      "hurt",
+      "injured",
+      "bandage"
+    ]
+  },
+  "headphones" : {
+    "category" : "Objects",
+    "character" : "🎧",
+    "keywords" : [
+      "music",
+      "audio",
+      "listen"
+    ]
+  },
+  "headstone" : {
+    "category" : "Objects",
+    "character" : "🪦",
+    "keywords" : [
+      "grave",
+      "cemetery",
+      "memorial"
+    ]
+  },
+  "heart" : {
+    "category" : "Symbols",
+    "character" : "❤️",
+    "keywords" : [
+      "love",
+      "like",
+      "romance"
+    ]
+  },
+  "heart-decoration" : {
+    "category" : "Symbols",
+    "character" : "💟",
+    "keywords" : [
+      "love",
+      "purple",
+      "decoration"
+    ]
+  },
+  "heart-exclamation" : {
+    "category" : "Symbols",
+    "character" : "❣️",
+    "keywords" : [
+      "love",
+      "heavy",
+      "emphasis"
+    ]
+  },
+  "heart-eyes" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😍",
+    "keywords" : [
+      "love",
+      "adore",
+      "crush"
+    ]
+  },
+  "heart-hands" : {
+    "category" : "People & Body",
+    "character" : "🫶",
+    "keywords" : [
+      "love",
+      "heart",
+      "support"
+    ]
+  },
+  "heartbeat" : {
+    "category" : "Symbols",
+    "character" : "💓",
+    "keywords" : [
+      "love",
+      "pulse",
+      "alive"
+    ]
+  },
+  "heartpulse" : {
+    "category" : "Symbols",
+    "character" : "💗",
+    "keywords" : [
+      "love",
+      "growing",
+      "increasing"
+    ]
+  },
+  "hearts" : {
+    "category" : "Activities",
+    "character" : "♥️",
+    "keywords" : [
+      "cards",
+      "suit",
+      "red"
+    ]
+  },
+  "heavy-check-mark" : {
+    "category" : "Symbols",
+    "character" : "✔️",
+    "keywords" : [
+      "check",
+      "correct",
+      "done"
+    ]
+  },
+  "heavy-division-sign" : {
+    "category" : "Symbols",
+    "character" : "➗",
+    "keywords" : [
+      "divide",
+      "math",
+      "split"
+    ]
+  },
+  "heavy-dollar-sign" : {
+    "category" : "Symbols",
+    "character" : "💲",
+    "keywords" : [
+      "money",
+      "dollar",
+      "price"
+    ]
+  },
+  "heavy-equals-sign" : {
+    "category" : "Symbols",
+    "character" : "🟰",
+    "keywords" : [
+      "equals",
+      "math",
+      "same"
+    ]
+  },
+  "heavy-minus-sign" : {
+    "category" : "Symbols",
+    "character" : "➖",
+    "keywords" : [
+      "subtract",
+      "less",
+      "remove"
+    ]
+  },
+  "heavy-multiplication-x" : {
+    "category" : "Symbols",
+    "character" : "✖️",
+    "keywords" : [
+      "multiply",
+      "times",
+      "close"
+    ]
+  },
+  "heavy-plus-sign" : {
+    "category" : "Symbols",
+    "character" : "➕",
+    "keywords" : [
+      "add",
+      "plus",
+      "more"
+    ]
+  },
+  "hedgehog" : {
+    "category" : "Animals & Nature",
+    "character" : "🦔",
+    "keywords" : [
+      "animal",
+      "spikes",
+      "cute"
+    ]
+  },
+  "helicopter" : {
+    "category" : "Travel & Places",
+    "character" : "🚁",
+    "keywords" : [
+      "aircraft",
+      "rotor",
+      "rescue"
+    ]
+  },
+  "high-brightness" : {
+    "category" : "Symbols",
+    "character" : "🔆",
+    "keywords" : [
+      "bright",
+      "screen",
+      "light"
+    ]
+  },
+  "high-heel" : {
+    "category" : "Objects",
+    "character" : "👠",
+    "keywords" : [
+      "formal",
+      "elegant",
+      "tall"
+    ]
+  },
+  "high-speed-train" : {
+    "category" : "Travel & Places",
+    "character" : "🚄",
+    "keywords" : [
+      "fast",
+      "bullet",
+      "modern"
+    ]
+  },
+  "hiking-boot" : {
+    "category" : "Objects",
+    "character" : "🥾",
+    "keywords" : [
+      "outdoor",
+      "rugged",
+      "adventure"
+    ]
+  },
+  "hindu-temple" : {
+    "category" : "Travel & Places",
+    "character" : "🛕",
+    "keywords" : [
+      "religion",
+      "hindu",
+      "worship"
+    ]
+  },
+  "hippopotamus" : {
+    "category" : "Animals & Nature",
+    "character" : "🦛",
+    "keywords" : [
+      "animal",
+      "water",
+      "large"
+    ]
+  },
+  "honey-pot" : {
+    "category" : "Food & Drink",
+    "character" : "🍯",
+    "keywords" : [
+      "sweet",
+      "bee",
+      "golden"
+    ]
+  },
+  "hook" : {
+    "category" : "Objects",
+    "character" : "🪝",
+    "keywords" : [
+      "hang",
+      "catch",
+      "curved"
+    ]
+  },
+  "horse" : {
+    "category" : "Animals & Nature",
+    "character" : "🐴",
+    "keywords" : [
+      "animal",
+      "gallop",
+      "riding"
+    ]
+  },
+  "hospital" : {
+    "category" : "Travel & Places",
+    "character" : "🏥",
+    "keywords" : [
+      "medical",
+      "health",
+      "red-cross"
+    ]
+  },
+  "hot" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🥵",
+    "keywords" : [
+      "heat",
+      "sweating",
+      "fever"
+    ]
+  },
+  "hot-pepper" : {
+    "category" : "Food & Drink",
+    "character" : "🌶️",
+    "keywords" : [
+      "spice",
+      "hot",
+      "red"
+    ]
+  },
+  "hotdog" : {
+    "category" : "Food & Drink",
+    "character" : "🌭",
+    "keywords" : [
+      "sausage",
+      "american",
+      "mustard"
+    ]
+  },
+  "hotel" : {
+    "category" : "Travel & Places",
+    "character" : "🏨",
+    "keywords" : [
+      "accommodation",
+      "travel",
+      "sleep"
+    ]
+  },
+  "hotsprings" : {
+    "category" : "Travel & Places",
+    "character" : "♨️",
+    "keywords" : [
+      "japan",
+      "relaxation",
+      "steam"
+    ]
+  },
+  "house" : {
+    "category" : "Travel & Places",
+    "character" : "🏠",
+    "keywords" : [
+      "home",
+      "building",
+      "family"
+    ]
+  },
+  "house-with-garden" : {
+    "category" : "Travel & Places",
+    "character" : "🏡",
+    "keywords" : [
+      "home",
+      "garden",
+      "suburban"
+    ]
+  },
+  "houses" : {
+    "category" : "Travel & Places",
+    "character" : "🏘️",
+    "keywords" : [
+      "neighborhood",
+      "suburb",
+      "community"
+    ]
+  },
+  "hugs" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤗",
+    "keywords" : [
+      "hug",
+      "embrace",
+      "warm"
+    ]
+  },
+  "hushed" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😯",
+    "keywords" : [
+      "surprised",
+      "quiet",
+      "amazed"
+    ]
+  },
+  "hut" : {
+    "category" : "Travel & Places",
+    "character" : "🛖",
+    "keywords" : [
+      "simple",
+      "rural",
+      "shelter"
+    ]
+  },
+  "ice" : {
+    "category" : "Food & Drink",
+    "character" : "🧊",
+    "keywords" : [
+      "cold",
+      "frozen",
+      "cube"
+    ]
+  },
+  "ice-cream" : {
+    "category" : "Food & Drink",
+    "character" : "🍨",
+    "keywords" : [
+      "dessert",
+      "scoop",
+      "bowl"
+    ]
+  },
+  "ice-hockey" : {
+    "category" : "Activities",
+    "character" : "🏒",
+    "keywords" : [
+      "sport",
+      "puck",
+      "cold"
+    ]
+  },
+  "ice-skate" : {
+    "category" : "Activities",
+    "character" : "⛸️",
+    "keywords" : [
+      "sport",
+      "winter",
+      "blade"
+    ]
+  },
+  "icecream" : {
+    "category" : "Food & Drink",
+    "character" : "🍦",
+    "keywords" : [
+      "dessert",
+      "cone",
+      "soft"
+    ]
+  },
+  "identification-card" : {
+    "category" : "Objects",
+    "character" : "🪪",
+    "keywords" : [
+      "ID",
+      "license",
+      "identity"
+    ]
+  },
+  "imp" : {
+    "category" : "Smileys & Emotion",
+    "character" : "👿",
+    "keywords" : [
+      "devil",
+      "angry",
+      "evil"
+    ]
+  },
+  "inbox-tray" : {
+    "category" : "Objects",
+    "character" : "📥",
+    "keywords" : [
+      "receive",
+      "mail",
+      "in"
+    ]
+  },
+  "incoming-envelope" : {
+    "category" : "Objects",
+    "character" : "📨",
+    "keywords" : [
+      "mail",
+      "receive",
+      "arrow"
+    ]
+  },
+  "index-pointing-at-the-viewer" : {
+    "category" : "People & Body",
+    "character" : "🫵",
+    "keywords" : [
+      "you",
+      "pointing",
+      "attention"
+    ]
+  },
+  "infinity" : {
+    "category" : "Symbols",
+    "character" : "♾️",
+    "keywords" : [
+      "endless",
+      "forever",
+      "unlimited"
+    ]
+  },
+  "information-source" : {
+    "category" : "Symbols",
+    "character" : "ℹ️",
+    "keywords" : [
+      "info",
+      "help",
+      "blue"
+    ]
+  },
+  "innocent" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😇",
+    "keywords" : [
+      "angel",
+      "halo",
+      "good"
+    ]
+  },
+  "interrobang" : {
+    "category" : "Symbols",
+    "character" : "⁉️",
+    "keywords" : [
+      "question",
+      "exclamation",
+      "what"
+    ]
+  },
+  "iphone" : {
+    "category" : "Objects",
+    "character" : "📱",
+    "keywords" : [
+      "mobile",
+      "smartphone",
+      "technology"
+    ]
+  },
+  "izakaya-lantern" : {
+    "category" : "Objects",
+    "character" : "🏮",
+    "keywords" : [
+      "japanese",
+      "red",
+      "light"
+    ]
+  },
+  "jack-o-lantern" : {
+    "category" : "Activities",
+    "character" : "🎃",
+    "keywords" : [
+      "halloween",
+      "pumpkin",
+      "spooky"
+    ]
+  },
+  "japan" : {
+    "category" : "Travel & Places",
+    "character" : "🗾",
+    "keywords" : [
+      "country",
+      "islands",
+      "asia"
+    ]
+  },
+  "japanese-castle" : {
+    "category" : "Travel & Places",
+    "character" : "🏯",
+    "keywords" : [
+      "japan",
+      "traditional",
+      "fortress"
+    ]
+  },
+  "jeans" : {
+    "category" : "Objects",
+    "character" : "👖",
+    "keywords" : [
+      "pants",
+      "denim",
+      "casual"
+    ]
+  },
+  "jigsaw" : {
+    "category" : "Activities",
+    "character" : "🧩",
+    "keywords" : [
+      "puzzle",
+      "piece",
+      "solve"
+    ]
+  },
+  "joy" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😂",
+    "keywords" : [
+      "laugh",
+      "tears",
+      "funny",
+      "lol"
+    ]
+  },
+  "joystick" : {
+    "category" : "Activities",
+    "character" : "🕹️",
+    "keywords" : [
+      "gaming",
+      "arcade",
+      "control"
+    ]
+  },
+  "kaaba" : {
+    "category" : "Travel & Places",
+    "character" : "🕋",
+    "keywords" : [
+      "islam",
+      "mecca",
+      "pilgrimage"
+    ]
+  },
+  "kangaroo" : {
+    "category" : "Animals & Nature",
+    "character" : "🦘",
+    "keywords" : [
+      "animal",
+      "australia",
+      "pouch"
+    ]
+  },
+  "key" : {
+    "category" : "Objects",
+    "character" : "🔑",
+    "keywords" : [
+      "unlock",
+      "access",
+      "password"
+    ]
+  },
+  "keyboard" : {
+    "category" : "Objects",
+    "character" : "⌨️",
+    "keywords" : [
+      "typing",
+      "computer",
+      "input"
+    ]
+  },
+  "keycap-ten" : {
+    "category" : "Symbols",
+    "character" : "🔟",
+    "keywords" : [
+      "number",
+      "10",
+      "ten"
+    ]
+  },
+  "khanda" : {
+    "category" : "Symbols",
+    "character" : "🪯",
+    "keywords" : [
+      "religion",
+      "sikhism",
+      "sword"
+    ]
+  },
+  "kimono" : {
+    "category" : "Objects",
+    "character" : "👘",
+    "keywords" : [
+      "japanese",
+      "traditional",
+      "formal"
+    ]
+  },
+  "kiss" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😗",
+    "keywords" : [
+      "love",
+      "affection",
+      "smooch"
+    ]
+  },
+  "kiss-closed-eyes" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😚",
+    "keywords" : [
+      "kiss",
+      "love",
+      "peaceful"
+    ]
+  },
+  "kiss-heart" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😘",
+    "keywords" : [
+      "love",
+      "kiss",
+      "heart"
+    ]
+  },
+  "kiss-smiling" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😙",
+    "keywords" : [
+      "happy",
+      "kiss",
+      "content"
+    ]
+  },
+  "kite" : {
+    "category" : "Activities",
+    "character" : "🪁",
+    "keywords" : [
+      "fly",
+      "wind",
+      "string"
+    ]
+  },
+  "kiwi" : {
+    "category" : "Food & Drink",
+    "character" : "🥝",
+    "keywords" : [
+      "fruit",
+      "green",
+      "fuzzy"
+    ]
+  },
+  "knockout" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😵",
+    "keywords" : [
+      "dizzy",
+      "stunned",
+      "dead"
+    ]
+  },
+  "knot" : {
+    "category" : "Activities",
+    "character" : "🪢",
+    "keywords" : [
+      "rope",
+      "tie",
+      "secure"
+    ]
+  },
+  "koala" : {
+    "category" : "Animals & Nature",
+    "character" : "🐨",
+    "keywords" : [
+      "animal",
+      "australia",
+      "eucalyptus"
+    ]
+  },
+  "lab-coat" : {
+    "category" : "Objects",
+    "character" : "🥼",
+    "keywords" : [
+      "scientist",
+      "doctor",
+      "medical"
+    ]
+  },
+  "lacrosse" : {
+    "category" : "Activities",
+    "character" : "🥍",
+    "keywords" : [
+      "sport",
+      "stick",
+      "net"
+    ]
+  },
+  "ladder" : {
+    "category" : "Objects",
+    "character" : "🪜",
+    "keywords" : [
+      "climb",
+      "steps",
+      "reach"
+    ]
+  },
+  "latin-cross" : {
+    "category" : "Symbols",
+    "character" : "✝️",
+    "keywords" : [
+      "religion",
+      "christianity",
+      "faith"
+    ]
+  },
+  "leafy-greens" : {
+    "category" : "Food & Drink",
+    "character" : "🥬",
+    "keywords" : [
+      "vegetable",
+      "healthy",
+      "salad"
+    ]
+  },
+  "ledger" : {
+    "category" : "Objects",
+    "character" : "📒",
+    "keywords" : [
+      "accounting",
+      "business",
+      "record"
+    ]
+  },
+  "leftwards-hand" : {
+    "category" : "People & Body",
+    "character" : "🫲",
+    "keywords" : [
+      "left",
+      "direction",
+      "point"
+    ]
+  },
+  "leg" : {
+    "category" : "People & Body",
+    "character" : "🦵",
+    "keywords" : [
+      "limb",
+      "kick",
+      "body"
+    ]
+  },
+  "lemon" : {
+    "category" : "Food & Drink",
+    "character" : "🍋",
+    "keywords" : [
+      "fruit",
+      "yellow",
+      "sour"
+    ]
+  },
+  "leo" : {
+    "category" : "Symbols",
+    "character" : "♌",
+    "keywords" : [
+      "zodiac",
+      "lion",
+      "astrology"
+    ]
+  },
+  "leopard" : {
+    "category" : "Animals & Nature",
+    "character" : "🐆",
+    "keywords" : [
+      "animal",
+      "spots",
+      "fast"
+    ]
+  },
+  "level-slider" : {
+    "category" : "Objects",
+    "character" : "🎚️",
+    "keywords" : [
+      "audio",
+      "mixing",
+      "control"
+    ]
+  },
+  "libra" : {
+    "category" : "Symbols",
+    "character" : "♎",
+    "keywords" : [
+      "zodiac",
+      "scales",
+      "astrology"
+    ]
+  },
+  "light-blue-heart" : {
+    "category" : "Symbols",
+    "character" : "🩵",
+    "keywords" : [
+      "love",
+      "calm",
+      "peaceful"
+    ]
+  },
+  "light-rail" : {
+    "category" : "Travel & Places",
+    "character" : "🚈",
+    "keywords" : [
+      "tram",
+      "city",
+      "electric"
+    ]
+  },
+  "link" : {
+    "category" : "Objects",
+    "character" : "🔗",
+    "keywords" : [
+      "chain",
+      "connection",
+      "url"
+    ]
+  },
+  "lion" : {
+    "category" : "Animals & Nature",
+    "character" : "🦁",
+    "keywords" : [
+      "animal",
+      "king",
+      "mane"
+    ]
+  },
+  "lips" : {
+    "category" : "People & Body",
+    "character" : "👄",
+    "keywords" : [
+      "mouth",
+      "kiss",
+      "beauty"
+    ]
+  },
+  "lipstick" : {
+    "category" : "Objects",
+    "character" : "💄",
+    "keywords" : [
+      "makeup",
+      "beauty",
+      "cosmetic"
+    ]
+  },
+  "lizard" : {
+    "category" : "Animals & Nature",
+    "character" : "🦎",
+    "keywords" : [
+      "animal",
+      "gecko",
+      "green"
+    ]
+  },
+  "llama" : {
+    "category" : "Animals & Nature",
+    "character" : "🦙",
+    "keywords" : [
+      "animal",
+      "alpaca",
+      "fluffy"
+    ]
+  },
+  "lobster" : {
+    "category" : "Food & Drink",
+    "character" : "🦞",
+    "keywords" : [
+      "seafood",
+      "fancy",
+      "claws"
+    ]
+  },
+  "lock" : {
+    "category" : "Objects",
+    "character" : "🔒",
+    "keywords" : [
+      "secure",
+      "private",
+      "closed"
+    ]
+  },
+  "lock-with-ink-pen" : {
+    "category" : "Objects",
+    "character" : "🔏",
+    "keywords" : [
+      "secure",
+      "document",
+      "signature"
+    ]
+  },
+  "locomotive" : {
+    "category" : "Travel & Places",
+    "character" : "🚂",
+    "keywords" : [
+      "train",
+      "steam",
+      "old"
+    ]
+  },
+  "lollipop" : {
+    "category" : "Food & Drink",
+    "character" : "🍭",
+    "keywords" : [
+      "candy",
+      "stick",
+      "sweet"
+    ]
+  },
+  "long-drum" : {
+    "category" : "Objects",
+    "character" : "🪘",
+    "keywords" : [
+      "music",
+      "traditional",
+      "ceremonial"
+    ]
+  },
+  "loop" : {
+    "category" : "Symbols",
+    "character" : "➿",
+    "keywords" : [
+      "double",
+      "curl",
+      "circle"
+    ]
+  },
+  "lotion-bottle" : {
+    "category" : "Objects",
+    "character" : "🧴",
+    "keywords" : [
+      "cosmetic",
+      "pump",
+      "liquid"
+    ]
+  },
+  "loud-sound" : {
+    "category" : "Objects",
+    "character" : "🔊",
+    "keywords" : [
+      "audio",
+      "volume",
+      "high"
+    ]
+  },
+  "loudspeaker" : {
+    "category" : "Objects",
+    "character" : "📢",
+    "keywords" : [
+      "announcement",
+      "megaphone",
+      "public"
+    ]
+  },
+  "love-hotel" : {
+    "category" : "Travel & Places",
+    "character" : "🏩",
+    "keywords" : [
+      "romance",
+      "japan",
+      "heart"
+    ]
+  },
+  "love-you-gesture" : {
+    "category" : "People & Body",
+    "character" : "🤟",
+    "keywords" : [
+      "love",
+      "you",
+      "sign-language"
+    ]
+  },
+  "low-battery" : {
+    "category" : "Objects",
+    "character" : "🪫",
+    "keywords" : [
+      "power",
+      "empty",
+      "charge"
+    ]
+  },
+  "low-brightness" : {
+    "category" : "Symbols",
+    "character" : "🔅",
+    "keywords" : [
+      "dim",
+      "screen",
+      "dark"
+    ]
+  },
+  "lungs" : {
+    "category" : "People & Body",
+    "character" : "🫁",
+    "keywords" : [
+      "breathing",
+      "organ",
+      "health"
+    ]
+  },
+  "lying" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤥",
+    "keywords" : [
+      "lie",
+      "pinocchio",
+      "dishonest"
+    ]
+  },
+  "mag" : {
+    "category" : "Objects",
+    "character" : "🔍",
+    "keywords" : [
+      "magnifying",
+      "search",
+      "zoom"
+    ]
+  },
+  "mag-right" : {
+    "category" : "Objects",
+    "character" : "🔎",
+    "keywords" : [
+      "magnifying",
+      "search",
+      "zoom"
+    ]
+  },
+  "magic-wand" : {
+    "category" : "Activities",
+    "character" : "🪄",
+    "keywords" : [
+      "wizard",
+      "spell",
+      "magic"
+    ]
+  },
+  "magnet" : {
+    "category" : "Objects",
+    "character" : "🧲",
+    "keywords" : [
+      "attraction",
+      "magnetic",
+      "pull"
+    ]
+  },
+  "mahjong" : {
+    "category" : "Activities",
+    "character" : "🀄",
+    "keywords" : [
+      "game",
+      "chinese",
+      "tile"
+    ]
+  },
+  "mailbox" : {
+    "category" : "Objects",
+    "character" : "📪",
+    "keywords" : [
+      "mail",
+      "post",
+      "flag-down"
+    ]
+  },
+  "mailbox-closed" : {
+    "category" : "Objects",
+    "character" : "📫",
+    "keywords" : [
+      "mail",
+      "post",
+      "flag-up"
+    ]
+  },
+  "mailbox-with-mail" : {
+    "category" : "Objects",
+    "character" : "📬",
+    "keywords" : [
+      "mail",
+      "post",
+      "flag-up"
+    ]
+  },
+  "mailbox-with-no-mail" : {
+    "category" : "Objects",
+    "character" : "📭",
+    "keywords" : [
+      "mail",
+      "post",
+      "flag-down"
+    ]
+  },
+  "male-sign" : {
+    "category" : "Symbols",
+    "character" : "♂️",
+    "keywords" : [
+      "man",
+      "gender",
+      "mars"
+    ]
+  },
+  "mammoth" : {
+    "category" : "Animals & Nature",
+    "character" : "🦣",
+    "keywords" : [
+      "animal",
+      "extinct",
+      "ice-age"
+    ]
+  },
+  "mango" : {
+    "category" : "Food & Drink",
+    "character" : "🥭",
+    "keywords" : [
+      "fruit",
+      "tropical",
+      "sweet"
+    ]
+  },
+  "mans-shoe" : {
+    "category" : "Objects",
+    "character" : "👞",
+    "keywords" : [
+      "formal",
+      "dress",
+      "leather"
+    ]
+  },
+  "manual-wheelchair" : {
+    "category" : "Travel & Places",
+    "character" : "🦽",
+    "keywords" : [
+      "accessibility",
+      "mobility",
+      "manual"
+    ]
+  },
+  "maracas" : {
+    "category" : "Objects",
+    "character" : "🪇",
+    "keywords" : [
+      "music",
+      "shake",
+      "rhythm"
+    ]
+  },
+  "martial-arts-uniform" : {
+    "category" : "Activities",
+    "character" : "🥋",
+    "keywords" : [
+      "karate",
+      "judo",
+      "belt"
+    ]
+  },
+  "mask" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😷",
+    "keywords" : [
+      "sick",
+      "health",
+      "medical"
+    ]
+  },
+  "mate" : {
+    "category" : "Food & Drink",
+    "character" : "🧉",
+    "keywords" : [
+      "south-american",
+      "tea",
+      "gourd"
+    ]
+  },
+  "meat-on-bone" : {
+    "category" : "Food & Drink",
+    "character" : "🍖",
+    "keywords" : [
+      "meat",
+      "protein",
+      "barbecue"
+    ]
+  },
+  "mechanical-arm" : {
+    "category" : "People & Body",
+    "character" : "🦾",
+    "keywords" : [
+      "prosthetic",
+      "robot",
+      "cyborg"
+    ]
+  },
+  "mechanical-leg" : {
+    "category" : "People & Body",
+    "character" : "🦿",
+    "keywords" : [
+      "prosthetic",
+      "robot",
+      "cyborg"
+    ]
+  },
+  "medal-military" : {
+    "category" : "Activities",
+    "character" : "🎖️",
+    "keywords" : [
+      "honor",
+      "bravery",
+      "service"
+    ]
+  },
+  "medal-sports" : {
+    "category" : "Activities",
+    "character" : "🏅",
+    "keywords" : [
+      "achievement",
+      "competition",
+      "winner"
+    ]
+  },
+  "medical-symbol" : {
+    "category" : "Symbols",
+    "character" : "⚕️",
+    "keywords" : [
+      "health",
+      "medicine",
+      "snake"
+    ]
+  },
+  "mega" : {
+    "category" : "Objects",
+    "character" : "📣",
+    "keywords" : [
+      "cheerleader",
+      "announcement",
+      "loud"
+    ]
+  },
+  "melon" : {
+    "category" : "Food & Drink",
+    "character" : "🍈",
+    "keywords" : [
+      "fruit",
+      "green",
+      "sweet"
+    ]
+  },
+  "memo" : {
+    "category" : "Objects",
+    "character" : "📝",
+    "keywords" : [
+      "note",
+      "write",
+      "paper"
+    ]
+  },
+  "menorah" : {
+    "category" : "Symbols",
+    "character" : "🕎",
+    "keywords" : [
+      "religion",
+      "judaism",
+      "hanukkah"
+    ]
+  },
+  "metal" : {
+    "category" : "People & Body",
+    "character" : "🤘",
+    "keywords" : [
+      "rock",
+      "devil-horns",
+      "metal"
+    ]
+  },
+  "metro" : {
+    "category" : "Travel & Places",
+    "character" : "🚇",
+    "keywords" : [
+      "subway",
+      "underground",
+      "urban"
+    ]
+  },
+  "microphone" : {
+    "category" : "Objects",
+    "character" : "🎤",
+    "keywords" : [
+      "sing",
+      "karaoke",
+      "recording"
+    ]
+  },
+  "microscope" : {
+    "category" : "Objects",
+    "character" : "🔬",
+    "keywords" : [
+      "science",
+      "magnify",
+      "research"
+    ]
+  },
+  "middle-finger" : {
+    "category" : "People & Body",
+    "character" : "🖕",
+    "keywords" : [
+      "rude",
+      "offensive",
+      "gesture"
+    ]
+  },
+  "military-helmet" : {
+    "category" : "Objects",
+    "character" : "🪖",
+    "keywords" : [
+      "army",
+      "protection",
+      "war"
+    ]
+  },
+  "milk-glass" : {
+    "category" : "Food & Drink",
+    "character" : "🥛",
+    "keywords" : [
+      "dairy",
+      "white",
+      "calcium"
+    ]
+  },
+  "minibus" : {
+    "category" : "Travel & Places",
+    "character" : "🚐",
+    "keywords" : [
+      "small",
+      "van",
+      "transport"
+    ]
+  },
+  "minidisc" : {
+    "category" : "Objects",
+    "character" : "💽",
+    "keywords" : [
+      "storage",
+      "music",
+      "old"
+    ]
+  },
+  "mirror" : {
+    "category" : "Objects",
+    "character" : "🪞",
+    "keywords" : [
+      "reflection",
+      "vanity",
+      "glass"
+    ]
+  },
+  "mirror-ball" : {
+    "category" : "Activities",
+    "character" : "🪩",
+    "keywords" : [
+      "disco",
+      "dance",
+      "sparkle"
+    ]
+  },
+  "mobile-phone-off" : {
+    "category" : "Symbols",
+    "character" : "📴",
+    "keywords" : [
+      "phone",
+      "airplane",
+      "off"
+    ]
+  },
+  "money-bag" : {
+    "category" : "Objects",
+    "character" : "💰",
+    "keywords" : [
+      "wealth",
+      "rich",
+      "sack"
+    ]
+  },
+  "money-mouth" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤑",
+    "keywords" : [
+      "money",
+      "rich",
+      "greedy"
+    ]
+  },
+  "money-with-wings" : {
+    "category" : "Objects",
+    "character" : "💸",
+    "keywords" : [
+      "flying",
+      "spend",
+      "loss"
+    ]
+  },
+  "monkey" : {
+    "category" : "Animals & Nature",
+    "character" : "🐒",
+    "keywords" : [
+      "animal",
+      "primate",
+      "playful"
+    ]
+  },
+  "monkey-face" : {
+    "category" : "Animals & Nature",
+    "character" : "🐵",
+    "keywords" : [
+      "animal",
+      "primate",
+      "banana"
+    ]
+  },
+  "monocle" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🧐",
+    "keywords" : [
+      "fancy",
+      "studying",
+      "examining"
+    ]
+  },
+  "monorail" : {
+    "category" : "Travel & Places",
+    "character" : "🚝",
+    "keywords" : [
+      "train",
+      "single-track",
+      "modern"
+    ]
+  },
+  "moon-cake" : {
+    "category" : "Food & Drink",
+    "character" : "🥮",
+    "keywords" : [
+      "chinese",
+      "festival",
+      "sweet"
+    ]
+  },
+  "mosque" : {
+    "category" : "Travel & Places",
+    "character" : "🕌",
+    "keywords" : [
+      "religion",
+      "islamic",
+      "worship"
+    ]
+  },
+  "motor-boat" : {
+    "category" : "Travel & Places",
+    "character" : "🛥️",
+    "keywords" : [
+      "boat",
+      "engine",
+      "luxury"
+    ]
+  },
+  "motor-scooter" : {
+    "category" : "Travel & Places",
+    "character" : "🛵",
+    "keywords" : [
+      "vespa",
+      "city",
+      "small"
+    ]
+  },
+  "motorcycle" : {
+    "category" : "Travel & Places",
+    "character" : "🏍️",
+    "keywords" : [
+      "bike",
+      "fast",
+      "two-wheel"
+    ]
+  },
+  "motorized-wheelchair" : {
+    "category" : "Travel & Places",
+    "character" : "🦼",
+    "keywords" : [
+      "accessibility",
+      "mobility",
+      "electric"
+    ]
+  },
+  "motorway" : {
+    "category" : "Travel & Places",
+    "character" : "🛣️",
+    "keywords" : [
+      "highway",
+      "road",
+      "fast"
+    ]
+  },
+  "mount-fuji" : {
+    "category" : "Travel & Places",
+    "character" : "🗻",
+    "keywords" : [
+      "japan",
+      "peak",
+      "sacred"
+    ]
+  },
+  "mountain" : {
+    "category" : "Travel & Places",
+    "character" : "⛰️",
+    "keywords" : [
+      "peak",
+      "hiking",
+      "nature"
+    ]
+  },
+  "mountain-cableway" : {
+    "category" : "Travel & Places",
+    "character" : "🚠",
+    "keywords" : [
+      "cable-car",
+      "ski",
+      "mountain"
+    ]
+  },
+  "mountain-railway" : {
+    "category" : "Travel & Places",
+    "character" : "🚞",
+    "keywords" : [
+      "train",
+      "steep",
+      "scenic"
+    ]
+  },
+  "mountain-snow" : {
+    "category" : "Travel & Places",
+    "character" : "🏔️",
+    "keywords" : [
+      "peak",
+      "cold",
+      "high"
+    ]
+  },
+  "mouse" : {
+    "category" : "Animals & Nature",
+    "character" : "🐭",
+    "keywords" : [
+      "animal",
+      "small",
+      "cheese"
+    ]
+  },
+  "mouse-trap" : {
+    "category" : "Objects",
+    "character" : "🪤",
+    "keywords" : [
+      "trap",
+      "catch",
+      "pest"
+    ]
+  },
+  "mouse2" : {
+    "category" : "Animals & Nature",
+    "character" : "🐁",
+    "keywords" : [
+      "animal",
+      "small",
+      "rodent"
+    ]
+  },
+  "movie-camera" : {
+    "category" : "Objects",
+    "character" : "🎥",
+    "keywords" : [
+      "film",
+      "recording",
+      "cinema"
+    ]
+  },
+  "moyai" : {
+    "category" : "Objects",
+    "character" : "🗿",
+    "keywords" : [
+      "statue",
+      "easter-island",
+      "stone"
+    ]
+  },
+  "muscle" : {
+    "category" : "People & Body",
+    "character" : "💪",
+    "keywords" : [
+      "strong",
+      "strength",
+      "workout"
+    ]
+  },
+  "mushroom" : {
+    "category" : "Food & Drink",
+    "character" : "🍄",
+    "keywords" : [
+      "fungus",
+      "umami",
+      "forest"
+    ]
+  },
+  "musical-keyboard" : {
+    "category" : "Objects",
+    "character" : "🎹",
+    "keywords" : [
+      "piano",
+      "music",
+      "keys"
+    ]
+  },
+  "musical-note" : {
+    "category" : "Symbols",
+    "character" : "🎵",
+    "keywords" : [
+      "music",
+      "sound",
+      "melody"
+    ]
+  },
+  "musical-score" : {
+    "category" : "Objects",
+    "character" : "🎼",
+    "keywords" : [
+      "music",
+      "notes",
+      "composition"
+    ]
+  },
+  "mute" : {
+    "category" : "Objects",
+    "character" : "🔇",
+    "keywords" : [
+      "sound",
+      "off",
+      "silent"
+    ]
+  },
+  "nail-care" : {
+    "category" : "People & Body",
+    "character" : "💅",
+    "keywords" : [
+      "beauty",
+      "manicure",
+      "polish"
+    ]
+  },
+  "name-badge" : {
+    "category" : "Symbols",
+    "character" : "📛",
+    "keywords" : [
+      "hello",
+      "name",
+      "introduction"
+    ]
+  },
+  "national-park" : {
+    "category" : "Travel & Places",
+    "character" : "🏞️",
+    "keywords" : [
+      "nature",
+      "protected",
+      "scenery"
+    ]
+  },
+  "nauseated" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤢",
+    "keywords" : [
+      "sick",
+      "gross",
+      "disgusted"
+    ]
+  },
+  "nazar-amulet" : {
+    "category" : "Objects",
+    "character" : "🧿",
+    "keywords" : [
+      "evil-eye",
+      "protection",
+      "blue"
+    ]
+  },
+  "necktie" : {
+    "category" : "Objects",
+    "character" : "👔",
+    "keywords" : [
+      "formal",
+      "business",
+      "dress"
+    ]
+  },
+  "negative-squared-cross-mark" : {
+    "category" : "Symbols",
+    "character" : "❎",
+    "keywords" : [
+      "wrong",
+      "no",
+      "green"
+    ]
+  },
+  "nerd" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤓",
+    "keywords" : [
+      "smart",
+      "geek",
+      "studious"
+    ]
+  },
+  "nesting-dolls" : {
+    "category" : "Activities",
+    "character" : "🪆",
+    "keywords" : [
+      "russian",
+      "matryoshka",
+      "nested"
+    ]
+  },
+  "neutral" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😐",
+    "keywords" : [
+      "meh",
+      "okay",
+      "indifferent"
+    ]
+  },
+  "newspaper" : {
+    "category" : "Objects",
+    "character" : "📰",
+    "keywords" : [
+      "news",
+      "media",
+      "daily"
+    ]
+  },
+  "night-with-stars" : {
+    "category" : "Travel & Places",
+    "character" : "🌃",
+    "keywords" : [
+      "city",
+      "evening",
+      "lights"
+    ]
+  },
+  "nine" : {
+    "category" : "Symbols",
+    "character" : "9️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "ninth"
+    ]
+  },
+  "no-bell" : {
+    "category" : "Objects",
+    "character" : "🔕",
+    "keywords" : [
+      "silent",
+      "quiet",
+      "mute"
+    ]
+  },
+  "no-mouth" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😶",
+    "keywords" : [
+      "silent",
+      "speechless",
+      "quiet"
+    ]
+  },
+  "nose" : {
+    "category" : "People & Body",
+    "character" : "👃",
+    "keywords" : [
+      "smell",
+      "scent",
+      "body"
+    ]
+  },
+  "notebook" : {
+    "category" : "Objects",
+    "character" : "📓",
+    "keywords" : [
+      "write",
+      "notes",
+      "spiral"
+    ]
+  },
+  "notebook-with-decorative-cover" : {
+    "category" : "Objects",
+    "character" : "📔",
+    "keywords" : [
+      "journal",
+      "diary",
+      "write"
+    ]
+  },
+  "notes" : {
+    "category" : "Symbols",
+    "character" : "🎶",
+    "keywords" : [
+      "music",
+      "song",
+      "multiple"
+    ]
+  },
+  "nut-and-bolt" : {
+    "category" : "Objects",
+    "character" : "🔩",
+    "keywords" : [
+      "hardware",
+      "fastener",
+      "mechanical"
+    ]
+  },
+  "o" : {
+    "category" : "Symbols",
+    "character" : "⭕",
+    "keywords" : [
+      "heavy",
+      "large",
+      "circle"
+    ]
+  },
+  "oden" : {
+    "category" : "Food & Drink",
+    "character" : "🍢",
+    "keywords" : [
+      "japanese",
+      "skewer",
+      "hot"
+    ]
+  },
+  "office" : {
+    "category" : "Travel & Places",
+    "character" : "🏢",
+    "keywords" : [
+      "building",
+      "work",
+      "business"
+    ]
+  },
+  "oil-drum" : {
+    "category" : "Travel & Places",
+    "character" : "🛢️",
+    "keywords" : [
+      "fuel",
+      "petroleum",
+      "barrel"
+    ]
+  },
+  "ok-hand" : {
+    "category" : "People & Body",
+    "character" : "👌",
+    "keywords" : [
+      "perfect",
+      "okay",
+      "good"
+    ]
+  },
+  "old-key" : {
+    "category" : "Objects",
+    "character" : "🗝️",
+    "keywords" : [
+      "antique",
+      "vintage",
+      "unlock"
+    ]
+  },
+  "olive" : {
+    "category" : "Food & Drink",
+    "character" : "🫒",
+    "keywords" : [
+      "fruit",
+      "oil",
+      "mediterranean"
+    ]
+  },
+  "om" : {
+    "category" : "Symbols",
+    "character" : "🕉️",
+    "keywords" : [
+      "religion",
+      "hinduism",
+      "sacred"
+    ]
+  },
+  "oncoming-automobile" : {
+    "category" : "Travel & Places",
+    "character" : "🚘",
+    "keywords" : [
+      "car",
+      "front",
+      "coming"
+    ]
+  },
+  "oncoming-bus" : {
+    "category" : "Travel & Places",
+    "character" : "🚍",
+    "keywords" : [
+      "transport",
+      "front",
+      "coming"
+    ]
+  },
+  "oncoming-police-car" : {
+    "category" : "Travel & Places",
+    "character" : "🚔",
+    "keywords" : [
+      "law",
+      "enforcement",
+      "front"
+    ]
+  },
+  "oncoming-taxi" : {
+    "category" : "Travel & Places",
+    "character" : "🚖",
+    "keywords" : [
+      "cab",
+      "front",
+      "coming"
+    ]
+  },
+  "one" : {
+    "category" : "Symbols",
+    "character" : "1️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "first"
+    ]
+  },
+  "one-piece-swimsuit" : {
+    "category" : "Objects",
+    "character" : "🩱",
+    "keywords" : [
+      "swimming",
+      "beach",
+      "water"
+    ]
+  },
+  "onion" : {
+    "category" : "Food & Drink",
+    "character" : "🧅",
+    "keywords" : [
+      "vegetable",
+      "layers",
+      "tears"
+    ]
+  },
+  "open-book" : {
+    "category" : "Objects",
+    "character" : "📖",
+    "keywords" : [
+      "book",
+      "read",
+      "knowledge"
+    ]
+  },
+  "open-file-folder" : {
+    "category" : "Objects",
+    "character" : "📂",
+    "keywords" : [
+      "organize",
+      "documents",
+      "open"
+    ]
+  },
+  "open-hands" : {
+    "category" : "People & Body",
+    "character" : "👐",
+    "keywords" : [
+      "hug",
+      "jazz-hands",
+      "open"
+    ]
+  },
+  "open-mouth" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😮",
+    "keywords" : [
+      "surprised",
+      "shocked",
+      "wow"
+    ]
+  },
+  "ophiuchus" : {
+    "category" : "Symbols",
+    "character" : "⛎",
+    "keywords" : [
+      "zodiac",
+      "serpent",
+      "astrology"
+    ]
+  },
+  "orange" : {
+    "category" : "Food & Drink",
+    "character" : "🍊",
+    "keywords" : [
+      "fruit",
+      "citrus",
+      "vitamin-c"
+    ]
+  },
+  "orange-book" : {
+    "category" : "Objects",
+    "character" : "📙",
+    "keywords" : [
+      "book",
+      "read",
+      "orange"
+    ]
+  },
+  "orange-heart" : {
+    "category" : "Symbols",
+    "character" : "🧡",
+    "keywords" : [
+      "love",
+      "warm",
+      "orange"
+    ]
+  },
+  "orangutan" : {
+    "category" : "Animals & Nature",
+    "character" : "🦧",
+    "keywords" : [
+      "animal",
+      "primate",
+      "orange"
+    ]
+  },
+  "orthodox-cross" : {
+    "category" : "Symbols",
+    "character" : "☦️",
+    "keywords" : [
+      "religion",
+      "orthodox",
+      "faith"
+    ]
+  },
+  "otter" : {
+    "category" : "Animals & Nature",
+    "character" : "🦦",
+    "keywords" : [
+      "animal",
+      "water",
+      "playful"
+    ]
+  },
+  "outbox-tray" : {
+    "category" : "Objects",
+    "character" : "📤",
+    "keywords" : [
+      "send",
+      "mail",
+      "out"
+    ]
+  },
+  "owl" : {
+    "category" : "Animals & Nature",
+    "character" : "🦉",
+    "keywords" : [
+      "bird",
+      "wise",
+      "night"
+    ]
+  },
+  "ox" : {
+    "category" : "Animals & Nature",
+    "character" : "🐂",
+    "keywords" : [
+      "animal",
+      "strong",
+      "bull"
+    ]
+  },
+  "oyster" : {
+    "category" : "Food & Drink",
+    "character" : "🦪",
+    "keywords" : [
+      "seafood",
+      "shell",
+      "pearl"
+    ]
+  },
+  "package" : {
+    "category" : "Objects",
+    "character" : "📦",
+    "keywords" : [
+      "box",
+      "delivery",
+      "shipping"
+    ]
+  },
+  "page-facing-up" : {
+    "category" : "Objects",
+    "character" : "📄",
+    "keywords" : [
+      "document",
+      "paper",
+      "white"
+    ]
+  },
+  "page-with-curl" : {
+    "category" : "Objects",
+    "character" : "📃",
+    "keywords" : [
+      "document",
+      "paper",
+      "corner"
+    ]
+  },
+  "pager" : {
+    "category" : "Objects",
+    "character" : "📟",
+    "keywords" : [
+      "communication",
+      "old",
+      "beeper"
+    ]
+  },
+  "paintbrush" : {
+    "category" : "Objects",
+    "character" : "🖌️",
+    "keywords" : [
+      "art",
+      "paint",
+      "creative"
+    ]
+  },
+  "palm-down-hand" : {
+    "category" : "People & Body",
+    "character" : "🫳",
+    "keywords" : [
+      "drop",
+      "offering",
+      "give"
+    ]
+  },
+  "palm-up-hand" : {
+    "category" : "People & Body",
+    "character" : "🫴",
+    "keywords" : [
+      "receive",
+      "offer",
+      "give"
+    ]
+  },
+  "palms-up-together" : {
+    "category" : "People & Body",
+    "character" : "🤲",
+    "keywords" : [
+      "prayer",
+      "please",
+      "gratitude"
+    ]
+  },
+  "pancakes" : {
+    "category" : "Food & Drink",
+    "character" : "🥞",
+    "keywords" : [
+      "breakfast",
+      "syrup",
+      "stack"
+    ]
+  },
+  "panda" : {
+    "category" : "Animals & Nature",
+    "character" : "🐼",
+    "keywords" : [
+      "animal",
+      "black-white",
+      "bamboo"
+    ]
+  },
+  "paperclip" : {
+    "category" : "Objects",
+    "character" : "📎",
+    "keywords" : [
+      "attach",
+      "office",
+      "metal"
+    ]
+  },
+  "paperclips" : {
+    "category" : "Objects",
+    "character" : "🖇️",
+    "keywords" : [
+      "attach",
+      "office",
+      "multiple"
+    ]
+  },
+  "parachute" : {
+    "category" : "Travel & Places",
+    "character" : "🪂",
+    "keywords" : [
+      "skydiving",
+      "safety",
+      "fall"
+    ]
+  },
+  "parrot" : {
+    "category" : "Animals & Nature",
+    "character" : "🦜",
+    "keywords" : [
+      "bird",
+      "colorful",
+      "talk"
+    ]
+  },
+  "part-alternation-mark" : {
+    "category" : "Symbols",
+    "character" : "〽️",
+    "keywords" : [
+      "music",
+      "symbol",
+      "alternation"
+    ]
+  },
+  "party" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🥳",
+    "keywords" : [
+      "celebrate",
+      "birthday",
+      "happy"
+    ]
+  },
+  "passenger-ship" : {
+    "category" : "Travel & Places",
+    "character" : "🛳️",
+    "keywords" : [
+      "cruise",
+      "large",
+      "ocean"
+    ]
+  },
+  "pause-button" : {
+    "category" : "Symbols",
+    "character" : "⏸️",
+    "keywords" : [
+      "pause",
+      "stop",
+      "break"
+    ]
+  },
+  "peace" : {
+    "category" : "Symbols",
+    "character" : "☮️",
+    "keywords" : [
+      "symbol",
+      "hippie",
+      "calm"
+    ]
+  },
+  "peace-symbol" : {
+    "category" : "Symbols",
+    "character" : "☮️",
+    "keywords" : [
+      "peace",
+      "hippie",
+      "calm"
+    ]
+  },
+  "peach" : {
+    "category" : "Food & Drink",
+    "character" : "🍑",
+    "keywords" : [
+      "fruit",
+      "pink",
+      "soft"
+    ]
+  },
+  "peacock" : {
+    "category" : "Animals & Nature",
+    "character" : "🦚",
+    "keywords" : [
+      "bird",
+      "colorful",
+      "feathers"
+    ]
+  },
+  "peanuts" : {
+    "category" : "Food & Drink",
+    "character" : "🥜",
+    "keywords" : [
+      "nuts",
+      "protein",
+      "allergy"
+    ]
+  },
+  "pear" : {
+    "category" : "Food & Drink",
+    "character" : "🍐",
+    "keywords" : [
+      "fruit",
+      "green",
+      "sweet"
+    ]
+  },
+  "pen" : {
+    "category" : "Objects",
+    "character" : "🖊️",
+    "keywords" : [
+      "write",
+      "ballpoint",
+      "office"
+    ]
+  },
+  "pencil2" : {
+    "category" : "Objects",
+    "character" : "✏️",
+    "keywords" : [
+      "write",
+      "draw",
+      "wooden"
+    ]
+  },
+  "penguin" : {
+    "category" : "Animals & Nature",
+    "character" : "🐧",
+    "keywords" : [
+      "bird",
+      "antarctica",
+      "tuxedo"
+    ]
+  },
+  "pensive" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😔",
+    "keywords" : [
+      "sad",
+      "thoughtful",
+      "dejected"
+    ]
+  },
+  "performing-arts" : {
+    "category" : "Activities",
+    "character" : "🎭",
+    "keywords" : [
+      "theater",
+      "drama",
+      "masks"
+    ]
+  },
+  "persevere" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😣",
+    "keywords" : [
+      "struggling",
+      "effort",
+      "determined"
+    ]
+  },
+  "petri-dish" : {
+    "category" : "Objects",
+    "character" : "🧫",
+    "keywords" : [
+      "science",
+      "bacteria",
+      "lab"
+    ]
+  },
+  "phone" : {
+    "category" : "Objects",
+    "character" : "☎️",
+    "keywords" : [
+      "telephone",
+      "old",
+      "landline"
+    ]
+  },
+  "pick" : {
+    "category" : "Objects",
+    "character" : "⛏️",
+    "keywords" : [
+      "tool",
+      "mining",
+      "dig"
+    ]
+  },
+  "pickup-truck" : {
+    "category" : "Travel & Places",
+    "character" : "🛻",
+    "keywords" : [
+      "truck",
+      "utility",
+      "cargo"
+    ]
+  },
+  "pie" : {
+    "category" : "Food & Drink",
+    "character" : "🥧",
+    "keywords" : [
+      "dessert",
+      "crust",
+      "filling"
+    ]
+  },
+  "pig" : {
+    "category" : "Animals & Nature",
+    "character" : "🐷",
+    "keywords" : [
+      "animal",
+      "farm",
+      "oink"
+    ]
+  },
+  "pig-nose" : {
+    "category" : "Animals & Nature",
+    "character" : "🐽",
+    "keywords" : [
+      "animal",
+      "snout",
+      "smell"
+    ]
+  },
+  "pig2" : {
+    "category" : "Animals & Nature",
+    "character" : "🐖",
+    "keywords" : [
+      "animal",
+      "farm",
+      "bacon"
+    ]
+  },
+  "pill" : {
+    "category" : "Objects",
+    "character" : "💊",
+    "keywords" : [
+      "medicine",
+      "health",
+      "capsule"
+    ]
+  },
+  "pinata" : {
+    "category" : "Activities",
+    "character" : "🪅",
+    "keywords" : [
+      "party",
+      "candy",
+      "hit"
+    ]
+  },
+  "pinched-fingers" : {
+    "category" : "People & Body",
+    "character" : "🤌",
+    "keywords" : [
+      "italian",
+      "gesture",
+      "chef-kiss"
+    ]
+  },
+  "pinching-hand" : {
+    "category" : "People & Body",
+    "character" : "🤏",
+    "keywords" : [
+      "small",
+      "tiny",
+      "little"
+    ]
+  },
+  "pineapple" : {
+    "category" : "Food & Drink",
+    "character" : "🍍",
+    "keywords" : [
+      "fruit",
+      "tropical",
+      "spiky"
+    ]
+  },
+  "ping-pong" : {
+    "category" : "Activities",
+    "character" : "🏓",
+    "keywords" : [
+      "table-tennis",
+      "paddle",
+      "ball"
+    ]
+  },
+  "pink-heart" : {
+    "category" : "Symbols",
+    "character" : "🩷",
+    "keywords" : [
+      "love",
+      "cute",
+      "feminine"
+    ]
+  },
+  "pisces" : {
+    "category" : "Symbols",
+    "character" : "♓",
+    "keywords" : [
+      "zodiac",
+      "fish",
+      "astrology"
+    ]
+  },
+  "pistol" : {
+    "category" : "Objects",
+    "character" : "🔫",
+    "keywords" : [
+      "gun",
+      "weapon",
+      "water"
+    ]
+  },
+  "pizza" : {
+    "category" : "Food & Drink",
+    "character" : "🍕",
+    "keywords" : [
+      "italian",
+      "cheese",
+      "slice"
+    ]
+  },
+  "placard" : {
+    "category" : "Objects",
+    "character" : "🪧",
+    "keywords" : [
+      "sign",
+      "protest",
+      "message"
+    ]
+  },
+  "playground-slide" : {
+    "category" : "Travel & Places",
+    "character" : "🛝",
+    "keywords" : [
+      "children",
+      "play",
+      "fun"
+    ]
+  },
+  "pleading" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🥺",
+    "keywords" : [
+      "puppy-eyes",
+      "please",
+      "cute"
+    ]
+  },
+  "plunger" : {
+    "category" : "Objects",
+    "character" : "🪠",
+    "keywords" : [
+      "toilet",
+      "plumbing",
+      "unclog"
+    ]
+  },
+  "point-down" : {
+    "category" : "People & Body",
+    "character" : "👇",
+    "keywords" : [
+      "direction",
+      "down",
+      "pointing"
+    ]
+  },
+  "point-left" : {
+    "category" : "People & Body",
+    "character" : "👈",
+    "keywords" : [
+      "direction",
+      "left",
+      "pointing"
+    ]
+  },
+  "point-right" : {
+    "category" : "People & Body",
+    "character" : "👉",
+    "keywords" : [
+      "direction",
+      "right",
+      "pointing"
+    ]
+  },
+  "point-up" : {
+    "category" : "People & Body",
+    "character" : "☝️",
+    "keywords" : [
+      "direction",
+      "up",
+      "attention"
+    ]
+  },
+  "point-up-2" : {
+    "category" : "People & Body",
+    "character" : "👆",
+    "keywords" : [
+      "direction",
+      "up",
+      "pointing"
+    ]
+  },
+  "polar-bear" : {
+    "category" : "Animals & Nature",
+    "character" : "🐻‍❄️",
+    "keywords" : [
+      "animal",
+      "white",
+      "arctic"
+    ]
+  },
+  "police-car" : {
+    "category" : "Travel & Places",
+    "character" : "🚓",
+    "keywords" : [
+      "law",
+      "enforcement",
+      "emergency"
+    ]
+  },
+  "poodle" : {
+    "category" : "Animals & Nature",
+    "character" : "🐩",
+    "keywords" : [
+      "dog",
+      "animal",
+      "curly"
+    ]
+  },
+  "popcorn" : {
+    "category" : "Food & Drink",
+    "character" : "🍿",
+    "keywords" : [
+      "snack",
+      "movie",
+      "corn"
+    ]
+  },
+  "post-office" : {
+    "category" : "Travel & Places",
+    "character" : "🏣",
+    "keywords" : [
+      "mail",
+      "japan",
+      "building"
+    ]
+  },
+  "postal-horn" : {
+    "category" : "Objects",
+    "character" : "📯",
+    "keywords" : [
+      "mail",
+      "horn",
+      "communication"
+    ]
+  },
+  "postbox" : {
+    "category" : "Objects",
+    "character" : "📮",
+    "keywords" : [
+      "mail",
+      "red",
+      "public"
+    ]
+  },
+  "potato" : {
+    "category" : "Food & Drink",
+    "character" : "🥔",
+    "keywords" : [
+      "vegetable",
+      "starch",
+      "fries"
+    ]
+  },
+  "pouch" : {
+    "category" : "Objects",
+    "character" : "👝",
+    "keywords" : [
+      "bag",
+      "small",
+      "clutch"
+    ]
+  },
+  "poultry-leg" : {
+    "category" : "Food & Drink",
+    "character" : "🍗",
+    "keywords" : [
+      "chicken",
+      "meat",
+      "drumstick"
+    ]
+  },
+  "pound" : {
+    "category" : "Objects",
+    "character" : "💷",
+    "keywords" : [
+      "money",
+      "britain",
+      "currency"
+    ]
+  },
+  "pouring-liquid" : {
+    "category" : "Food & Drink",
+    "character" : "🫗",
+    "keywords" : [
+      "drink",
+      "pour",
+      "liquid"
+    ]
+  },
+  "pray" : {
+    "category" : "People & Body",
+    "character" : "🙏",
+    "keywords" : [
+      "prayer",
+      "thank-you",
+      "gratitude"
+    ]
+  },
+  "prayer-beads" : {
+    "category" : "Objects",
+    "character" : "📿",
+    "keywords" : [
+      "religion",
+      "meditation",
+      "spiritual"
+    ]
+  },
+  "pretzel" : {
+    "category" : "Food & Drink",
+    "character" : "🥨",
+    "keywords" : [
+      "snack",
+      "twisted",
+      "salt"
+    ]
+  },
+  "printer" : {
+    "category" : "Objects",
+    "character" : "🖨️",
+    "keywords" : [
+      "document",
+      "paper",
+      "office"
+    ]
+  },
+  "probing-cane" : {
+    "category" : "Objects",
+    "character" : "🦯",
+    "keywords" : [
+      "accessibility",
+      "blind",
+      "navigation"
+    ]
+  },
+  "purple-heart" : {
+    "category" : "Symbols",
+    "character" : "💜",
+    "keywords" : [
+      "love",
+      "honor",
+      "compassion"
+    ]
+  },
+  "purse" : {
+    "category" : "Objects",
+    "character" : "👛",
+    "keywords" : [
+      "bag",
+      "money",
+      "small"
+    ]
+  },
+  "pushpin" : {
+    "category" : "Objects",
+    "character" : "📌",
+    "keywords" : [
+      "pin",
+      "attach",
+      "bulletin"
+    ]
+  },
+  "question" : {
+    "category" : "Symbols",
+    "character" : "❓",
+    "keywords" : [
+      "ask",
+      "help",
+      "unknown"
+    ]
+  },
+  "rabbit" : {
+    "category" : "Animals & Nature",
+    "character" : "🐰",
+    "keywords" : [
+      "animal",
+      "bunny",
+      "hop"
+    ]
+  },
+  "rabbit2" : {
+    "category" : "Animals & Nature",
+    "character" : "🐇",
+    "keywords" : [
+      "animal",
+      "fast",
+      "white"
+    ]
+  },
+  "raccoon" : {
+    "category" : "Animals & Nature",
+    "character" : "🦝",
+    "keywords" : [
+      "animal",
+      "trash",
+      "mask"
+    ]
+  },
+  "racehorse" : {
+    "category" : "Animals & Nature",
+    "character" : "🐎",
+    "keywords" : [
+      "animal",
+      "fast",
+      "racing"
+    ]
+  },
+  "racing-car" : {
+    "category" : "Travel & Places",
+    "character" : "🏎️",
+    "keywords" : [
+      "fast",
+      "sport",
+      "formula"
+    ]
+  },
+  "radio" : {
+    "category" : "Objects",
+    "character" : "📻",
+    "keywords" : [
+      "music",
+      "news",
+      "broadcast"
+    ]
+  },
+  "rage" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😡",
+    "keywords" : [
+      "angry",
+      "mad",
+      "furious"
+    ]
+  },
+  "railway-car" : {
+    "category" : "Travel & Places",
+    "character" : "🚃",
+    "keywords" : [
+      "train",
+      "transport",
+      "track"
+    ]
+  },
+  "railway-track" : {
+    "category" : "Travel & Places",
+    "character" : "🛤️",
+    "keywords" : [
+      "train",
+      "rails",
+      "transport"
+    ]
+  },
+  "raised-back-hand" : {
+    "category" : "People & Body",
+    "character" : "🤚",
+    "keywords" : [
+      "stop",
+      "high-five",
+      "palm"
+    ]
+  },
+  "raised-eyebrow" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤨",
+    "keywords" : [
+      "skeptical",
+      "suspicious",
+      "doubt"
+    ]
+  },
+  "raised-fist" : {
+    "category" : "People & Body",
+    "character" : "✊",
+    "keywords" : [
+      "power",
+      "strength",
+      "solidarity"
+    ]
+  },
+  "raised-hand-fingers-splayed" : {
+    "category" : "People & Body",
+    "character" : "🖐️",
+    "keywords" : [
+      "high-five",
+      "stop",
+      "five"
+    ]
+  },
+  "raised-hands" : {
+    "category" : "People & Body",
+    "character" : "🙌",
+    "keywords" : [
+      "celebration",
+      "praise",
+      "hooray"
+    ]
+  },
+  "ram" : {
+    "category" : "Animals & Nature",
+    "character" : "🐏",
+    "keywords" : [
+      "animal",
+      "sheep",
+      "horns"
+    ]
+  },
+  "ramen" : {
+    "category" : "Food & Drink",
+    "character" : "🍜",
+    "keywords" : [
+      "noodles",
+      "japanese",
+      "soup"
+    ]
+  },
+  "rat" : {
+    "category" : "Animals & Nature",
+    "character" : "🐀",
+    "keywords" : [
+      "animal",
+      "rodent",
+      "pest"
+    ]
+  },
+  "razor" : {
+    "category" : "Objects",
+    "character" : "🪒",
+    "keywords" : [
+      "shave",
+      "grooming",
+      "sharp"
+    ]
+  },
+  "receipt" : {
+    "category" : "Objects",
+    "character" : "🧾",
+    "keywords" : [
+      "purchase",
+      "proof",
+      "paper"
+    ]
+  },
+  "record-button" : {
+    "category" : "Symbols",
+    "character" : "⏺️",
+    "keywords" : [
+      "record",
+      "circle",
+      "red"
+    ]
+  },
+  "recycle" : {
+    "category" : "Symbols",
+    "character" : "♻️",
+    "keywords" : [
+      "environment",
+      "green",
+      "reuse"
+    ]
+  },
+  "red-envelope" : {
+    "category" : "Activities",
+    "character" : "🧧",
+    "keywords" : [
+      "chinese",
+      "money",
+      "luck"
+    ]
+  },
+  "registered" : {
+    "category" : "Symbols",
+    "character" : "®️",
+    "keywords" : [
+      "trademark",
+      "legal",
+      "rights"
+    ]
+  },
+  "relieved" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😮‍💨",
+    "keywords" : [
+      "exhale",
+      "relief",
+      "tired"
+    ]
+  },
+  "reminder-ribbon" : {
+    "category" : "Activities",
+    "character" : "🎗️",
+    "keywords" : [
+      "awareness",
+      "cause",
+      "support"
+    ]
+  },
+  "repeat" : {
+    "category" : "Symbols",
+    "character" : "🔁",
+    "keywords" : [
+      "loop",
+      "again",
+      "cycle"
+    ]
+  },
+  "repeat-one" : {
+    "category" : "Symbols",
+    "character" : "🔂",
+    "keywords" : [
+      "single",
+      "loop",
+      "one"
+    ]
+  },
+  "rescue-worker-helmet" : {
+    "category" : "Objects",
+    "character" : "⛑️",
+    "keywords" : [
+      "safety",
+      "emergency",
+      "hard-hat"
+    ]
+  },
+  "revolving-hearts" : {
+    "category" : "Symbols",
+    "character" : "💞",
+    "keywords" : [
+      "love",
+      "spinning",
+      "dizzy"
+    ]
+  },
+  "rewind" : {
+    "category" : "Symbols",
+    "character" : "⏪",
+    "keywords" : [
+      "back",
+      "previous",
+      "double"
+    ]
+  },
+  "rhinoceros" : {
+    "category" : "Animals & Nature",
+    "character" : "🦏",
+    "keywords" : [
+      "animal",
+      "horn",
+      "strong"
+    ]
+  },
+  "ribbon" : {
+    "category" : "Activities",
+    "character" : "🎀",
+    "keywords" : [
+      "decoration",
+      "gift",
+      "pink"
+    ]
+  },
+  "rice" : {
+    "category" : "Food & Drink",
+    "character" : "🍚",
+    "keywords" : [
+      "grain",
+      "white",
+      "asian"
+    ]
+  },
+  "rice-ball" : {
+    "category" : "Food & Drink",
+    "character" : "🍙",
+    "keywords" : [
+      "japanese",
+      "onigiri",
+      "seaweed"
+    ]
+  },
+  "rice-cracker" : {
+    "category" : "Food & Drink",
+    "character" : "🍘",
+    "keywords" : [
+      "japanese",
+      "snack",
+      "crispy"
+    ]
+  },
+  "rice-scene" : {
+    "category" : "Activities",
+    "character" : "🎑",
+    "keywords" : [
+      "japanese",
+      "moon",
+      "viewing"
+    ]
+  },
+  "rightwards-hand" : {
+    "category" : "People & Body",
+    "character" : "🫱",
+    "keywords" : [
+      "right",
+      "direction",
+      "point"
+    ]
+  },
+  "ring" : {
+    "category" : "Objects",
+    "character" : "💍",
+    "keywords" : [
+      "jewelry",
+      "marriage",
+      "diamond"
+    ]
+  },
+  "ring-buoy" : {
+    "category" : "Travel & Places",
+    "character" : "🛟",
+    "keywords" : [
+      "safety",
+      "life",
+      "water"
+    ]
+  },
+  "rock" : {
+    "category" : "Travel & Places",
+    "character" : "🪨",
+    "keywords" : [
+      "stone",
+      "hard",
+      "geology"
+    ]
+  },
+  "rocket" : {
+    "category" : "Travel & Places",
+    "character" : "🚀",
+    "keywords" : [
+      "space",
+      "launch",
+      "fast"
+    ]
+  },
+  "rofl" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤣",
+    "keywords" : [
+      "rolling",
+      "laugh",
+      "floor"
+    ]
+  },
+  "roll-eyes" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🙄",
+    "keywords" : [
+      "whatever",
+      "annoyed",
+      "sarcastic"
+    ]
+  },
+  "roll-of-paper" : {
+    "category" : "Objects",
+    "character" : "🧻",
+    "keywords" : [
+      "toilet",
+      "tissue",
+      "clean"
+    ]
+  },
+  "rolled-up-newspaper" : {
+    "category" : "Objects",
+    "character" : "🗞️",
+    "keywords" : [
+      "news",
+      "delivery",
+      "rolled"
+    ]
+  },
+  "roller-coaster" : {
+    "category" : "Travel & Places",
+    "character" : "🎢",
+    "keywords" : [
+      "amusement",
+      "thrill",
+      "fast"
+    ]
+  },
+  "roller-skate" : {
+    "category" : "Travel & Places",
+    "character" : "🛼",
+    "keywords" : [
+      "sport",
+      "wheels",
+      "retro"
+    ]
+  },
+  "rooster" : {
+    "category" : "Animals & Nature",
+    "character" : "🐓",
+    "keywords" : [
+      "bird",
+      "farm",
+      "morning"
+    ]
+  },
+  "rotating-light" : {
+    "category" : "Travel & Places",
+    "character" : "🚨",
+    "keywords" : [
+      "emergency",
+      "police",
+      "ambulance"
+    ]
+  },
+  "round-pushpin" : {
+    "category" : "Objects",
+    "character" : "📍",
+    "keywords" : [
+      "location",
+      "pin",
+      "map"
+    ]
+  },
+  "rugby-football" : {
+    "category" : "Activities",
+    "character" : "🏉",
+    "keywords" : [
+      "sport",
+      "oval",
+      "tackle"
+    ]
+  },
+  "running-shirt" : {
+    "category" : "Activities",
+    "character" : "🎽",
+    "keywords" : [
+      "sport",
+      "marathon",
+      "vest"
+    ]
+  },
+  "safety-pin" : {
+    "category" : "Objects",
+    "character" : "🧷",
+    "keywords" : [
+      "fasten",
+      "baby",
+      "sharp"
+    ]
+  },
+  "safety-vest" : {
+    "category" : "Objects",
+    "character" : "🦺",
+    "keywords" : [
+      "construction",
+      "visibility",
+      "work"
+    ]
+  },
+  "sagittarius" : {
+    "category" : "Symbols",
+    "character" : "♐",
+    "keywords" : [
+      "zodiac",
+      "archer",
+      "astrology"
+    ]
+  },
+  "sailboat" : {
+    "category" : "Travel & Places",
+    "character" : "⛵",
+    "keywords" : [
+      "boat",
+      "wind",
+      "sailing"
+    ]
+  },
+  "sake" : {
+    "category" : "Food & Drink",
+    "character" : "🍶",
+    "keywords" : [
+      "japanese",
+      "alcohol",
+      "rice"
+    ]
+  },
+  "salt" : {
+    "category" : "Food & Drink",
+    "character" : "🧂",
+    "keywords" : [
+      "seasoning",
+      "white",
+      "shaker"
+    ]
+  },
+  "sandal" : {
+    "category" : "Objects",
+    "character" : "👡",
+    "keywords" : [
+      "summer",
+      "open",
+      "strappy"
+    ]
+  },
+  "sandwich" : {
+    "category" : "Food & Drink",
+    "character" : "🥪",
+    "keywords" : [
+      "bread",
+      "filling",
+      "lunch"
+    ]
+  },
+  "sari" : {
+    "category" : "Objects",
+    "character" : "🥻",
+    "keywords" : [
+      "indian",
+      "traditional",
+      "elegant"
+    ]
+  },
+  "satellite" : {
+    "category" : "Objects",
+    "character" : "📡",
+    "keywords" : [
+      "communication",
+      "dish",
+      "signal"
+    ]
+  },
+  "sauropod" : {
+    "category" : "Animals & Nature",
+    "character" : "🦕",
+    "keywords" : [
+      "dinosaur",
+      "long-neck",
+      "extinct"
+    ]
+  },
+  "saxophone" : {
+    "category" : "Objects",
+    "character" : "🎷",
+    "keywords" : [
+      "music",
+      "jazz",
+      "instrument"
+    ]
+  },
+  "scarf" : {
+    "category" : "Objects",
+    "character" : "🧣",
+    "keywords" : [
+      "winter",
+      "warm",
+      "neck"
+    ]
+  },
+  "school" : {
+    "category" : "Travel & Places",
+    "character" : "🏫",
+    "keywords" : [
+      "education",
+      "learning",
+      "students"
+    ]
+  },
+  "school-satchel" : {
+    "category" : "Objects",
+    "character" : "🎒",
+    "keywords" : [
+      "backpack",
+      "student",
+      "carry"
+    ]
+  },
+  "scissors" : {
+    "category" : "Objects",
+    "character" : "✂️",
+    "keywords" : [
+      "cut",
+      "tool",
+      "sharp"
+    ]
+  },
+  "scooter" : {
+    "category" : "Travel & Places",
+    "character" : "🛴",
+    "keywords" : [
+      "kick",
+      "children",
+      "two-wheel"
+    ]
+  },
+  "scorpius" : {
+    "category" : "Symbols",
+    "character" : "♏",
+    "keywords" : [
+      "zodiac",
+      "scorpion",
+      "astrology"
+    ]
+  },
+  "scream" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😱",
+    "keywords" : [
+      "scared",
+      "shocked",
+      "fear"
+    ]
+  },
+  "screwdriver" : {
+    "category" : "Objects",
+    "character" : "🪛",
+    "keywords" : [
+      "tool",
+      "fix",
+      "screw"
+    ]
+  },
+  "scroll" : {
+    "category" : "Objects",
+    "character" : "📜",
+    "keywords" : [
+      "document",
+      "ancient",
+      "parchment"
+    ]
+  },
+  "seat" : {
+    "category" : "Travel & Places",
+    "character" : "💺",
+    "keywords" : [
+      "airplane",
+      "chair",
+      "travel"
+    ]
+  },
+  "selfie" : {
+    "category" : "People & Body",
+    "character" : "🤳",
+    "keywords" : [
+      "photo",
+      "camera",
+      "phone"
+    ]
+  },
+  "service-dog" : {
+    "category" : "Animals & Nature",
+    "character" : "🐕‍🦺",
+    "keywords" : [
+      "accessibility",
+      "help",
+      "service"
+    ]
+  },
+  "seven" : {
+    "category" : "Symbols",
+    "character" : "7️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "seventh"
+    ]
+  },
+  "sewing-needle" : {
+    "category" : "Activities",
+    "character" : "🪡",
+    "keywords" : [
+      "craft",
+      "thread",
+      "sharp"
+    ]
+  },
+  "shallow-pan-of-food" : {
+    "category" : "Food & Drink",
+    "character" : "🥘",
+    "keywords" : [
+      "paella",
+      "spanish",
+      "rice"
+    ]
+  },
+  "shaved-ice" : {
+    "category" : "Food & Drink",
+    "character" : "🍧",
+    "keywords" : [
+      "dessert",
+      "cold",
+      "syrup"
+    ]
+  },
+  "sheep" : {
+    "category" : "Animals & Nature",
+    "character" : "🐑",
+    "keywords" : [
+      "animal",
+      "wool",
+      "fluffy"
+    ]
+  },
+  "shield" : {
+    "category" : "Objects",
+    "character" : "🛡️",
+    "keywords" : [
+      "protection",
+      "defense",
+      "guard"
+    ]
+  },
+  "shinto-shrine" : {
+    "category" : "Travel & Places",
+    "character" : "⛩️",
+    "keywords" : [
+      "japan",
+      "religion",
+      "red"
+    ]
+  },
+  "ship" : {
+    "category" : "Travel & Places",
+    "character" : "🚢",
+    "keywords" : [
+      "boat",
+      "large",
+      "ocean"
+    ]
+  },
+  "shirt" : {
+    "category" : "Objects",
+    "character" : "👕",
+    "keywords" : [
+      "clothing",
+      "casual",
+      "wear"
+    ]
+  },
+  "shopping" : {
+    "category" : "Objects",
+    "character" : "🛍️",
+    "keywords" : [
+      "bags",
+      "retail",
+      "purchase"
+    ]
+  },
+  "shopping-cart" : {
+    "category" : "Objects",
+    "character" : "🛒",
+    "keywords" : [
+      "store",
+      "shopping",
+      "groceries"
+    ]
+  },
+  "shorts" : {
+    "category" : "Objects",
+    "character" : "🩳",
+    "keywords" : [
+      "summer",
+      "casual",
+      "short"
+    ]
+  },
+  "shower" : {
+    "category" : "Objects",
+    "character" : "🚿",
+    "keywords" : [
+      "bathroom",
+      "wash",
+      "water"
+    ]
+  },
+  "shrimp" : {
+    "category" : "Food & Drink",
+    "character" : "🦐",
+    "keywords" : [
+      "seafood",
+      "pink",
+      "curved"
+    ]
+  },
+  "shush" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤫",
+    "keywords" : [
+      "quiet",
+      "secret",
+      "silence"
+    ]
+  },
+  "signal-strength" : {
+    "category" : "Symbols",
+    "character" : "📶",
+    "keywords" : [
+      "bars",
+      "cell",
+      "wifi"
+    ]
+  },
+  "six" : {
+    "category" : "Symbols",
+    "character" : "6️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "sixth"
+    ]
+  },
+  "six-pointed-star" : {
+    "category" : "Symbols",
+    "character" : "🔯",
+    "keywords" : [
+      "star",
+      "symbol",
+      "hexagram"
+    ]
+  },
+  "skateboard" : {
+    "category" : "Travel & Places",
+    "character" : "🛹",
+    "keywords" : [
+      "sport",
+      "wheels",
+      "tricks"
+    ]
+  },
+  "ski" : {
+    "category" : "Activities",
+    "character" : "🎿",
+    "keywords" : [
+      "winter",
+      "sport",
+      "snow"
+    ]
+  },
+  "skull" : {
+    "category" : "Smileys & Emotion",
+    "character" : "💀",
+    "keywords" : [
+      "death",
+      "dead",
+      "bones"
+    ]
+  },
+  "skull-crossbones" : {
+    "category" : "Smileys & Emotion",
+    "character" : "☠️",
+    "keywords" : [
+      "danger",
+      "poison",
+      "death"
+    ]
+  },
+  "skunk" : {
+    "category" : "Animals & Nature",
+    "character" : "🦨",
+    "keywords" : [
+      "animal",
+      "smell",
+      "black-white"
+    ]
+  },
+  "sled" : {
+    "category" : "Activities",
+    "character" : "🛷",
+    "keywords" : [
+      "winter",
+      "snow",
+      "slide"
+    ]
+  },
+  "sleeping" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😴",
+    "keywords" : [
+      "sleep",
+      "tired",
+      "zzz"
+    ]
+  },
+  "sleepy" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😪",
+    "keywords" : [
+      "tired",
+      "drowsy",
+      "exhausted"
+    ]
+  },
+  "slight-frown" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🙁",
+    "keywords" : [
+      "disappointed",
+      "sad",
+      "unhappy"
+    ]
+  },
+  "slight-smile" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🙂",
+    "keywords" : [
+      "okay",
+      "fine",
+      "content"
+    ]
+  },
+  "slot-machine" : {
+    "category" : "Activities",
+    "character" : "🎰",
+    "keywords" : [
+      "gambling",
+      "casino",
+      "jackpot"
+    ]
+  },
+  "sloth" : {
+    "category" : "Animals & Nature",
+    "character" : "🦥",
+    "keywords" : [
+      "animal",
+      "slow",
+      "lazy"
+    ]
+  },
+  "small-airplane" : {
+    "category" : "Travel & Places",
+    "character" : "🛩️",
+    "keywords" : [
+      "plane",
+      "small",
+      "private"
+    ]
+  },
+  "smile" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😊",
+    "keywords" : [
+      "happy",
+      "joy",
+      "pleased"
+    ]
+  },
+  "smile-eyes" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😄",
+    "keywords" : [
+      "happy",
+      "smile",
+      "laugh"
+    ]
+  },
+  "smiling-imp" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😈",
+    "keywords" : [
+      "devil",
+      "mischievous",
+      "evil"
+    ]
+  },
+  "smirk" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😏",
+    "keywords" : [
+      "smug",
+      "sly",
+      "knowing"
+    ]
+  },
+  "smoking" : {
+    "category" : "Objects",
+    "character" : "🚬",
+    "keywords" : [
+      "cigarette",
+      "tobacco",
+      "bad"
+    ]
+  },
+  "snake" : {
+    "category" : "Animals & Nature",
+    "character" : "🐍",
+    "keywords" : [
+      "animal",
+      "slither",
+      "danger"
+    ]
+  },
+  "sneeze" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤧",
+    "keywords" : [
+      "sick",
+      "allergies",
+      "achoo"
+    ]
+  },
+  "soap" : {
+    "category" : "Objects",
+    "character" : "🧼",
+    "keywords" : [
+      "clean",
+      "hygiene",
+      "bubbles"
+    ]
+  },
+  "sob" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😭",
+    "keywords" : [
+      "crying",
+      "tears",
+      "very-sad"
+    ]
+  },
+  "soccer" : {
+    "category" : "Activities",
+    "character" : "⚽",
+    "keywords" : [
+      "football",
+      "sport",
+      "ball"
+    ]
+  },
+  "socks" : {
+    "category" : "Objects",
+    "character" : "🧦",
+    "keywords" : [
+      "feet",
+      "warm",
+      "pair"
+    ]
+  },
+  "softball" : {
+    "category" : "Activities",
+    "character" : "🥎",
+    "keywords" : [
+      "sport",
+      "yellow",
+      "underhand"
+    ]
+  },
+  "sound" : {
+    "category" : "Objects",
+    "character" : "🔉",
+    "keywords" : [
+      "audio",
+      "volume",
+      "medium"
+    ]
+  },
+  "spades" : {
+    "category" : "Activities",
+    "character" : "♠️",
+    "keywords" : [
+      "cards",
+      "suit",
+      "black"
+    ]
+  },
+  "spaghetti" : {
+    "category" : "Food & Drink",
+    "character" : "🍝",
+    "keywords" : [
+      "pasta",
+      "italian",
+      "noodles"
+    ]
+  },
+  "sparkle" : {
+    "category" : "Symbols",
+    "character" : "❇️",
+    "keywords" : [
+      "star",
+      "green",
+      "symbol"
+    ]
+  },
+  "sparkler" : {
+    "category" : "Activities",
+    "character" : "🎇",
+    "keywords" : [
+      "celebration",
+      "handheld",
+      "sparkle"
+    ]
+  },
+  "sparkles" : {
+    "category" : "Activities",
+    "character" : "✨",
+    "keywords" : [
+      "magic",
+      "shine",
+      "glitter"
+    ]
+  },
+  "sparkling-heart" : {
+    "category" : "Symbols",
+    "character" : "💖",
+    "keywords" : [
+      "love",
+      "sparkle",
+      "special"
+    ]
+  },
+  "speaker" : {
+    "category" : "Objects",
+    "character" : "🔈",
+    "keywords" : [
+      "sound",
+      "audio",
+      "volume"
+    ]
+  },
+  "speedboat" : {
+    "category" : "Travel & Places",
+    "character" : "🚤",
+    "keywords" : [
+      "boat",
+      "fast",
+      "water"
+    ]
+  },
+  "spiral-calendar" : {
+    "category" : "Objects",
+    "character" : "🗓️",
+    "keywords" : [
+      "date",
+      "schedule",
+      "spiral"
+    ]
+  },
+  "spiral-notepad" : {
+    "category" : "Objects",
+    "character" : "🗒️",
+    "keywords" : [
+      "notes",
+      "paper",
+      "write"
+    ]
+  },
+  "sponge" : {
+    "category" : "Objects",
+    "character" : "🧽",
+    "keywords" : [
+      "clean",
+      "absorb",
+      "kitchen"
+    ]
+  },
+  "squid" : {
+    "category" : "Food & Drink",
+    "character" : "🦑",
+    "keywords" : [
+      "seafood",
+      "tentacles",
+      "ink"
+    ]
+  },
+  "stadium" : {
+    "category" : "Travel & Places",
+    "character" : "🏟️",
+    "keywords" : [
+      "sports",
+      "arena",
+      "crowd"
+    ]
+  },
+  "star-and-crescent" : {
+    "category" : "Symbols",
+    "character" : "☪️",
+    "keywords" : [
+      "religion",
+      "islam",
+      "faith"
+    ]
+  },
+  "star-of-david" : {
+    "category" : "Symbols",
+    "character" : "✡️",
+    "keywords" : [
+      "religion",
+      "judaism",
+      "faith"
+    ]
+  },
+  "star-struck" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤩",
+    "keywords" : [
+      "amazing",
+      "wonderful",
+      "excited"
+    ]
+  },
+  "station" : {
+    "category" : "Travel & Places",
+    "character" : "🚉",
+    "keywords" : [
+      "train",
+      "platform",
+      "transport"
+    ]
+  },
+  "statue-of-liberty" : {
+    "category" : "Travel & Places",
+    "character" : "🗽",
+    "keywords" : [
+      "america",
+      "freedom",
+      "landmark"
+    ]
+  },
+  "stethoscope" : {
+    "category" : "Objects",
+    "character" : "🩺",
+    "keywords" : [
+      "medical",
+      "doctor",
+      "heart"
+    ]
+  },
+  "stew" : {
+    "category" : "Food & Drink",
+    "character" : "🍲",
+    "keywords" : [
+      "soup",
+      "hot",
+      "bowl"
+    ]
+  },
+  "stop-button" : {
+    "category" : "Symbols",
+    "character" : "⏹️",
+    "keywords" : [
+      "stop",
+      "square",
+      "end"
+    ]
+  },
+  "straight-ruler" : {
+    "category" : "Objects",
+    "character" : "📏",
+    "keywords" : [
+      "measure",
+      "length",
+      "school"
+    ]
+  },
+  "strawberry" : {
+    "category" : "Food & Drink",
+    "character" : "🍓",
+    "keywords" : [
+      "fruit",
+      "red",
+      "berry"
+    ]
+  },
+  "stuck-out-tongue" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😛",
+    "keywords" : [
+      "silly",
+      "playful",
+      "tease"
+    ]
+  },
+  "stuck-out-tongue-closed-eyes" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😝",
+    "keywords" : [
+      "silly",
+      "happy",
+      "playful"
+    ]
+  },
+  "stuck-out-tongue-wink" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😜",
+    "keywords" : [
+      "silly",
+      "joke",
+      "playful"
+    ]
+  },
+  "studio-microphone" : {
+    "category" : "Objects",
+    "character" : "🎙️",
+    "keywords" : [
+      "recording",
+      "podcast",
+      "broadcast"
+    ]
+  },
+  "stuffed-flatbread" : {
+    "category" : "Food & Drink",
+    "character" : "🥙",
+    "keywords" : [
+      "middle-eastern",
+      "pita",
+      "filling"
+    ]
+  },
+  "sunglasses" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😎",
+    "keywords" : [
+      "cool",
+      "awesome",
+      "stylish"
+    ]
+  },
+  "sunrise" : {
+    "category" : "Travel & Places",
+    "character" : "🌅",
+    "keywords" : [
+      "morning",
+      "dawn",
+      "horizon"
+    ]
+  },
+  "sunrise-over-mountains" : {
+    "category" : "Travel & Places",
+    "character" : "🌄",
+    "keywords" : [
+      "morning",
+      "dawn",
+      "nature"
+    ]
+  },
+  "sushi" : {
+    "category" : "Food & Drink",
+    "character" : "🍣",
+    "keywords" : [
+      "japanese",
+      "fish",
+      "rice"
+    ]
+  },
+  "suspension-railway" : {
+    "category" : "Travel & Places",
+    "character" : "🚟",
+    "keywords" : [
+      "transport",
+      "hanging",
+      "monorail"
+    ]
+  },
+  "swan" : {
+    "category" : "Animals & Nature",
+    "character" : "🦢",
+    "keywords" : [
+      "bird",
+      "elegant",
+      "white"
+    ]
+  },
+  "sweat" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😓",
+    "keywords" : [
+      "nervous",
+      "working-hard",
+      "effort"
+    ]
+  },
+  "sweet-potato" : {
+    "category" : "Food & Drink",
+    "character" : "🍠",
+    "keywords" : [
+      "vegetable",
+      "orange",
+      "baked"
+    ]
+  },
+  "symbols" : {
+    "category" : "Symbols",
+    "character" : "🔣",
+    "keywords" : [
+      "input",
+      "special",
+      "characters"
+    ]
+  },
+  "synagogue" : {
+    "category" : "Travel & Places",
+    "character" : "🕍",
+    "keywords" : [
+      "religion",
+      "jewish",
+      "worship"
+    ]
+  },
+  "syringe" : {
+    "category" : "Objects",
+    "character" : "💉",
+    "keywords" : [
+      "medical",
+      "injection",
+      "vaccine"
+    ]
+  },
+  "t-rex" : {
+    "category" : "Animals & Nature",
+    "character" : "🦖",
+    "keywords" : [
+      "dinosaur",
+      "big",
+      "extinct"
+    ]
+  },
+  "taco" : {
+    "category" : "Food & Drink",
+    "character" : "🌮",
+    "keywords" : [
+      "mexican",
+      "shell",
+      "filling"
+    ]
+  },
+  "tada" : {
+    "category" : "Activities",
+    "character" : "🎉",
+    "keywords" : [
+      "party",
+      "celebration",
+      "confetti"
+    ]
+  },
+  "takeout-box" : {
+    "category" : "Food & Drink",
+    "character" : "🥡",
+    "keywords" : [
+      "chinese",
+      "container",
+      "noodles"
+    ]
+  },
+  "tamale" : {
+    "category" : "Food & Drink",
+    "character" : "🫔",
+    "keywords" : [
+      "mexican",
+      "corn",
+      "wrapped"
+    ]
+  },
+  "tanabata-tree" : {
+    "category" : "Activities",
+    "character" : "🎋",
+    "keywords" : [
+      "japanese",
+      "wishes",
+      "bamboo"
+    ]
+  },
+  "taurus" : {
+    "category" : "Symbols",
+    "character" : "♉",
+    "keywords" : [
+      "zodiac",
+      "bull",
+      "astrology"
+    ]
+  },
+  "taxi" : {
+    "category" : "Travel & Places",
+    "character" : "🚕",
+    "keywords" : [
+      "cab",
+      "transport",
+      "yellow"
+    ]
+  },
+  "tea" : {
+    "category" : "Food & Drink",
+    "character" : "🍵",
+    "keywords" : [
+      "drink",
+      "green",
+      "hot"
+    ]
+  },
+  "teapot" : {
+    "category" : "Food & Drink",
+    "character" : "🫖",
+    "keywords" : [
+      "tea",
+      "hot",
+      "pour"
+    ]
+  },
+  "teddy-bear" : {
+    "category" : "Activities",
+    "character" : "🧸",
+    "keywords" : [
+      "toy",
+      "stuffed",
+      "cute"
+    ]
+  },
+  "telephone-receiver" : {
+    "category" : "Objects",
+    "character" : "📞",
+    "keywords" : [
+      "phone",
+      "call",
+      "handset"
+    ]
+  },
+  "telescope" : {
+    "category" : "Objects",
+    "character" : "🔭",
+    "keywords" : [
+      "astronomy",
+      "stars",
+      "space"
+    ]
+  },
+  "tennis" : {
+    "category" : "Activities",
+    "character" : "🎾",
+    "keywords" : [
+      "sport",
+      "racket",
+      "ball"
+    ]
+  },
+  "tent" : {
+    "category" : "Travel & Places",
+    "character" : "⛺",
+    "keywords" : [
+      "camping",
+      "outdoors",
+      "shelter"
+    ]
+  },
+  "test-tube" : {
+    "category" : "Objects",
+    "character" : "🧪",
+    "keywords" : [
+      "science",
+      "chemistry",
+      "experiment"
+    ]
+  },
+  "thermometer" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤒",
+    "keywords" : [
+      "sick",
+      "fever",
+      "ill"
+    ]
+  },
+  "thinking" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤔",
+    "keywords" : [
+      "ponder",
+      "consider",
+      "hmm"
+    ]
+  },
+  "thong-sandal" : {
+    "category" : "Objects",
+    "character" : "🩴",
+    "keywords" : [
+      "flip-flop",
+      "beach",
+      "casual"
+    ]
+  },
+  "thread" : {
+    "category" : "Activities",
+    "character" : "🧵",
+    "keywords" : [
+      "sewing",
+      "needle",
+      "craft"
+    ]
+  },
+  "three" : {
+    "category" : "Symbols",
+    "character" : "3️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "third"
+    ]
+  },
+  "thumbs-down" : {
+    "category" : "People & Body",
+    "character" : "👎",
+    "keywords" : [
+      "bad",
+      "disapprove",
+      "dislike"
+    ]
+  },
+  "thumbs-up" : {
+    "category" : "People & Body",
+    "character" : "👍",
+    "keywords" : [
+      "good",
+      "approve",
+      "like"
+    ]
+  },
+  "ticket" : {
+    "category" : "Activities",
+    "character" : "🎫",
+    "keywords" : [
+      "event",
+      "entry",
+      "admit"
+    ]
+  },
+  "tiger" : {
+    "category" : "Animals & Nature",
+    "character" : "🐯",
+    "keywords" : [
+      "animal",
+      "stripes",
+      "fierce"
+    ]
+  },
+  "tiger2" : {
+    "category" : "Animals & Nature",
+    "character" : "🐅",
+    "keywords" : [
+      "animal",
+      "big-cat",
+      "stripes"
+    ]
+  },
+  "tired" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😫",
+    "keywords" : [
+      "exhausted",
+      "fed-up",
+      "frustrated"
+    ]
+  },
+  "tm" : {
+    "category" : "Symbols",
+    "character" : "™️",
+    "keywords" : [
+      "trademark",
+      "legal",
+      "brand"
+    ]
+  },
+  "toilet" : {
+    "category" : "Objects",
+    "character" : "🚽",
+    "keywords" : [
+      "bathroom",
+      "restroom",
+      "WC"
+    ]
+  },
+  "tokyo-tower" : {
+    "category" : "Travel & Places",
+    "character" : "🗼",
+    "keywords" : [
+      "japan",
+      "landmark",
+      "red"
+    ]
+  },
+  "tomato" : {
+    "category" : "Food & Drink",
+    "character" : "🍅",
+    "keywords" : [
+      "vegetable",
+      "red",
+      "sauce"
+    ]
+  },
+  "tongue" : {
+    "category" : "People & Body",
+    "character" : "👅",
+    "keywords" : [
+      "taste",
+      "lick",
+      "mouth"
+    ]
+  },
+  "toolbox" : {
+    "category" : "Objects",
+    "character" : "🧰",
+    "keywords" : [
+      "tools",
+      "repair",
+      "box"
+    ]
+  },
+  "tooth" : {
+    "category" : "People & Body",
+    "character" : "🦷",
+    "keywords" : [
+      "dental",
+      "health",
+      "smile"
+    ]
+  },
+  "toothbrush" : {
+    "category" : "Objects",
+    "character" : "🪥",
+    "keywords" : [
+      "dental",
+      "hygiene",
+      "clean"
+    ]
+  },
+  "top-hat" : {
+    "category" : "Objects",
+    "character" : "🎩",
+    "keywords" : [
+      "formal",
+      "magic",
+      "gentleman"
+    ]
+  },
+  "trackball" : {
+    "category" : "Objects",
+    "character" : "🖲️",
+    "keywords" : [
+      "mouse",
+      "ball",
+      "pointing"
+    ]
+  },
+  "tractor" : {
+    "category" : "Travel & Places",
+    "character" : "🚜",
+    "keywords" : [
+      "farm",
+      "agriculture",
+      "heavy"
+    ]
+  },
+  "traffic-light" : {
+    "category" : "Travel & Places",
+    "character" : "🚥",
+    "keywords" : [
+      "intersection",
+      "stop",
+      "go"
+    ]
+  },
+  "train" : {
+    "category" : "Travel & Places",
+    "character" : "🚆",
+    "keywords" : [
+      "transport",
+      "railway",
+      "commute"
+    ]
+  },
+  "train2" : {
+    "category" : "Travel & Places",
+    "character" : "🚋",
+    "keywords" : [
+      "trolley",
+      "electric",
+      "city"
+    ]
+  },
+  "tram" : {
+    "category" : "Travel & Places",
+    "character" : "🚊",
+    "keywords" : [
+      "streetcar",
+      "city",
+      "track"
+    ]
+  },
+  "transgender-symbol" : {
+    "category" : "Symbols",
+    "character" : "⚧️",
+    "keywords" : [
+      "trans",
+      "gender",
+      "identity"
+    ]
+  },
+  "triangular-ruler" : {
+    "category" : "Objects",
+    "character" : "📐",
+    "keywords" : [
+      "measure",
+      "angle",
+      "geometry"
+    ]
+  },
+  "trident" : {
+    "category" : "Symbols",
+    "character" : "🔱",
+    "keywords" : [
+      "weapon",
+      "poseidon",
+      "symbol"
+    ]
+  },
+  "triumph" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😤",
+    "keywords" : [
+      "proud",
+      "steaming",
+      "huffing"
+    ]
+  },
+  "trolleybus" : {
+    "category" : "Travel & Places",
+    "character" : "🚎",
+    "keywords" : [
+      "electric",
+      "bus",
+      "overhead"
+    ]
+  },
+  "trophy" : {
+    "category" : "Activities",
+    "character" : "🏆",
+    "keywords" : [
+      "winner",
+      "award",
+      "gold"
+    ]
+  },
+  "tropical-drink" : {
+    "category" : "Food & Drink",
+    "character" : "🍹",
+    "keywords" : [
+      "cocktail",
+      "vacation",
+      "umbrella"
+    ]
+  },
+  "truck" : {
+    "category" : "Travel & Places",
+    "character" : "🚚",
+    "keywords" : [
+      "delivery",
+      "cargo",
+      "large"
+    ]
+  },
+  "trumpet" : {
+    "category" : "Objects",
+    "character" : "🎺",
+    "keywords" : [
+      "music",
+      "brass",
+      "fanfare"
+    ]
+  },
+  "tumbler-glass" : {
+    "category" : "Food & Drink",
+    "character" : "🥃",
+    "keywords" : [
+      "whiskey",
+      "alcohol",
+      "rocks"
+    ]
+  },
+  "turkey" : {
+    "category" : "Animals & Nature",
+    "character" : "🦃",
+    "keywords" : [
+      "bird",
+      "thanksgiving",
+      "gobble"
+    ]
+  },
+  "turtle" : {
+    "category" : "Animals & Nature",
+    "character" : "🐢",
+    "keywords" : [
+      "animal",
+      "slow",
+      "shell"
+    ]
+  },
+  "tv" : {
+    "category" : "Objects",
+    "character" : "📺",
+    "keywords" : [
+      "television",
+      "entertainment",
+      "screen"
+    ]
+  },
+  "twisted-rightwards-arrows" : {
+    "category" : "Symbols",
+    "character" : "🔀",
+    "keywords" : [
+      "shuffle",
+      "random",
+      "mixed"
+    ]
+  },
+  "two" : {
+    "category" : "Symbols",
+    "character" : "2️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "second"
+    ]
+  },
+  "two-hearts" : {
+    "category" : "Symbols",
+    "character" : "💕",
+    "keywords" : [
+      "love",
+      "couple",
+      "romance"
+    ]
+  },
+  "unamused" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😒",
+    "keywords" : [
+      "unimpressed",
+      "bored",
+      "meh"
+    ]
+  },
+  "unicorn" : {
+    "category" : "Animals & Nature",
+    "character" : "🦄",
+    "keywords" : [
+      "fantasy",
+      "magical",
+      "horn"
+    ]
+  },
+  "unlock" : {
+    "category" : "Objects",
+    "character" : "🔓",
+    "keywords" : [
+      "open",
+      "accessible",
+      "unlocked"
+    ]
+  },
+  "upside-down" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🙃",
+    "keywords" : [
+      "silly",
+      "playful",
+      "ironic"
+    ]
+  },
+  "vertical-traffic-light" : {
+    "category" : "Travel & Places",
+    "character" : "🚦",
+    "keywords" : [
+      "traffic",
+      "control",
+      "vertical"
+    ]
+  },
+  "vhs" : {
+    "category" : "Objects",
+    "character" : "📼",
+    "keywords" : [
+      "video",
+      "tape",
+      "old"
+    ]
+  },
+  "vibration-mode" : {
+    "category" : "Symbols",
+    "character" : "📳",
+    "keywords" : [
+      "phone",
+      "silent",
+      "buzz"
+    ]
+  },
+  "victory-hand" : {
+    "category" : "People & Body",
+    "character" : "✌️",
+    "keywords" : [
+      "peace",
+      "victory",
+      "two"
+    ]
+  },
+  "video-camera" : {
+    "category" : "Objects",
+    "character" : "📹",
+    "keywords" : [
+      "recording",
+      "movie",
+      "capture"
+    ]
+  },
+  "video-game" : {
+    "category" : "Activities",
+    "character" : "🎮",
+    "keywords" : [
+      "gaming",
+      "controller",
+      "play"
+    ]
+  },
+  "violin" : {
+    "category" : "Objects",
+    "character" : "🎻",
+    "keywords" : [
+      "music",
+      "classical",
+      "string"
+    ]
+  },
+  "virgo" : {
+    "category" : "Symbols",
+    "character" : "♍",
+    "keywords" : [
+      "zodiac",
+      "maiden",
+      "astrology"
+    ]
+  },
+  "volcano" : {
+    "category" : "Travel & Places",
+    "character" : "🌋",
+    "keywords" : [
+      "eruption",
+      "lava",
+      "hot"
+    ]
+  },
+  "volleyball" : {
+    "category" : "Activities",
+    "character" : "🏐",
+    "keywords" : [
+      "sport",
+      "net",
+      "beach"
+    ]
+  },
+  "vomit" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤮",
+    "keywords" : [
+      "sick",
+      "puke",
+      "disgusted"
+    ]
+  },
+  "vulcan-salute" : {
+    "category" : "People & Body",
+    "character" : "🖖",
+    "keywords" : [
+      "spock",
+      "star-trek",
+      "live-long"
+    ]
+  },
+  "waffle" : {
+    "category" : "Food & Drink",
+    "character" : "🧇",
+    "keywords" : [
+      "breakfast",
+      "squares",
+      "syrup"
+    ]
+  },
+  "wastebasket" : {
+    "category" : "Objects",
+    "character" : "🗑️",
+    "keywords" : [
+      "trash",
+      "garbage",
+      "delete"
+    ]
+  },
+  "water-buffalo" : {
+    "category" : "Animals & Nature",
+    "character" : "🐃",
+    "keywords" : [
+      "animal",
+      "strong",
+      "asia"
+    ]
+  },
+  "watermelon" : {
+    "category" : "Food & Drink",
+    "character" : "🍉",
+    "keywords" : [
+      "fruit",
+      "red",
+      "summer"
+    ]
+  },
+  "wave" : {
+    "category" : "People & Body",
+    "character" : "👋",
+    "keywords" : [
+      "hello",
+      "goodbye",
+      "greeting"
+    ]
+  },
+  "wavy-dash" : {
+    "category" : "Symbols",
+    "character" : "〰️",
+    "keywords" : [
+      "wave",
+      "dash",
+      "tilde"
+    ]
+  },
+  "weary" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😩",
+    "keywords" : [
+      "tired",
+      "exhausted",
+      "fed-up"
+    ]
+  },
+  "wedding" : {
+    "category" : "Travel & Places",
+    "character" : "💒",
+    "keywords" : [
+      "marriage",
+      "church",
+      "ceremony"
+    ]
+  },
+  "wheel-of-dharma" : {
+    "category" : "Symbols",
+    "character" : "☸️",
+    "keywords" : [
+      "religion",
+      "buddhism",
+      "dharma"
+    ]
+  },
+  "white-check-mark" : {
+    "category" : "Symbols",
+    "character" : "✅",
+    "keywords" : [
+      "done",
+      "good",
+      "correct"
+    ]
+  },
+  "white-heart" : {
+    "category" : "Symbols",
+    "character" : "🤍",
+    "keywords" : [
+      "love",
+      "pure",
+      "peace"
+    ]
+  },
+  "wind-chime" : {
+    "category" : "Activities",
+    "character" : "🎐",
+    "keywords" : [
+      "japanese",
+      "summer",
+      "sound"
+    ]
+  },
+  "window" : {
+    "category" : "Objects",
+    "character" : "🪟",
+    "keywords" : [
+      "view",
+      "glass",
+      "opening"
+    ]
+  },
+  "wine-glass" : {
+    "category" : "Food & Drink",
+    "character" : "🍷",
+    "keywords" : [
+      "alcohol",
+      "red",
+      "grape"
+    ]
+  },
+  "wink" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😉",
+    "keywords" : [
+      "flirt",
+      "suggest",
+      "hint"
+    ]
+  },
+  "wolf" : {
+    "category" : "Animals & Nature",
+    "character" : "🐺",
+    "keywords" : [
+      "animal",
+      "wild",
+      "howl"
+    ]
+  },
+  "womans-clothes" : {
+    "category" : "Objects",
+    "character" : "👚",
+    "keywords" : [
+      "blouse",
+      "feminine",
+      "top"
+    ]
+  },
+  "womans-hat" : {
+    "category" : "Objects",
+    "character" : "👒",
+    "keywords" : [
+      "sun",
+      "fashion",
+      "brim"
+    ]
+  },
+  "wood" : {
+    "category" : "Travel & Places",
+    "character" : "🪵",
+    "keywords" : [
+      "log",
+      "tree",
+      "material"
+    ]
+  },
+  "woozy" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🥴",
+    "keywords" : [
+      "dizzy",
+      "drunk",
+      "confused"
+    ]
+  },
+  "world-map" : {
+    "category" : "Travel & Places",
+    "character" : "🗺️",
+    "keywords" : [
+      "geography",
+      "atlas",
+      "countries"
+    ]
+  },
+  "worried" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😟",
+    "keywords" : [
+      "anxious",
+      "concerned",
+      "troubled"
+    ]
+  },
+  "wrench" : {
+    "category" : "Objects",
+    "character" : "🔧",
+    "keywords" : [
+      "tool",
+      "fix",
+      "mechanical"
+    ]
+  },
+  "writing-hand" : {
+    "category" : "People & Body",
+    "character" : "✍️",
+    "keywords" : [
+      "write",
+      "author",
+      "signature"
+    ]
+  },
+  "x" : {
+    "category" : "Symbols",
+    "character" : "❌",
+    "keywords" : [
+      "wrong",
+      "no",
+      "delete"
+    ]
+  },
+  "x-ray" : {
+    "category" : "Objects",
+    "character" : "🩻",
+    "keywords" : [
+      "medical",
+      "bones",
+      "diagnostic"
+    ]
+  },
+  "yarn" : {
+    "category" : "Activities",
+    "character" : "🧶",
+    "keywords" : [
+      "knitting",
+      "wool",
+      "craft"
+    ]
+  },
+  "yawn" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🥱",
+    "keywords" : [
+      "tired",
+      "bored",
+      "sleepy"
+    ]
+  },
+  "yellow-heart" : {
+    "category" : "Symbols",
+    "character" : "💛",
+    "keywords" : [
+      "love",
+      "friendship",
+      "happy"
+    ]
+  },
+  "yen" : {
+    "category" : "Objects",
+    "character" : "💴",
+    "keywords" : [
+      "money",
+      "japan",
+      "currency"
+    ]
+  },
+  "yin-yang" : {
+    "category" : "Symbols",
+    "character" : "☯️",
+    "keywords" : [
+      "balance",
+      "tao",
+      "harmony"
+    ]
+  },
+  "yo-yo" : {
+    "category" : "Activities",
+    "character" : "🪀",
+    "keywords" : [
+      "toy",
+      "string",
+      "up-down"
+    ]
+  },
+  "yum" : {
+    "category" : "Smileys & Emotion",
+    "character" : "😋",
+    "keywords" : [
+      "delicious",
+      "tasty",
+      "hungry"
+    ]
+  },
+  "zany" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤪",
+    "keywords" : [
+      "crazy",
+      "wild",
+      "silly"
+    ]
+  },
+  "zebra" : {
+    "category" : "Animals & Nature",
+    "character" : "🦓",
+    "keywords" : [
+      "animal",
+      "stripes",
+      "africa"
+    ]
+  },
+  "zero" : {
+    "category" : "Symbols",
+    "character" : "0️⃣",
+    "keywords" : [
+      "number",
+      "digit",
+      "nothing"
+    ]
+  },
+  "zipper-mouth" : {
+    "category" : "Smileys & Emotion",
+    "character" : "🤐",
+    "keywords" : [
+      "secret",
+      "silence",
+      "sealed"
+    ]
+  }
+}

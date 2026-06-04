@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    line-height: 1.6;
+}
+code {
+    font-family: ui-monospace, SFMono-Regular, monospace;
+    background: #f3f4f6;
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+}
+pre code {
+    display: block;
+    padding: 1rem;
+    overflow-x: auto;
+}
+blockquote {
+    border-left: 4px solid #d1d5db;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    color: #4b5563;
+}
+</style>
+</head>
+<body>
+<blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Run: <code>rhoemd Examples/sources/data-report.md -o Examples/outputs/data-report.html --format html --css --pretty</code></p>
+</blockquote>
+<section id="ops-throughput" data-rhoe-node="Section"><h1>Ops Report: Compiler Throughput</h1><section id="executive-signal" data-rhoe-node="Section"><h2>Executive Signal</h2><p data-rhoe-node="paragraph">The compiler lane is healthy. Median render time stayed below the target budget
+while the example gallery expanded from six to ten documents.</p><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Metric</th>
+<th scope="col" style="text-align: right;">Current</th>
+<th scope="col" style="text-align: right;">Target</th>
+<th scope="col">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Median HTML render</td>
+<td style="text-align: right;">42 ms</td>
+<td style="text-align: right;">100 ms</td>
+<td>green</td>
+</tr>
+<tr>
+<td>Largest source file</td>
+<td style="text-align: right;">6.4 KB</td>
+<td style="text-align: right;">20 KB</td>
+<td>green</td>
+</tr>
+<tr>
+<td>Gallery examples</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">10</td>
+<td>green</td>
+</tr>
+<tr>
+<td>Cross-target scripts</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2</td>
+<td>green</td>
+</tr>
+</tbody>
+</table><p data-rhoe-node="paragraph">The normalized budget ratio is <span class="math math-inline">\(r = observed / target\)</span>. Values below <code>1.0</code>
+remain inside the release envelope.</p><div class="admonition admonition-success" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">✅</span>
+Operational takeaway</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">The gallery is large enough to teach the surface, but still small enough to run
+as part of release-readiness validation.
+</p></div>
+</div></section><section id="trend-notes" data-rhoe-node="Section"><h2>Trend Notes</h2><ul data-rhoe-node="list">
+<li>HTML examples emphasize visual inspection.</li>
+<li>Typst output proves the publication route.</li>
+<li>The language showcase keeps the syntax surface discoverable.</li>
+</ul></section><section id="follow-up" data-rhoe-node="Section"><h2>Follow-Up</h2><p data-rhoe-node="paragraph">Add a future benchmark gallery only after the public examples stabilize. The
+current folder should stay friendly for first-time users, not become a lab.</p></section></section>
+</body>
+</html>

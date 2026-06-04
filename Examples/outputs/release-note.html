@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    line-height: 1.6;
+}
+code {
+    font-family: ui-monospace, SFMono-Regular, monospace;
+    background: #f3f4f6;
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+}
+pre code {
+    display: block;
+    padding: 1rem;
+    overflow-x: auto;
+}
+blockquote {
+    border-left: 4px solid #d1d5db;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    color: #4b5563;
+}
+</style>
+</head>
+<body>
+<blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Run: <code>rhoemd Examples/sources/release-note.md -o Examples/outputs/release-note.html --format html --css --pretty</code></p>
+</blockquote>
+<section id="release-note" data-rhoe-node="Section"><h1>RhoeMarkdown 0.1.0 Release Candidate</h1><p data-rhoe-node="paragraph">RhoeMarkdown is now staged as a public Apache 2.0 compiler package.</p><div class="admonition admonition-success" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">✅</span>
+Release posture</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">The public repo is designed to feel useful on day one: CLI, examples,
+documentation, language reference, cross-build scripts, and release templates
+travel together.
+</p></div>
+</div><section id="highlights" data-rhoe-node="Section"><h2>Highlights</h2><ul data-rhoe-node="list">
+<li>Compiler-focused Swift package surface.</li>
+<li><code>rhoemd</code> CLI for local document generation.</li>
+<li>DocC documentation and example gallery.</li>
+<li>Linux and WebAssembly build routes.</li>
+<li>Homebrew packaging template for the release bridge.</li>
+</ul></section><section id="compatibility-matrix" data-rhoe-node="Section"><h2>Compatibility Matrix</h2><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Surface</th>
+<th scope="col">Status</th>
+<th scope="col">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>macOS CLI</td>
+<td>ready</td>
+<td>primary development target</td>
+</tr>
+<tr>
+<td>Static Linux CLI</td>
+<td>ready</td>
+<td>validated with Swiftly toolchain selection</td>
+</tr>
+<tr>
+<td>WebAssembly target</td>
+<td>ready</td>
+<td>uses WASI emulation flags</td>
+</tr>
+<tr>
+<td>PDF rendering</td>
+<td>platform-dependent</td>
+<td>Typst/LaTeX tools required</td>
+</tr>
+</tbody>
+</table></section><section id="try-it" data-rhoe-node="Section"><h2>Try It</h2><pre><code class="language-bash" data-rhoe-node="code">swift build -c release --product rhoemd
+rhoemd Examples/sources/release-note.md -o Examples/outputs/release-note.html --format html --css --pretty
+</code></pre></section><section id="upgrade-signal" data-rhoe-node="Section"><h2>Upgrade Signal</h2><p data-rhoe-node="paragraph">The release is still <code>0.1.0</code>, but the repo structure already behaves like a
+maintainer-facing project: deterministic examples, drift checks, and clear
+public docs.</p></section></section>
+</body>
+</html>

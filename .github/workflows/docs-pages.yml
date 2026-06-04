@@ -1,0 +1,23 @@
+name: DocC Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  pages:
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build DocC site
+        run: bash Scripts/CI/build-docc-pages.sh
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .build/docc-pages
+      - uses: actions/deploy-pages@v4

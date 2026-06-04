@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    line-height: 1.6;
+}
+code {
+    font-family: ui-monospace, SFMono-Regular, monospace;
+    background: #f3f4f6;
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+}
+pre code {
+    display: block;
+    padding: 1rem;
+    overflow-x: auto;
+}
+blockquote {
+    border-left: 4px solid #d1d5db;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    color: #4b5563;
+}
+</style>
+</head>
+<body>
+<blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Run: <code>rhoemd Examples/sources/architecture-rfc.md -o Examples/outputs/architecture-rfc.html --format html --css --pretty</code></p>
+</blockquote>
+<section id="rfc-local-preview" data-rhoe-node="Section"><h1>RFC-001: Local Preview Service</h1><section id="summary" data-rhoe-node="Section"><h2>Summary</h2><p data-rhoe-node="paragraph">This RFC proposes a local preview service that watches a Markdown workspace,
+compiles changed documents, and streams updates to a browser preview.</p><div class="admonition admonition-warning" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">⚠️</span>
+Design constraint</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">The preview server must never require authors to abandon plain Markdown. The
+source remains the portable contract.
+</p></div>
+</div></section><section id="architecture" data-rhoe-node="Section"><h2>Architecture</h2><pre class="mermaid">flowchart TD
+  A[Author edits .md] --&gt; B[File watcher]
+  B --&gt; C[rhoemd compiler]
+  C --&gt; D[HTML renderer]
+  D --&gt; E[Preview browser]
+  C --&gt; F[Diagnostics panel]
+</pre></section><section id="interface-contract" data-rhoe-node="Section"><h2>Interface Contract</h2><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Endpoint</th>
+<th scope="col">Method</th>
+<th scope="col">Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>/health</code></td>
+<td>GET</td>
+<td>readiness check</td>
+</tr>
+<tr>
+<td><code>/render</code></td>
+<td>POST</td>
+<td>compile one document</td>
+</tr>
+<tr>
+<td><code>/events</code></td>
+<td>GET</td>
+<td>stream file-change events</td>
+</tr>
+</tbody>
+</table></section><section id="decision" data-rhoe-node="Section"><h2>Decision</h2><p data-rhoe-node="paragraph">Use a small local service rather than a global daemon. It has fewer privileges,
+clearer lifecycle ownership, and simpler debugging.</p><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Risk register</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">The largest risk is confusing preview failures with compiler failures. The
+service should expose diagnostics separately from transport status.
+</p></div>
+</div></section><section id="acceptance-criteria" data-rhoe-node="Section"><h2>Acceptance Criteria</h2><ul data-rhoe-node="list">
+<li>The service compiles a single file without a project.</li>
+<li>The service emits structured diagnostics.</li>
+<li>The service exits cleanly when the parent process terminates.</li>
+</ul></section></section>
+</body>
+</html>

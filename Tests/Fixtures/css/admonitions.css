@@ -1,0 +1,162 @@
+/* SSR-Standard Admonitions CSS */
+/* Based on Material Design and Python-Markdown admonitions */
+
+.admonition {
+  margin: 1.5em 0;
+  padding: 0;
+  border-left: 4px solid #448aff;
+  border-radius: 4px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+  overflow: hidden;
+}
+
+.admonition-title {
+  margin: 0;
+  padding: 0.75em 1em;
+  font-weight: 700;
+  background-color: rgba(68, 138, 255, 0.1);
+}
+
+.admonition > *:not(.admonition-title) {
+  margin: 0.75em 1em;
+}
+
+.admonition > *:last-child {
+  margin-bottom: 0.75em;
+}
+
+/* Collapsible admonitions */
+details.admonition {
+  position: relative;
+}
+
+details.admonition summary {
+  cursor: pointer;
+  outline: none;
+  list-style: none;
+}
+
+details.admonition summary::-webkit-details-marker {
+  display: none;
+}
+
+details.admonition summary::before {
+  content: "▶";
+  position: absolute;
+  left: 1em;
+  transform: rotate(0deg);
+  transition: transform 0.25s;
+}
+
+details.admonition[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details.admonition summary.admonition-title {
+  padding-left: 2.5em;
+}
+
+/* Type-specific colors */
+.admonition.note {
+  border-left-color: #448aff;
+}
+
+.admonition.note .admonition-title {
+  background-color: rgba(68, 138, 255, 0.1);
+}
+
+.admonition.info {
+  border-left-color: #00b8d4;
+}
+
+.admonition.info .admonition-title {
+  background-color: rgba(0, 184, 212, 0.1);
+}
+
+.admonition.tip {
+  border-left-color: #00bfa5;
+}
+
+.admonition.tip .admonition-title {
+  background-color: rgba(0, 191, 165, 0.1);
+}
+
+.admonition.success {
+  border-left-color: #4caf50;
+}
+
+.admonition.success .admonition-title {
+  background-color: rgba(76, 175, 80, 0.1);
+}
+
+.admonition.warning {
+  border-left-color: #ff9800;
+}
+
+.admonition.warning .admonition-title {
+  background-color: rgba(255, 152, 0, 0.1);
+}
+
+.admonition.danger {
+  border-left-color: #f44336;
+}
+
+.admonition.danger .admonition-title {
+  background-color: rgba(244, 67, 54, 0.1);
+}
+
+.admonition.error {
+  border-left-color: #f44336;
+}
+
+.admonition.error .admonition-title {
+  background-color: rgba(244, 67, 54, 0.1);
+}
+
+.admonition.example {
+  border-left-color: #651fff;
+}
+
+.admonition.example .admonition-title {
+  background-color: rgba(101, 31, 255, 0.1);
+}
+
+.admonition.question {
+  border-left-color: #4caf50;
+}
+
+.admonition.question .admonition-title {
+  background-color: rgba(76, 175, 80, 0.1);
+}
+
+.admonition.quote {
+  border-left-color: #9e9e9e;
+}
+
+.admonition.quote .admonition-title {
+  background-color: rgba(158, 158, 158, 0.1);
+}
+
+/* Nested admonitions */
+.admonition .admonition {
+  margin: 0.75em 0;
+  box-shadow: none;
+}
+
+/* Code blocks inside admonitions */
+.admonition pre {
+  background-color: rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .admonition {
+    box-shadow: 0 2px 2px 0 rgba(255,255,255,.14), 0 1px 5px 0 rgba(255,255,255,.12);
+  }
+  
+  .admonition pre {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+}

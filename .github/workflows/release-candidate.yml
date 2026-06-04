@@ -1,0 +1,15 @@
+name: Release Candidate
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  release-candidate:
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify release readiness
+        run: bash Scripts/CI/verify-release-readiness.sh

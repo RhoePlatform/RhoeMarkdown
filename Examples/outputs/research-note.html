@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2rem;
+    line-height: 1.6;
+}
+code {
+    font-family: ui-monospace, SFMono-Regular, monospace;
+    background: #f3f4f6;
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+}
+pre code {
+    display: block;
+    padding: 1rem;
+    overflow-x: auto;
+}
+blockquote {
+    border-left: 4px solid #d1d5db;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    color: #4b5563;
+}
+</style>
+</head>
+<body>
+<blockquote data-rhoe-node="blockquote">
+<p data-rhoe-node="paragraph">Run: <code>rhoemd Examples/sources/research-note.md -o Examples/outputs/research-note.html --format html --css --pretty</code></p>
+</blockquote>
+<section id="meadow-signal" class="field-note" data-rhoe-node="Section"><h1>Meadow Signal</h1><div class="admonition admonition-note" data-rhoe-node="admonition">
+<p class="admonition-title">
+<span class="admonition-icon">ℹ️</span>
+Observation</p>
+<div class="admonition-content">
+<p data-rhoe-node="paragraph">The north ridge showed a repeating pattern: short bursts of activity followed by
+long quiet intervals. The team used RhoeMarkdown so the same note can become
+HTML for review, Typst for publication, or structured JSON for downstream tools.
+</p></div>
+</div><section id="measurement-window" data-rhoe-node="Section"><h2>Measurement Window</h2><table class="rhoe-table" data-rhoe-node="table">
+<thead>
+<tr>
+<th scope="col">Window</th>
+<th scope="col" style="text-align: right;">Signal</th>
+<th scope="col" style="text-align: right;">Confidence</th>
+<th scope="col">Field note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dawn</td>
+<td style="text-align: right;">0.72</td>
+<td style="text-align: right;">94%</td>
+<td>ridge fog, clean baseline</td>
+</tr>
+<tr>
+<td>Noon</td>
+<td style="text-align: right;">0.38</td>
+<td style="text-align: right;">71%</td>
+<td>thermal noise, partial occlusion</td>
+</tr>
+<tr>
+<td>Dusk</td>
+<td style="text-align: right;">0.81</td>
+<td style="text-align: right;">97%</td>
+<td>stable wind, high coherence</td>
+</tr>
+</tbody>
+</table><p data-rhoe-node="paragraph">The working hypothesis is <strong>phase-sensitive recovery</strong>: the system appears to
+gain coherence when the ambient load falls below the ridge threshold.</p><p data-rhoe-node="paragraph">Inline math stays readable in source: <span class="math math-inline">\(S_{normalized} = signal / threshold\)</span>.</p><div id="thm-recovery" class="theorem-env theorem-theorem">
+<p class="theorem-header" style="font-weight: bold">Theorem 2.1. (Recovery Threshold)</p>
+<div class="theorem-body">
+<p data-rhoe-node="paragraph">When ambient load remains below the ridge threshold for three consecutive
+sampling windows, the normalized signal should increase in the next window.
+</p></div>
+</div><p data-rhoe-node="paragraph">The planned verification checks <a href="#thm-recovery" class="crossref">thm-recovery</a> against the dusk measurement.</p></section><section id="next-step" data-rhoe-node="Section"><h2>Next Step</h2><ul data-rhoe-node="list">
+<li>Repeat the run with a 15-minute sampling cadence.</li>
+<li>Compare with the western ridge control group.</li>
+<li>Export the note to HTML for review and Typst for the archive.</li>
+</ul><p data-rhoe-node="paragraph">The raw notebook remains plain text, while the compiler preserves semantic
+structure for future automation.<sup><a href="#fn:field-note" id="fnref:field-note" class="footnote-ref">field-note</a></sup></p><div class="footnote" id="fn:field-note">
+<p><sup>field-note</sup> This is a synthetic example, but the workflow mirrors a real field-note pipeline. <a href="#fnref:field-note" class="footnote-backref">↩</a></p>
+</div></section></section>
+</body>
+</html>

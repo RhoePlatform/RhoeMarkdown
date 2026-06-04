@@ -1,0 +1,28 @@
+class RhoeMarkdown < Formula
+  desc "Semantic Markdown compiler and projection engine for Swift"
+  homepage "https://github.com/RhoePlatform/RhoeMarkdown"
+  version "0.1.0"
+  license "Apache-2.0"
+
+  on_macos do
+    if Hardware::CPU.arm?
+      url "https://github.com/RhoePlatform/homebrew-rhoe/releases/download/rhoe-markdown-0.1.0/rhoe-markdown-0.1.0.arm64_tahoe.bottle.tar.gz"
+      sha256 "__ARM64_TAHOE_SHA256__"
+    end
+  end
+
+  on_linux do
+    if Hardware::CPU.intel?
+      url "https://github.com/RhoePlatform/homebrew-rhoe/releases/download/rhoe-markdown-0.1.0/rhoe-markdown-0.1.0.x86_64_linux.bottle.tar.gz"
+      sha256 "__X86_64_LINUX_SHA256__"
+    end
+  end
+
+  def install
+    bin.install "rhoemd"
+  end
+
+  test do
+    assert_match "RhoeMarkdownKit 0.1.0", shell_output("#{bin}/rhoemd --version")
+  end
+end

@@ -1,0 +1,17 @@
+name: RhoeMarkdown
+owner: RhoePlatform
+visibility: public-after-release-certification
+license: Apache-2.0
+description: Semantic Markdown compiler and projection engine for Swift.
+homepage: https://rhoe.dev
+topics:
+  - markdown
+  - swift
+  - compiler
+  - static-site-generation
+  - document-generation
+  - docc
+  - wasm
+  - cli
+  - apache-2-0
+release: 0.1.0

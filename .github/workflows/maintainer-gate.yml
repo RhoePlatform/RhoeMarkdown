@@ -1,0 +1,26 @@
+name: Maintainer Gate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  gate:
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate public release hygiene
+        run: bash Scripts/CI/validate-public-release.sh
+      - name: Build
+        run: swift build
+      - name: Test
+        run: swift test
+      - name: Validate docs
+        run: bash Scripts/CI/validate-docs.sh
+      - name: Validate language reference
+        run: bash Scripts/CI/validate-language-reference.sh
+      - name: Validate examples
+        run: bash Scripts/CI/validate-examples.sh
+      - name: Validate external conformance
+        run: bash Scripts/CI/validate-external-conformance.sh
