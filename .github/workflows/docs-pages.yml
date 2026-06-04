@@ -17,7 +17,13 @@ jobs:
       - uses: actions/checkout@v4
       - name: Build DocC site
         run: bash Scripts/CI/build-docc-pages.sh
+      - uses: actions/configure-pages@v5
+        if: ${{ !github.event.repository.private }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .build/docc-pages
+      - name: Skip Pages deployment while private
+        if: ${{ github.event.repository.private }}
+        run: echo "DocC Pages artifact validated; deployment is deferred until the repository is public."
       - uses: actions/deploy-pages@v4
+        if: ${{ !github.event.repository.private }}
