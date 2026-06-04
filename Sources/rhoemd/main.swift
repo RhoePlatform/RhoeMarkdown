@@ -36,7 +36,7 @@ if options.version {
 }
 
 guard let inputPath = options.inputPath else {
-    fputs("rhoemd: missing input file\n\(RhoeMD.usage())\n", stderr)
+    writeStandardError("rhoemd: missing input file\n\(RhoeMD.usage())\n")
     exit(1)
 }
 
@@ -54,7 +54,7 @@ do {
             print("Wrote \(outputFormat.fileExtension) → \(outputPath) (\(result.data.count) bytes)")
         }
     } else if outputFormat.isBinary {
-        fputs("rhoemd: \(outputFormat.rawValue) format requires -o <output path>\n", stderr)
+        writeStandardError("rhoemd: \(outputFormat.rawValue) format requires -o <output path>\n")
         exit(1)
     } else {
         if let text = String(data: result.data, encoding: .utf8) {
@@ -63,10 +63,10 @@ do {
     }
 
     if let metrics = result.metrics {
-        fputs(metrics.format() + "\n", stderr)
+        writeStandardError(metrics.format() + "\n")
     }
 } catch {
-    fputs("rhoemd: \(error.localizedDescription)\n", stderr)
+    writeStandardError("rhoemd: \(error.localizedDescription)\n")
     exit(1)
 }
 
@@ -74,7 +74,7 @@ do {
 
 func handleServeCommand(_ args: [String]) async throws {
     guard args.count >= 3 else {
-        fputs("Usage: rhoemd serve <file.md> [--port 3000] [--host 127.0.0.1] [--no-open] [-v]\n", stderr)
+        writeStandardError("Usage: rhoemd serve <file.md> [--port 3000] [--host 127.0.0.1] [--no-open] [-v]\n")
         exit(1)
     }
 
@@ -102,7 +102,7 @@ func handleServeCommand(_ args: [String]) async throws {
 
     let inputURL = URL(fileURLWithPath: file)
     guard FileManager.default.fileExists(atPath: inputURL.path) else {
-        fputs("rhoemd serve: file not found: \(file)\n", stderr)
+        writeStandardError("rhoemd serve: file not found: \(file)\n")
         exit(1)
     }
 
@@ -120,7 +120,7 @@ func handleBuildCommand(_ args: [String]) async throws {
     let cwd = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
 
     guard let configURL = finder.find(from: cwd) else {
-        fputs("rhoemd build: no project configuration found (rhoe.project.yaml)\n", stderr)
+        writeStandardError("rhoemd build: no project configuration found (rhoe.project.yaml)\n")
         exit(1)
     }
 
@@ -161,7 +161,7 @@ func handleBuildCommand(_ args: [String]) async throws {
 
 func handleProjectCommand(_ args: [String]) async throws {
     guard args.count >= 3 else {
-        fputs("Usage: rhoemd project <validate|targets>\n", stderr)
+        writeStandardError("Usage: rhoemd project <validate|targets>\n")
         exit(1)
     }
 
@@ -169,7 +169,7 @@ func handleProjectCommand(_ args: [String]) async throws {
     let cwd = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
 
     guard let configURL = finder.find(from: cwd) else {
-        fputs("rhoemd project: no project configuration found (rhoe.project.yaml)\n", stderr)
+        writeStandardError("rhoemd project: no project configuration found (rhoe.project.yaml)\n")
         exit(1)
     }
 
@@ -181,8 +181,12 @@ func handleProjectCommand(_ args: [String]) async throws {
     case "targets":
         try ProjectCommands.executeTargets(configURL: configURL)
     default:
-        fputs("Unknown project command: \(args[2])\n", stderr)
-        fputs("Usage: rhoemd project <validate|targets>\n", stderr)
+        writeStandardError("Unknown project command: \(args[2])\n")
+        writeStandardError("Usage: rhoemd project <validate|targets>\n")
         exit(1)
     }
+}
+
+private func writeStandardError(_ message: String) {
+    FileHandle.standardError.write(Data(message.utf8))
 }

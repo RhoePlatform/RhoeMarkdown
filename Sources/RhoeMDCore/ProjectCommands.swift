@@ -22,15 +22,15 @@ public enum ProjectCommands {
         let errors = diagnostics.filter { $0.severity == .error }
         if !errors.isEmpty {
             for error in errors {
-                fputs("error: \(error.message)\n", stderr)
+                writeStandardError("error: \(error.message)\n")
             }
-            fputs("Build aborted due to configuration errors.\n", stderr)
+            writeStandardError("Build aborted due to configuration errors.\n")
             return
         }
 
         if verbose {
             for diag in diagnostics {
-                fputs("\(diag.severity): \(diag.message)\n", stderr)
+                writeStandardError("\(diag.severity): \(diag.message)\n")
             }
         }
 
@@ -41,9 +41,9 @@ public enum ProjectCommands {
         )
 
         if verbose {
-            fputs("Project: \(config.project.name)\n", stderr)
-            fputs("Collections: \(graph.collections.count)\n", stderr)
-            fputs("Documents: \(graph.allDocuments.count)\n", stderr)
+            writeStandardError("Project: \(config.project.name)\n")
+            writeStandardError("Collections: \(graph.collections.count)\n")
+            writeStandardError("Documents: \(graph.allDocuments.count)\n")
         }
 
         let builder = ProjectBuilder()
@@ -51,7 +51,7 @@ public enum ProjectCommands {
         if clean {
             let outputDir = projectRoot.appendingPathComponent(config.paths.output)
             try OutputManager().clean(outputDir)
-            if verbose { fputs("Cleaned output directory.\n", stderr) }
+            if verbose { writeStandardError("Cleaned output directory.\n") }
         }
 
         if allTargets {
@@ -68,7 +68,7 @@ public enum ProjectCommands {
                 let result = try await builder.build(target: name, graph: graph, projectRoot: projectRoot)
                 printBuildResult(result, verbose: verbose)
             } else {
-                fputs("No enabled targets found.\n", stderr)
+                writeStandardError("No enabled targets found.\n")
             }
         }
     }
@@ -130,7 +130,11 @@ public enum ProjectCommands {
 
         for diag in result.diagnostics {
             let icon = diag.severity == .error ? "❌" : diag.severity == .warning ? "⚠️" : "ℹ️"
-            fputs("  \(icon) \(diag.message)\n", stderr)
+            writeStandardError("  \(icon) \(diag.message)\n")
         }
+    }
+
+    private static func writeStandardError(_ message: String) {
+        FileHandle.standardError.write(Data(message.utf8))
     }
 }
