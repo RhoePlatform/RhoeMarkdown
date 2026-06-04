@@ -19,6 +19,8 @@ jobs:
         run: bash Scripts/CI/build-docc-pages.sh
       - uses: actions/configure-pages@v5
         if: ${{ !github.event.repository.private }}
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .build/docc-pages
