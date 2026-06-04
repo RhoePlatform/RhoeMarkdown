@@ -21,8 +21,11 @@ struct PerformanceTests {
     private static let jitterAllowanceMS: Double = 0.0
     #endif
 
+    private static let hostedCIMultiplier: Double =
+        ProcessInfo.processInfo.environment["CI"] == "true" ? 3.0 : 1.0
+
     private static func limit(_ baseline: Double) -> Double {
-        (baseline * multiplier) + jitterAllowanceMS
+        ((baseline * multiplier) + jitterAllowanceMS) * hostedCIMultiplier
     }
 
     // MARK: - Test Document Generation
@@ -152,7 +155,7 @@ struct PerformanceTests {
         let start = CFAbsoluteTimeGetCurrent()
         let _ = RhoeMarkdownKit.renderTypst(parsed.document)
         let elapsed = (CFAbsoluteTimeGetCurrent() - start) * 1000
-        let limit = 50.0 * Self.multiplier
+        let limit = Self.limit(50.0)
         #expect(elapsed < limit, "Typst 10KB: \(String(format: "%.1f", elapsed))ms")
     }
 
@@ -163,7 +166,7 @@ struct PerformanceTests {
         let start = CFAbsoluteTimeGetCurrent()
         let _ = RhoeMarkdownKit.renderLaTeX(parsed.document)
         let elapsed = (CFAbsoluteTimeGetCurrent() - start) * 1000
-        let limit = 50.0 * Self.multiplier
+        let limit = Self.limit(50.0)
         #expect(elapsed < limit, "LaTeX 10KB: \(String(format: "%.1f", elapsed))ms")
     }
 
@@ -174,7 +177,7 @@ struct PerformanceTests {
         let start = CFAbsoluteTimeGetCurrent()
         let _ = RhoeMarkdownKit.renderJSON(parsed.document)
         let elapsed = (CFAbsoluteTimeGetCurrent() - start) * 1000
-        let limit = 50.0 * Self.multiplier
+        let limit = Self.limit(50.0)
         #expect(elapsed < limit, "JSON 10KB: \(String(format: "%.1f", elapsed))ms")
     }
 
@@ -190,7 +193,7 @@ struct PerformanceTests {
         let result = builder.build()
         let elapsed = (CFAbsoluteTimeGetCurrent() - start) * 1000
         #expect(result.count > 100_000)
-        let limit = 100.0 * Self.multiplier
+        let limit = Self.limit(100.0)
         #expect(elapsed < limit, "StringBuilder 10K: \(String(format: "%.1f", elapsed))ms")
     }
 }

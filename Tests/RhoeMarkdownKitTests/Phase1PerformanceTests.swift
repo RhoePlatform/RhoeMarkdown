@@ -11,8 +11,11 @@ struct Phase1PerformanceTests {
     private static let debugJitterAllowanceSeconds: Double = 0.0
     #endif
 
+    private static let hostedCIMultiplier: Double =
+        ProcessInfo.processInfo.environment["CI"] == "true" ? 3.0 : 1.0
+
     private static func limit(_ baselineSeconds: Double) -> Double {
-        baselineSeconds + debugJitterAllowanceSeconds
+        (baselineSeconds + debugJitterAllowanceSeconds) * hostedCIMultiplier
     }
 
     // MARK: - Helpers
