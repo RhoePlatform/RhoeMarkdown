@@ -19,7 +19,7 @@ separate lanes.
   preserving a rich AST for downstream tools.
 - **Projection-ready compiler core**: parse once, render to many surfaces, and
   preserve semantic metadata for editors and publishing systems.
-- **Liquid preprocessing built in**: use RhoeLiquid `0.1.0` for variables,
+- **Liquid preprocessing built in**: use RhoeLiquid `0.1.1` for variables,
   conditionals, and repeatable document generation before Markdown parsing.
 - **Serious document formats**: generate HTML, LaTeX, Typst, DOCX, PDF, EPUB,
   JSON API payloads, slides, and project outputs from one compiler pipeline.

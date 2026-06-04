@@ -33,7 +33,7 @@ Markdown source
 
 ## Dependency Boundary
 
-RhoeMarkdown depends on public RhoeLiquid `0.1.0` for Phase 1 template
+RhoeMarkdown depends on public RhoeLiquid `0.1.1` for Phase 1 template
 preprocessing. The dependency is intentionally public and versioned so the
 compiler package can be consumed independently from private platform repos.
 

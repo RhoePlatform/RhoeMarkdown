@@ -29,7 +29,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/apple/swift-testing.git", revision: "a68a681c8adcd35be1b2b350a49cd0cf7031d084"),
         .package(url: "https://github.com/apple/swift-docc-plugin.git", from: "1.4.3"),
-        .package(url: "https://github.com/RhoePlatform/RhoeLiquid.git", from: "0.1.0"),
+        .package(url: "https://github.com/RhoePlatform/RhoeLiquid.git", from: "0.1.1"),
         .package(url: "https://github.com/hummingbird-project/hummingbird.git", from: "2.0.0"),
         .package(url: "https://github.com/hummingbird-project/hummingbird-websocket.git", from: "2.0.0"),
     ],

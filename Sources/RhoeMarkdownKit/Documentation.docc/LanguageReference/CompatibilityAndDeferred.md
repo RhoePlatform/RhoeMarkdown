@@ -13,7 +13,7 @@ RhoeMarkdown is deliberately larger than plain Markdown, but public release qual
 | CommonMark block and inline basics | Supported | Paragraphs, headings, lists, quotes, code, links, images, and thematic breaks. |
 | GitHub Flavored Markdown | Supported | Tables, task lists, and strikethrough are part of the public compiler surface. |
 | Pandoc-style attributes | Supported | Parsed into `Attributes(id:classes:keyValues:)`; exact renderer behavior varies by output. |
-| Liquid preprocessing | Supported | Backed by public `RhoeLiquid 0.1.0`. |
+| Liquid preprocessing | Supported | Backed by public `RhoeLiquid 0.1.1`. |
 | Semantic blocks | Supported | `!!!` admonitions, formal blocks, contracts, and semantic components. |
 | Visual/layout blocks | Supported | `:::` containers, visual blocks, grids, columns, widgets, tabs, and modules. |
 | Math | Supported | Inline/display math are preserved and rendered by format-specific writers. |

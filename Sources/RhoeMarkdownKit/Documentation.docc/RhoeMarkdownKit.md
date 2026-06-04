@@ -35,7 +35,7 @@ projection metadata.
 - CommonMark/GFM-oriented parsing plus RhoeMarkdown extensions.
 - HTML, LaTeX, Typst, DOCX, PDF, EPUB, and JSON API rendering surfaces.
 - Slide, grid, shape, icon, math, and project-build projection support.
-- Phase 1 Liquid preprocessing through public RhoeLiquid `0.1.0`.
+- Phase 1 Liquid preprocessing through public RhoeLiquid `0.1.1`.
 - WebAssembly-facing compiler target for browser integrations.
 - `rhoemd` command-line compiler and preview/service substrate.
 
