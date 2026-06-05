@@ -31,7 +31,7 @@ public struct RhoeHTMLRenderer: Sendable {
         var builder = HTMLStringBuilder(estimatedSize: document.blocks.count * 200)
 
         if configuration.wrapInDocument {
-            builder.append("<main class=\"rhoe-document\" data-rhoe-node=\"Document\" data-rhoe-version=\"0.1.0\">\n")
+            builder.append("<main class=\"rhoe-document\" data-rhoe-node=\"Document\" data-rhoe-version=\"\(RhoeMarkdownKit.version)\">\n")
             if configuration.includeDefaultCSS {
                 builder.append("<style>\n\(RhoeDefaultCSS.stylesheet)\n</style>\n")
             }

@@ -10,6 +10,11 @@ bash Scripts/CI/validate-language-reference.sh
 bash Scripts/CI/validate-homebrew-template.sh
 swift package dump-package > /dev/null
 swift build
+if [[ "$(uname -s)" == "Darwin" ]]; then
+    swift build --product rhoemd-preview-menu
+else
+    echo "PREVIEW_MENU_BUILD SKIP macOS-only MenuBarExtra target"
+fi
 swift build -c release --product rhoemd
 swift test
 bash Scripts/CI/validate-examples.sh

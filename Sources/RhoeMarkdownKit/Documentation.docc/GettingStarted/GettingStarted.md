@@ -7,7 +7,7 @@ multi-format rendering and a command-line tool.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/RhoePlatform/RhoeMarkdown.git", from: "0.1.0")
+    .package(url: "https://github.com/RhoePlatform/RhoeMarkdown.git", from: "0.1.1")
 ]
 ```
 

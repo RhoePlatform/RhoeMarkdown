@@ -26,7 +26,7 @@ import Foundation
 public struct RhoeMarkdownKit {
 
     /// Current public release version of RhoeMarkdownKit.
-    public static let version = "0.1.0"
+    public static let version = "0.1.1"
 
     /// Build date for diagnostics and runtime provenance.
     public static let buildDate = Date()

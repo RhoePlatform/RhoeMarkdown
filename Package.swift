@@ -25,6 +25,7 @@ let package = Package(
         .library(name: "RhoeMarkdownWasm", targets: ["RhoeMarkdownWasm"]),
         .library(name: "RhoeProjectKitCore", targets: ["RhoeProjectKitCore"]),
         .executable(name: "rhoemd", targets: ["rhoemd"]),
+        .executable(name: "rhoemd-preview-menu", targets: ["rhoemd-preview-menu"]),
     ],
     dependencies: [
         .package(url: "https://github.com/apple/swift-testing.git", revision: "a68a681c8adcd35be1b2b350a49cd0cf7031d084"),
@@ -120,6 +121,12 @@ let package = Package(
             path: "Sources/rhoemd",
             swiftSettings: strictSwiftSettings
         ),
+        .executableTarget(
+            name: "rhoemd-preview-menu",
+            dependencies: ["RhoeMDServer"],
+            path: "Sources/rhoemd-preview-menu",
+            swiftSettings: strictSwiftSettings
+        ),
         .target(
             name: "RhoeMarkdownWasm",
             dependencies: [
@@ -162,6 +169,7 @@ let package = Package(
             name: "rhoemdTests",
             dependencies: [
                 "RhoeMDCore",
+                "RhoeMDServer",
                 .product(name: "Testing", package: "swift-testing"),
             ],
             path: "Tests/rhoemdTests",

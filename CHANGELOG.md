@@ -2,6 +2,15 @@
 
 All notable changes to RhoeMarkdown are documented here.
 
+## 0.1.1 - Preview control release
+
+### Added
+
+- macOS 26 `rhoemd-preview-menu` MenuBarExtra companion for the preview daemon.
+- Shared preview daemon control endpoints for health, route listing, route removal, and shutdown.
+- `PreviewDaemonControlClient` for menu, CLI, and automation tooling.
+- Homebrew template support for installing `rhoemd`, `markdown`, and the macOS-only preview menu companion.
+
 ## 0.1.0 - Foundation release candidate
 
 ### Added

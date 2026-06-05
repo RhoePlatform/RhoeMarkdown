@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Swift](https://img.shields.io/badge/Swift-6.2-orange.svg)](Package.swift)
-[![Release](https://img.shields.io/badge/release-0.1.0-green.svg)](CHANGELOG.md)
+[![Release](https://img.shields.io/badge/release-0.1.1-green.svg)](CHANGELOG.md)
 
 RhoeMarkdown is the public Swift compiler engine for semantic Markdown in the
 RhoePlatform ecosystem. It parses author-friendly Markdown into a structured
@@ -32,7 +32,7 @@ Add RhoeMarkdown to a Swift package:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/RhoePlatform/RhoeMarkdown.git", from: "0.1.0")
+    .package(url: "https://github.com/RhoePlatform/RhoeMarkdown.git", from: "0.1.1")
 ]
 ```
 
@@ -54,6 +54,10 @@ Build the CLI from source:
 swift build -c release --product rhoemd
 ./.build/release/rhoemd --version
 ```
+
+The Homebrew release installs two command names for the same compiler:
+`rhoemd` is the canonical RhoePlatform command, and `markdown` is the friendly
+full-name alias.
 
 Build the CLI for Linux:
 
@@ -85,6 +89,21 @@ Render to Typst:
 rhoemd Examples/sources/typst-paper.md -o Examples/outputs/typst-paper.typ --format typst
 ```
 
+Start a non-blocking browser preview backed by the shared local daemon:
+
+```bash
+rhoemd preview Examples/sources/research-note.md -o /research-note
+```
+
+The command starts or reuses the same local Hummingbird preview server, watches
+the source file for changes, prints the preview URL plus daemon PID, and returns
+control to your shell. Register another document with a different route to serve
+both from the same daemon.
+
+On macOS 26, preview commands also launch the `rhoemd-preview-menu` menu bar
+extra by default. Use `--no-menu` or `RHOEMD_PREVIEW_MENU=0` to keep scripts
+CLI-only.
+
 Build all checked-in examples:
 
 ```bash
@@ -100,7 +119,10 @@ The first public release exposes the compiler-focused surface:
 - `RhoeMDCore`: reusable CLI core.
 - `RhoeMDServer`: preview and service support.
 - `RhoeProjectKitCore`: project-build substrate required by `rhoemd`.
-- `rhoemd`: command-line compiler.
+- `rhoemd`: command-line compiler, installed with the `markdown` alias through
+  Homebrew.
+- `rhoemd-preview-menu`: macOS-only menu bar companion for preview daemon
+  control.
 
 Deferred to later lanes:
 
@@ -168,12 +190,14 @@ release candidate passes these checks.
 ## Homebrew
 
 The Homebrew formula template lives in `Packaging/Homebrew/`. Publication is
-deferred until the clean initial commit, `v0.1.0` tag, and release audit are
+deferred until the clean initial commit, public tag, and release audit are
 complete. Bottle publication will use the RhoePlatform tap:
 
 ```bash
 brew tap RhoePlatform/rhoe
 brew install rhoe-markdown
+rhoemd --version
+markdown --version
 ```
 
 ## License

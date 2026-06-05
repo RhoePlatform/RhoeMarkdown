@@ -29,8 +29,9 @@ as a statically linked Linux executable.
   Darwin, Musl, Glibc, and OSLog availability explicitly.
 - Conditional: live preview/server behavior depends on the active Swift/Linux
   dependency graph and remains validated through the full `rhoemd` product build.
-- Excluded from this target: SwiftUI/native preview applications, app-extension
-  surfaces, DocC rendering itself, and Homebrew bottle publication.
+- Excluded from this target: the macOS-only `rhoemd-preview-menu` MenuBarExtra,
+  SwiftUI/native preview applications, app-extension surfaces, DocC rendering
+  itself, and Homebrew bottle publication.
 
 ## Local Verification
 

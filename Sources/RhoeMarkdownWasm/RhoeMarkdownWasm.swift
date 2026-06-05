@@ -32,7 +32,7 @@ import RhoeMarkdownRendering
 public struct RhoeMarkdownWasm: Sendable {
 
     /// Current public release version of the WebAssembly-facing API.
-    public static let version = "0.1.0"
+    public static let version = "0.1.1"
 
     // MARK: - Parse
 

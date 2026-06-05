@@ -17,6 +17,12 @@ if args.count >= 2 {
     case "serve":
         try await handleServeCommand(args)
         exit(0)
+    case "preview":
+        try await handlePreviewCommand(args)
+        exit(0)
+    case "__preview-daemon":
+        try await handlePreviewDaemonCommand(args)
+        exit(0)
     default:
         break // Fall through to single-file mode
     }
@@ -74,7 +80,7 @@ do {
 
 func handleServeCommand(_ args: [String]) async throws {
     guard args.count >= 3 else {
-        writeStandardError("Usage: rhoemd serve <file.md> [--port 3000] [--host 127.0.0.1] [--no-open] [-v]\n")
+        writeStandardError("Usage: rhoemd serve <file.md> [--port 3000] [--host 127.0.0.1] [--no-open] [--no-menu] [-v]\n")
         exit(1)
     }
 
@@ -82,6 +88,7 @@ func handleServeCommand(_ args: [String]) async throws {
     var port = 3000
     var host = "127.0.0.1"
     var openBrowser = true
+    var launchMenu = true
     var verbose = false
 
     var i = 3
@@ -93,6 +100,8 @@ func handleServeCommand(_ args: [String]) async throws {
             i += 1; if i < args.count { host = args[i] }
         case "--no-open":
             openBrowser = false
+        case "--no-menu":
+            launchMenu = false
         case "-v", "--verbose":
             verbose = true
         default: break
@@ -108,9 +117,121 @@ func handleServeCommand(_ args: [String]) async throws {
 
     let server = PreviewServer(
         file: inputURL.path,
-        configuration: .init(host: host, port: port, openBrowser: openBrowser, verbose: verbose)
+        configuration: .init(
+            host: host,
+            port: port,
+            openBrowser: openBrowser,
+            launchMenu: launchMenu,
+            verbose: verbose,
+            menuExecutableHint: CommandLine.arguments[0]
+        )
     )
     try await server.start()
+}
+
+// MARK: - Preview Subcommand
+
+func handlePreviewCommand(_ args: [String]) async throws {
+    guard args.count >= 3 else {
+        writeStandardError("Usage: rhoemd preview <file.md> [-o /url-path] [--port 37911] [--host 127.0.0.1] [--no-open] [--no-menu] [-p] [-v]\n")
+        exit(1)
+    }
+
+    let file = args[2]
+    var output: String?
+    var port = 37911
+    var host = "127.0.0.1"
+    var openBrowser = true
+    var launchMenu = true
+    var prettyPrint = false
+    var verbose = false
+
+    var i = 3
+    while i < args.count {
+        switch args[i] {
+        case "-o", "--output":
+            i += 1; if i < args.count { output = args[i] }
+        case "--port":
+            i += 1; if i < args.count { port = Int(args[i]) ?? 37911 }
+        case "--host":
+            i += 1; if i < args.count { host = args[i] }
+        case "--no-open":
+            openBrowser = false
+        case "--no-menu":
+            launchMenu = false
+        case "-p", "--pretty":
+            prettyPrint = true
+        case "-v", "--verbose":
+            verbose = true
+        default:
+            break
+        }
+        i += 1
+    }
+
+    do {
+        let result = try await PreviewDaemonClient.startOrAttach(
+            executablePath: CommandLine.arguments[0],
+            options: .init(
+                sourcePath: file,
+                output: output,
+                host: host,
+                port: port,
+                openBrowser: openBrowser,
+                prettyPrint: prettyPrint,
+                verbose: verbose
+            )
+        )
+        let response = result.response
+        print("Preview: \(response.url)")
+        print("Route: \(response.route)\(response.fallbackApplied ? " (fallback applied)" : "")")
+        print("Daemon PID: \(response.pid)\(result.daemonReused ? " (reused)" : " (started)")")
+        print("Log: \(result.logPath)")
+        if launchMenu {
+            _ = PreviewMenuLauncher.launchIfNeeded(relativeTo: CommandLine.arguments[0])
+        }
+    } catch {
+        writeStandardError("rhoemd preview: \(error.localizedDescription)\n")
+        exit(1)
+    }
+}
+
+func handlePreviewDaemonCommand(_ args: [String]) async throws {
+    var port = 37911
+    var host = "127.0.0.1"
+    var verbose = false
+    var registryURL = PreviewDaemonRegistry.defaultRecordURL
+    var logURL = PreviewDaemonRegistry.defaultLogURL
+
+    var i = 2
+    while i < args.count {
+        switch args[i] {
+        case "--port":
+            i += 1; if i < args.count { port = Int(args[i]) ?? 37911 }
+        case "--host":
+            i += 1; if i < args.count { host = args[i] }
+        case "--registry":
+            i += 1; if i < args.count { registryURL = URL(fileURLWithPath: args[i]) }
+        case "--log":
+            i += 1; if i < args.count { logURL = URL(fileURLWithPath: args[i]) }
+        case "-v", "--verbose":
+            verbose = true
+        default:
+            break
+        }
+        i += 1
+    }
+
+    let daemon = PreviewDaemon(
+        configuration: .init(
+            host: host,
+            port: port,
+            verbose: verbose,
+            registryURL: registryURL,
+            logURL: logURL
+        )
+    )
+    try await daemon.run()
 }
 
 // MARK: - Project Subcommand Handlers

@@ -122,7 +122,7 @@ struct SprintV32AConformanceTests {
         let html = RhoeMarkdownKit.renderHTML(result.document, configuration: config)
         #expect(html.contains("<main class=\"rhoe-document\""))
         #expect(html.contains("data-rhoe-node=\"Document\""))
-        #expect(html.contains("data-rhoe-version=\"0.1.0\""))
+        #expect(html.contains("data-rhoe-version=\"\(RhoeMarkdownKit.version)\""))
         #expect(html.contains("</main>"))
     }
 

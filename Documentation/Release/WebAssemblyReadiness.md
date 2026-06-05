@@ -1,7 +1,7 @@
 # WebAssembly Readiness
 
 `RhoeMarkdownWasm` is the browser/editor-facing compilation target for the
-public package. The `0.1.0` release gate validates that the target compiles with
+public package. The `0.1.1` release gate validates that the target compiles with
 Swift's WASI SDK; JavaScript packaging and npm publication are deferred to a
 later lane.
 

@@ -13,9 +13,13 @@ fi
 
 required=(
   "class RhoeMarkdown < Formula"
-  "version \"0.1.0\""
+  "version \"0.1.1\""
   "license \"Apache-2.0\""
   "rhoemd"
+  'bin.install_symlink bin/"rhoemd" => "markdown"'
+  'bin.install "rhoemd-preview-menu" if OS.mac?'
+  '#{bin}/rhoemd-preview-menu --status-json'
+  '#{bin}/markdown --version'
   "__ARM64_TAHOE_SHA256__"
   "__X86_64_LINUX_SHA256__"
 )

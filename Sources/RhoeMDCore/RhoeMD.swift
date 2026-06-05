@@ -375,6 +375,10 @@ public enum RhoeMD {
           rhoemd build --clean               Clean build
           rhoemd project validate            Validate project configuration
           rhoemd project targets             List defined targets
+          rhoemd preview <file.md> -o /path  Start/reuse live preview daemon
+          rhoemd preview <file.md> --no-menu Disable macOS menu extra launch
+          rhoemd serve <file.md>             Run foreground single-file preview
+          rhoemd serve <file.md> --no-menu   Disable macOS menu extra launch
         """
     }
 
